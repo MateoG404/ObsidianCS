@@ -1,10 +1,12 @@
 {
-  "spellcheck": false,
+  "spellcheck": true,
   "spellcheckLanguages": [
     "es",
     "en-US"
   ],
   "spellcheckDictionary": [
-    "effiency"
-  ]
+    "effiency",
+    "Eulerian"
+  ],
+  "alwaysUpdateLinks": true
 }

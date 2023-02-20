@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic-a79c1": "",
+      "Básico": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "Básico (tarjeta invertida opcional)": "",
+      "Básico (teclear la respuesta)": "",
+      "Básico (y tarjeta invertida)": "",
+      "Respuesta anidada": "",
+      "English new words-163e4": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic-a79c1": "Front",
+      "Básico": "Anverso",
+      "Básico (tarjeta invertida opcional)": "Anverso",
+      "Básico (teclear la respuesta)": "Anverso",
+      "Básico (y tarjeta invertida)": "Anverso",
+      "Respuesta anidada": "Texto"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Algorithms": "Algorithms"
+    },
+    "FOLDER_TAGS": {
+      "Algorithms": "#algorithms"
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian",
+      "Deck": "Algorithms",
+      "Scheduling Interval": 0,
+      "Add File Link": true,
+      "Add Context": true,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": true
+    }
+  },
+  "Added Media": [
+    "Pasted image 20230219194411.png",
+    "Pasted image 20230219194523.png"
+  ],
+  "File Hashes": {
+    "Scalability.md": "f15cd036c577b370db7e22e8f9cb2805",
+    "Running Time.md": "fecf4b22800a2c4546f879c218e9a084",
+    "Pseudocode.md": "2d28ac42701a904202a8a59e563c09a9",
+    "Notas de clase.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "NP-Complete Problems.md": "59c45e7a3fb13289dd31323de98e11fc",
+    "Efficiency.md": "0fb61650b4dba47af74d9bb81314e3e3",
+    "Data Structures.md": "272b64e86521794d85478dfdfe6ea8fe",
+    "Data Flow Diagram.md": "c9bded87606fedfcff0413452a2acd30",
+    "Algorithm.md": "45180a7edd422aecfb7e4d7d3b702407",
+    "test.md": "ca40b594de02f0b4e147086ef7eb6bc4",
+    "Algorithms/Data Flow Diagram.md": "e4b9f7d9dce6a7fae55e80c10dcd95c5",
+    "Algorithms/Algorithm.md": "ca0cc5cd7270dce8eeb09ae752d3463b",
+    "Algorithms/Scalability.md": "68e017cec0f2214373f57897124b7109",
+    "Algorithms/Running Time.md": "7f3b75ef2e10bd271e5618d4d713b429",
+    "Algorithms/Pseudocode.md": "5c6ff00f678c08ee3a4978906c894873",
+    "Algorithms/NP-Complete Problems.md": "0d5f059b900813223204767db89fd7e4",
+    "Algorithms/Notas de clase.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Algorithms/Efficiency.md": "e48f8347ab3f7c741c6cef5e98f11d48",
+    "Algorithms/Data Structures.md": "6edada4c340cd974afb331210f08f085",
+    "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Polynomial Functions.md": "39fd8d67c0db8dcb66f459ddd22d2d12",
+    "Reasonable time.md": "f945b3897b08c966c230a6d80e921eab",
+    "Tractable Algorithm.md": "18a7ea30776016ba27418ea01ad59276",
+    "tes 1.md": "a447100be8c7d9821427c40cde68c3ca",
+    "c.md": "aa1d172c2552d92dfc3cfc16ca6a175f",
+    "cdsvsd.md": "c5835a40b466074cc1b56c796b6ea9d3",
+    "Decision Problems.md": "968835935b21061ec27c067185c4f33c",
+    "Unreasonable time.md": "cd69e539aeb4ad52a265b7273cc75c35",
+    "Intractable Algorithm.md": "16cccb7331a4479bf2ccf9d4471d6ba9",
+    "P - Problem.md": "6a403c57417177a94f6175d1356d8172",
+    "NP - Problem.md": "abc1492efe43e92c68dd6be4dde3202a",
+    "Certificate.md": "78e9e4ef6b3806a7fbda9b38b4fbbc12",
+    "Eulerian Path.md": "e577932d1eee3b39bba8f1a6168fbdaa",
+    "Hamiltonian Path.md": "7a3b9111cb5952b6e4b2a5bf8c5e4ea2",
+    "Nondeterministic.md": "f5708a5c6b793adde6a0920bdccec740",
+    "Polynomial-Time reduction.md": "9deaeffd14952879ae5dc2fa8d30e7b6"
+  },
+  "fields_dict": {
+    "Basic-a79c1": [
+      "Front",
+      "Back"
+    ],
+    "Básico": [
+      "Anverso",
+      "Reverso"
+    ],
+    "Básico (tarjeta invertida opcional)": [
+      "Anverso",
+      "Reverso",
+      "Añadir reverso"
+    ],
+    "Básico (teclear la respuesta)": [
+      "Anverso",
+      "Reverso"
+    ],
+    "Básico (y tarjeta invertida)": [
+      "Anverso",
+      "Reverso"
+    ],
+    "English new words-163e4": [
+      "Word",
+      "Cloze",
+      "Phonetic symbol",
+      "Audio",
+      "Definition",
+      "Extra information",
+      "Picture",
+      "Synonyms"
+    ],
+    "Respuesta anidada": [
+      "Texto",
+      "Reverso Extra"
+    ]
+  }
+}

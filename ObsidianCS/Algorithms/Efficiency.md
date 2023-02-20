@@ -1,3 +1,5 @@
+## What is the meaning of Efficiency ? #flashcard #algorithms 
+
 > **Definition**: The efficiency is the measure of [[Algorithm]] which is used by determinate the amount of resources that an [[Algorithm]] uses to solve a problem
 
 
