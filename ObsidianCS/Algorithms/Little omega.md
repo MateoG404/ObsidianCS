@@ -1,4 +1,4 @@
-
+	
 ## Little omega definition
 
 -> It's a function lower bounded by another function that couldn't be equal

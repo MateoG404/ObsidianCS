@@ -19,10 +19,12 @@
     },
     "CONTEXT_FIELDS": {},
     "FOLDER_DECKS": {
-      "Algorithms": "Algorithms"
+      "Algorithms": "Algorithms",
+      "Operating System": ""
     },
     "FOLDER_TAGS": {
-      "Algorithms": "#algorithms"
+      "Algorithms": "#algorithms",
+      "Operating System": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -35,8 +37,8 @@
       "Frozen Fields Line": "FROZEN"
     },
     "Defaults": {
-      "Tag": "Obsidian",
-      "Deck": "Algorithms",
+      "Tag": "flashcard",
+      "Deck": "Operating System",
       "Scheduling Interval": 0,
       "Add File Link": true,
       "Add Context": true,
@@ -47,46 +49,48 @@
     }
   },
   "Added Media": [
+    "Pasted image 20230219194523.png",
     "Pasted image 20230219194411.png",
-    "Pasted image 20230219194523.png"
+    "Pasted image 20230301101243.png",
+    "Pasted image 20230301103152.png",
+    "Pasted image 20230301103444.png",
+    "Pasted image 20230301103515.png",
+    "Pasted image 20230301103535.png"
   ],
   "File Hashes": {
-    "Scalability.md": "f15cd036c577b370db7e22e8f9cb2805",
-    "Running Time.md": "fecf4b22800a2c4546f879c218e9a084",
-    "Pseudocode.md": "2d28ac42701a904202a8a59e563c09a9",
-    "Notas de clase.md": "d41d8cd98f00b204e9800998ecf8427e",
-    "NP-Complete Problems.md": "59c45e7a3fb13289dd31323de98e11fc",
-    "Efficiency.md": "0fb61650b4dba47af74d9bb81314e3e3",
-    "Data Structures.md": "272b64e86521794d85478dfdfe6ea8fe",
-    "Data Flow Diagram.md": "c9bded87606fedfcff0413452a2acd30",
-    "Algorithm.md": "45180a7edd422aecfb7e4d7d3b702407",
-    "test.md": "ca40b594de02f0b4e147086ef7eb6bc4",
-    "Algorithms/Data Flow Diagram.md": "e4b9f7d9dce6a7fae55e80c10dcd95c5",
-    "Algorithms/Algorithm.md": "ca0cc5cd7270dce8eeb09ae752d3463b",
+    "Untitlvdsved.md": "1556dcb0badf4043856ce41745e275ee",
+    "Operating System/Operating System.md": "800d63416cea898f38f401d0b715f2c0",
+    "Algorithms/Unreasonable time.md": "cd69e539aeb4ad52a265b7273cc75c35",
+    "Algorithms/Tractable Algorithm.md": "18a7ea30776016ba27418ea01ad59276",
     "Algorithms/Scalability.md": "68e017cec0f2214373f57897124b7109",
     "Algorithms/Running Time.md": "7f3b75ef2e10bd271e5618d4d713b429",
+    "Algorithms/Recurrence relation.md": "3d77ef8f9c272baba143dfc8ae5220f5",
+    "Algorithms/Reasonable time.md": "f945b3897b08c966c230a6d80e921eab",
     "Algorithms/Pseudocode.md": "5c6ff00f678c08ee3a4978906c894873",
+    "Algorithms/Polynomial-Time reduction.md": "9deaeffd14952879ae5dc2fa8d30e7b6",
+    "Algorithms/Polynomial Functions.md": "39fd8d67c0db8dcb66f459ddd22d2d12",
+    "Algorithms/P - Problem.md": "6a403c57417177a94f6175d1356d8172",
+    "Algorithms/Nondeterministic.md": "f5708a5c6b793adde6a0920bdccec740",
     "Algorithms/NP-Complete Problems.md": "0d5f059b900813223204767db89fd7e4",
-    "Algorithms/Notas de clase.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Algorithms/NP - Problem.md": "abc1492efe43e92c68dd6be4dde3202a",
+    "Algorithms/Master Theorem.md": "3b5207cd64a719a6df3b9932fb4c76cb",
+    "Algorithms/Little omega.md": "aa43ad90ac256b89f5a54f8b9bf43d5b",
+    "Algorithms/Little o.md": "0314df9fc5814090e7d31007f84aaf09",
+    "Algorithms/Intractable Algorithm.md": "16cccb7331a4479bf2ccf9d4471d6ba9",
+    "Algorithms/Hamiltonian Path.md": "7a3b9111cb5952b6e4b2a5bf8c5e4ea2",
+    "Algorithms/Eulerian Path.md": "e577932d1eee3b39bba8f1a6168fbdaa",
     "Algorithms/Efficiency.md": "e48f8347ab3f7c741c6cef5e98f11d48",
+    "Algorithms/Decision Problems.md": "968835935b21061ec27c067185c4f33c",
     "Algorithms/Data Structures.md": "6edada4c340cd974afb331210f08f085",
-    "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
-    "Polynomial Functions.md": "39fd8d67c0db8dcb66f459ddd22d2d12",
-    "Reasonable time.md": "f945b3897b08c966c230a6d80e921eab",
-    "Tractable Algorithm.md": "18a7ea30776016ba27418ea01ad59276",
-    "tes 1.md": "a447100be8c7d9821427c40cde68c3ca",
-    "c.md": "aa1d172c2552d92dfc3cfc16ca6a175f",
-    "cdsvsd.md": "c5835a40b466074cc1b56c796b6ea9d3",
-    "Decision Problems.md": "968835935b21061ec27c067185c4f33c",
-    "Unreasonable time.md": "cd69e539aeb4ad52a265b7273cc75c35",
-    "Intractable Algorithm.md": "16cccb7331a4479bf2ccf9d4471d6ba9",
-    "P - Problem.md": "6a403c57417177a94f6175d1356d8172",
-    "NP - Problem.md": "abc1492efe43e92c68dd6be4dde3202a",
-    "Certificate.md": "78e9e4ef6b3806a7fbda9b38b4fbbc12",
-    "Eulerian Path.md": "e577932d1eee3b39bba8f1a6168fbdaa",
-    "Hamiltonian Path.md": "7a3b9111cb5952b6e4b2a5bf8c5e4ea2",
-    "Nondeterministic.md": "f5708a5c6b793adde6a0920bdccec740",
-    "Polynomial-Time reduction.md": "9deaeffd14952879ae5dc2fa8d30e7b6"
+    "Algorithms/Data Flow Diagram.md": "e4b9f7d9dce6a7fae55e80c10dcd95c5",
+    "Algorithms/Certificate.md": "78e9e4ef6b3806a7fbda9b38b4fbbc12",
+    "Algorithms/Big Theta.md": "850fbfeca5ae63035f8fee29e558448b",
+    "Algorithms/Big Omega.md": "17afe77ff9f19384a163c613812316c5",
+    "Algorithms/Big O.md": "4030dd8c5a138d99f6d7c0fae9eb005e",
+    "Algorithms/Asymptotic Notation.md": "a09b7f968cdee0a34374f7f54172acc1",
+    "Algorithms/Algorithms Excercise.md": "4a54b078933477d213838ed95c7b6949",
+    "Algorithms/Algorithm.md": "ca0cc5cd7270dce8eeb09ae752d3463b",
+    "Kernel.md": "6c5f68d84db4755fd1e49b2b5c917fff"
   },
   "fields_dict": {
     "Basic-a79c1": [

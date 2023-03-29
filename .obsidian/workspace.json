@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "cb14ef16eafa4dc6",
+    "id": "925cde2ea0547d1e",
     "type": "split",
     "children": [
       {
-        "id": "c0fbf502ad9679e2",
+        "id": "1f8c69e0a52979e3",
         "type": "tabs",
         "children": [
           {
-            "id": "392dd4ec245c1680",
+            "id": "d3fa41ab83efce3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07b3628c3892fc56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kernel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1826c8b4680c691a",
+    "id": "954c2cf28f479d1c",
     "type": "split",
     "children": [
       {
-        "id": "703a15fd280455e1",
+        "id": "b029fa6fba0b8959",
         "type": "tabs",
         "children": [
           {
-            "id": "2a221d237e9e7c5b",
+            "id": "7ffcc8198bcf4930",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,13 +39,13 @@
             }
           },
           {
-            "id": "5da8625ddb407884",
+            "id": "122096bb56cabc84",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "148c023f1f828ae6",
+            "id": "368474ad9b34dc9c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "e2f0ca665b8fb7c9",
+    "id": "d0a30b9a58837e7e",
     "type": "split",
     "children": [
       {
-        "id": "29c4e6c3ef3fce12",
+        "id": "778b39d4b684f607",
         "type": "tabs",
         "children": [
           {
-            "id": "757ba3b36f79555e",
+            "id": "b741cbb4509269e1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "0f8f184da2004fc9",
+            "id": "5b1c4fc279d6d507",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a121f26f6b36801e",
+            "id": "dd9634f2e96a73f0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "ced8683bfa34cf4e",
+            "id": "af7ff34d459ec802",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kernel.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,35 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "07b3628c3892fc56",
-  "lastOpenFiles": [
-    "Operating System/Operating System.md",
-    "Kernel.md",
-    "Operating System/SO_Introduccion.xopp~",
-    "Untitlvdsved.md",
-    "Operating System/SO_Introduccion.xopp",
-    "Algorithms/P - Problem.md",
-    "Algorithms/NP - Problem.md",
-    "Algorithms/Algorithms Excercise.md",
-    "Operating System",
-    "2023-03-29.md",
-    "Algorithms/Big Theta.md",
-    "Algorithms/Big O.md",
-    "Algorithms/Big Omega.md",
-    "Algorithms/Master Theorem.md",
-    "Algorithms/Asymptotic Notation.md",
-    "Algorithms/Little omega.md",
-    "Algorithms/Polynomial-Time reduction.md",
-    "Algorithms/Nondeterministic.md",
-    "Algorithms/Certificate.md",
-    "Algorithms/Hamiltonian Path.md",
-    "Algorithms/Eulerian Path.md",
-    "Algorithms/NP-Complete Problems.md",
-    "Algorithms/Unreasonable time.md",
-    "cdsvsd.md"
-  ]
+  "active": "7ffcc8198bcf4930",
+  "lastOpenFiles": []
 }

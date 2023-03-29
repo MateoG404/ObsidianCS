@@ -8,3 +8,4 @@ Mathematically the **recurrence relation** is expressed by:
 		$\frac{n}{b}$ : Size of each subproblem 
 		$f(c)$: Cost of make a call recursion
 		  
+<!--ID: 1680112789650-->
