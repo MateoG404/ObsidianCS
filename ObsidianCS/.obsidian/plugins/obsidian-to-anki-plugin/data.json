@@ -59,7 +59,7 @@
   ],
   "File Hashes": {
     "Untitlvdsved.md": "1556dcb0badf4043856ce41745e275ee",
-    "Operating System/Operating System.md": "800d63416cea898f38f401d0b715f2c0",
+    "Operating System/Operating System.md": "582cfb55bef573a1c1e334ac9b1315f5",
     "Algorithms/Unreasonable time.md": "cd69e539aeb4ad52a265b7273cc75c35",
     "Algorithms/Tractable Algorithm.md": "18a7ea30776016ba27418ea01ad59276",
     "Algorithms/Scalability.md": "68e017cec0f2214373f57897124b7109",
@@ -90,7 +90,10 @@
     "Algorithms/Asymptotic Notation.md": "a09b7f968cdee0a34374f7f54172acc1",
     "Algorithms/Algorithms Excercise.md": "4a54b078933477d213838ed95c7b6949",
     "Algorithms/Algorithm.md": "ca0cc5cd7270dce8eeb09ae752d3463b",
-    "Kernel.md": "6c5f68d84db4755fd1e49b2b5c917fff"
+    "Kernel.md": "6c5f68d84db4755fd1e49b2b5c917fff",
+    "Operating System/Kernel.md": "8e53780eecffe385888edb6b2438965c",
+    "Machine Learning/Support Vector Machines.md": "efa3a7b808f31a4fce9c45b2f796850d",
+    "Hyperplane.md": "d41d8cd98f00b204e9800998ecf8427e"
   },
   "fields_dict": {
     "Basic-a79c1": [

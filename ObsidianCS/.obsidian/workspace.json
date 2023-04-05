@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c0fbf502ad9679e2",
+        "id": "054d08ba8d054059",
         "type": "tabs",
         "children": [
           {
-            "id": "392dd4ec245c1680",
+            "id": "40cfc39e8f8d3a41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07b3628c3892fc56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kernel.md",
+                "file": "Operating System/Kernel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kernel.md",
+                "file": "Operating System/Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kernel.md",
+                "file": "Operating System/Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kernel.md"
+                "file": "Operating System/Kernel.md"
               }
             }
           }
@@ -160,16 +147,22 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "07b3628c3892fc56",
+  "active": "40cfc39e8f8d3a41",
   "lastOpenFiles": [
+    "Operating System/Procesos.xopp~",
     "Operating System/Operating System.md",
-    "Kernel.md",
+    "Operating System/Procesos.xopp",
+    "Operating System/SO_Introduccion.pdf",
     "Operating System/SO_Introduccion.xopp~",
+    "Operating System/Kernel.md",
+    "Algorithms/Algorithms Excercise.md",
+    "Hyperplane.md",
+    "Machine Learning/Support Vector Machines.md",
+    "Machine Learning",
     "Untitlvdsved.md",
     "Operating System/SO_Introduccion.xopp",
     "Algorithms/P - Problem.md",
     "Algorithms/NP - Problem.md",
-    "Algorithms/Algorithms Excercise.md",
     "Operating System",
     "2023-03-29.md",
     "Algorithms/Big Theta.md",

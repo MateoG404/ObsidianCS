@@ -25,7 +25,7 @@ The operating system is so important to communicate the **hardware** with the **
 <!--ID: 1680112789644-->
 
 
-## What is a control System in SO? #flashcard 
+## What is a control System (Sys call) in SO? #flashcard 
 
 It's the section in charge of make the instructions than the software say into the hardware
 <!--ID: 1680115856788-->
