@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1f8c69e0a52979e3",
+        "id": "ba6a8246193ac22b",
         "type": "tabs",
         "children": [
           {
-            "id": "d3fa41ab83efce3a",
+            "id": "4518853e6ef1975d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,6 +138,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ffcc8198bcf4930",
-  "lastOpenFiles": []
+  "active": "4518853e6ef1975d",
+  "lastOpenFiles": [
+    "ObsidianCS/Algorithms/NP-Complete Problems.md"
+  ]
 }
