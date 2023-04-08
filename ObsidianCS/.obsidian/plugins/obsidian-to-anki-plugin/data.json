@@ -55,7 +55,8 @@
     "Pasted image 20230301103152.png",
     "Pasted image 20230301103444.png",
     "Pasted image 20230301103515.png",
-    "Pasted image 20230301103535.png"
+    "Pasted image 20230301103535.png",
+    "Pasted image 20230407200729.png"
   ],
   "File Hashes": {
     "Untitlvdsved.md": "1556dcb0badf4043856ce41745e275ee",
@@ -93,7 +94,15 @@
     "Kernel.md": "6c5f68d84db4755fd1e49b2b5c917fff",
     "Operating System/Kernel.md": "8e53780eecffe385888edb6b2438965c",
     "Machine Learning/Support Vector Machines.md": "efa3a7b808f31a4fce9c45b2f796850d",
-    "Hyperplane.md": "d41d8cd98f00b204e9800998ecf8427e"
+    "Hyperplane.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Process.md": "f4285412457e91152bb2f450f2024b2c",
+    "PRI.md": "2b511a7e9237c36641338571bef576dc",
+    "PCB.md": "3317790700d5d285824472757f0b153d",
+    "Memory.md": "6496156d0e7f1ec3178e56d628cf4e4a",
+    "NI.md": "efb67d4d865b86d78e85ada02866dd35",
+    "subroutine.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Program Counter.md": "3d5b3911b398b647acbef03a207b3c89",
+    "Process State.md": "ebe6177122175fa86277a8282eb0e557"
   },
   "fields_dict": {
     "Basic-a79c1": [
