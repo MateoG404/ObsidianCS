@@ -19,3 +19,14 @@ We can set a priority to execute a process using the [[PRI]]
 2. Daemons : All the process that are executed every time that the computer is turned on and is not control by the user
 3. Zombies : All the process that ended 
 <!--ID: 1680918618095-->
+
+## How can communicate the process ? #flashcard 
+
+The process can communicate between them using: 
+1. Files 
+2. [[Pipeline]]
+3. [[Shared memory]]
+4. [[Pass of message]]
+<!--ID: 1681138386877-->
+
+

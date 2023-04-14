@@ -20,11 +20,15 @@
     "CONTEXT_FIELDS": {},
     "FOLDER_DECKS": {
       "Algorithms": "Algorithms",
-      "Operating System": ""
+      "Operating System": "",
+      "Machine Learning": "",
+      "Theory of computation": ""
     },
     "FOLDER_TAGS": {
       "Algorithms": "#algorithms",
-      "Operating System": ""
+      "Operating System": "",
+      "Machine Learning": "",
+      "Theory of computation": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -56,7 +60,9 @@
     "Pasted image 20230301103444.png",
     "Pasted image 20230301103515.png",
     "Pasted image 20230301103535.png",
-    "Pasted image 20230407200729.png"
+    "Pasted image 20230407200729.png",
+    "Pasted image 20230408190142.png",
+    "Pasted image 20230408191620.png"
   ],
   "File Hashes": {
     "Untitlvdsved.md": "1556dcb0badf4043856ce41745e275ee",
@@ -72,7 +78,7 @@
     "Algorithms/Polynomial Functions.md": "39fd8d67c0db8dcb66f459ddd22d2d12",
     "Algorithms/P - Problem.md": "6a403c57417177a94f6175d1356d8172",
     "Algorithms/Nondeterministic.md": "f5708a5c6b793adde6a0920bdccec740",
-    "Algorithms/NP-Complete Problems.md": "f21b9f0f3f1b36d33d0e443aab637bbb",
+    "Algorithms/NP-Complete Problems.md": "0d5f059b900813223204767db89fd7e4",
     "Algorithms/NP - Problem.md": "abc1492efe43e92c68dd6be4dde3202a",
     "Algorithms/Master Theorem.md": "3b5207cd64a719a6df3b9932fb4c76cb",
     "Algorithms/Little omega.md": "aa43ad90ac256b89f5a54f8b9bf43d5b",
@@ -102,7 +108,23 @@
     "NI.md": "efb67d4d865b86d78e85ada02866dd35",
     "subroutine.md": "d41d8cd98f00b204e9800998ecf8427e",
     "Program Counter.md": "3d5b3911b398b647acbef03a207b3c89",
-    "Process State.md": "ebe6177122175fa86277a8282eb0e557"
+    "Process State.md": "ebe6177122175fa86277a8282eb0e557",
+    "Alphabets.md": "27020cd585d0f519193e7e802f2529c7",
+    "Operating System/subroutine.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Operating System/Program Counter.md": "3d5b3911b398b647acbef03a207b3c89",
+    "Operating System/Process State.md": "ebe6177122175fa86277a8282eb0e557",
+    "Operating System/Process.md": "7651c909886116b3f8fb641b8def8416",
+    "Operating System/PRI.md": "2b511a7e9237c36641338571bef576dc",
+    "Operating System/PCB.md": "3317790700d5d285824472757f0b153d",
+    "Operating System/NI.md": "efb67d4d865b86d78e85ada02866dd35",
+    "Operating System/Memory.md": "6496156d0e7f1ec3178e56d628cf4e4a",
+    "Operating System/Linux.md": "df20519e18c1b1856588985e533e59f7",
+    "Machine Learning/Hyperplane.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "String.md": "00d78ba3c5bf78ad40763738e71db6ad",
+    "Pipeline.md": "be6dbd8e4c1f3e8c23ab6a01faf83328",
+    "Theory of computation/String.md": "00d78ba3c5bf78ad40763738e71db6ad",
+    "Theory of computation/Alphabets.md": "27020cd585d0f519193e7e802f2529c7",
+    "Buffer.md": "4b74b41815ba088614bbc2c6fa86eb37"
   },
   "fields_dict": {
     "Basic-a79c1": [

@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c58c3391640dcea3",
+        "id": "04455a315130150f",
         "type": "tabs",
         "children": [
           {
-            "id": "cb79278a176916eb",
+            "id": "dc9f3a0d08ed634f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -67,
-                  "y": -145,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -51,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Algo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,30 +140,41 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "cb79278a176916eb",
+  "active": "dc9f3a0d08ed634f",
   "lastOpenFiles": [
-    "Linux.md",
+    "Buffer.md",
+    "Algorithms/Running Time.md",
+    "Pipeline.md",
+    "Pasted image 20230410095810.png",
+    "Theory of computation/String.md",
+    "Theory of computation/Alphabets.md",
+    "Operating System/Process.md",
+    "Theory of computation/Pasted image 20230408191620.png",
+    "Theory of computation/Pasted image 20230408191424.png",
+    "Theory of computation/Pasted image 20230408191201.png",
+    "Theory of computation/Pasted image 20230408190142.png",
     "Untitled.canvas",
+    "Theory of computation",
+    "Operating System/NI.md",
+    "Operating System/Pasted image 20230407194122.png",
+    "Operating System/Linux.md",
     "Algorithms/Algorithms Excercise.md",
     "Algorithms/Hamiltonian Path.md",
     "Algorithms/NP-Complete Problems.md",
-    "Process.md",
-    "Process State.md",
-    "subroutine.md",
-    "Program Counter.md",
-    "PCB.md",
+    "Operating System/Process State.md",
+    "Operating System/subroutine.md",
+    "Operating System/Program Counter.md",
+    "Operating System/PCB.md",
     "Operating System/Kernel.md",
-    "Pasted image 20230407200729.png",
-    "NI.md",
-    "PRI.md",
-    "Pasted image 20230407194122.png",
-    "Memory.md",
+    "Operating System/Pasted image 20230407200729.png",
+    "Operating System/PRI.md",
+    "Operating System/Memory.md",
     "Operating System/Procesos.xopp~",
     "Operating System/Operating System.md",
     "Operating System/Procesos.xopp",
     "Operating System/SO_Introduccion.pdf",
     "Operating System/SO_Introduccion.xopp~",
-    "Hyperplane.md",
+    "Machine Learning/Hyperplane.md",
     "Machine Learning/Support Vector Machines.md",
     "Machine Learning",
     "Untitlvdsved.md",
@@ -184,10 +183,6 @@
     "Algorithms/NP - Problem.md",
     "Operating System",
     "2023-03-29.md",
-    "Algorithms/Big Theta.md",
-    "Algorithms/Big O.md",
-    "Algorithms/Big Omega.md",
-    "Algorithms/Master Theorem.md",
-    "Algorithms/Asymptotic Notation.md"
+    "Algorithms/Big Theta.md"
   ]
 }
