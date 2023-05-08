@@ -42,7 +42,7 @@
     },
     "Defaults": {
       "Tag": "flashcard",
-      "Deck": "Operating System",
+      "Deck": "Vocabulary_French_mateosky",
       "Scheduling Interval": 0,
       "Add File Link": true,
       "Add Context": true,
@@ -62,7 +62,9 @@
     "Pasted image 20230301103535.png",
     "Pasted image 20230407200729.png",
     "Pasted image 20230408190142.png",
-    "Pasted image 20230408191620.png"
+    "Pasted image 20230408191620.png",
+    "Pasted image 20230422160611.png",
+    "Pasted image 20230422160557.png"
   ],
   "File Hashes": {
     "Untitlvdsved.md": "1556dcb0badf4043856ce41745e275ee",
@@ -81,8 +83,8 @@
     "Algorithms/NP-Complete Problems.md": "0d5f059b900813223204767db89fd7e4",
     "Algorithms/NP - Problem.md": "abc1492efe43e92c68dd6be4dde3202a",
     "Algorithms/Master Theorem.md": "3b5207cd64a719a6df3b9932fb4c76cb",
-    "Algorithms/Little omega.md": "aa43ad90ac256b89f5a54f8b9bf43d5b",
-    "Algorithms/Little o.md": "0314df9fc5814090e7d31007f84aaf09",
+    "Algorithms/Little omega.md": "b0ddcd5898f67fc12f170126f0c95dfc",
+    "Algorithms/Little o.md": "1412250051692306757dcc7637a880c3",
     "Algorithms/Intractable Algorithm.md": "16cccb7331a4479bf2ccf9d4471d6ba9",
     "Algorithms/Hamiltonian Path.md": "7a3b9111cb5952b6e4b2a5bf8c5e4ea2",
     "Algorithms/Eulerian Path.md": "e577932d1eee3b39bba8f1a6168fbdaa",
@@ -92,8 +94,8 @@
     "Algorithms/Data Flow Diagram.md": "e4b9f7d9dce6a7fae55e80c10dcd95c5",
     "Algorithms/Certificate.md": "78e9e4ef6b3806a7fbda9b38b4fbbc12",
     "Algorithms/Big Theta.md": "850fbfeca5ae63035f8fee29e558448b",
-    "Algorithms/Big Omega.md": "17afe77ff9f19384a163c613812316c5",
-    "Algorithms/Big O.md": "4030dd8c5a138d99f6d7c0fae9eb005e",
+    "Algorithms/Big Omega.md": "d06aa01b3deeff606e3495434d276264",
+    "Algorithms/Big O.md": "4269570371975274bf2ad3b92ecdd1a9",
     "Algorithms/Asymptotic Notation.md": "a09b7f968cdee0a34374f7f54172acc1",
     "Algorithms/Algorithms Excercise.md": "4a54b078933477d213838ed95c7b6949",
     "Algorithms/Algorithm.md": "ca0cc5cd7270dce8eeb09ae752d3463b",
@@ -124,7 +126,11 @@
     "Pipeline.md": "be6dbd8e4c1f3e8c23ab6a01faf83328",
     "Theory of computation/String.md": "00d78ba3c5bf78ad40763738e71db6ad",
     "Theory of computation/Alphabets.md": "27020cd585d0f519193e7e802f2529c7",
-    "Buffer.md": "4b74b41815ba088614bbc2c6fa86eb37"
+    "Buffer.md": "4b74b41815ba088614bbc2c6fa86eb37",
+    "verbes réguliers.md": "65de748c88af9576e3b4fd73fc09da34",
+    "Operating System/Pipeline.md": "be6dbd8e4c1f3e8c23ab6a01faf83328",
+    "Operating System/Buffer.md": "f9a3438f55355e9d3cce3b45f142ee35",
+    "Algorithms/Loop Invariant.md": "68b329da9893e34099c7d8ad5cb9c940"
   },
   "fields_dict": {
     "Basic-a79c1": [

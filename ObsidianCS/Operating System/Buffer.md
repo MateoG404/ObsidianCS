@@ -2,6 +2,8 @@ a
 # What's a Buffer ? #flashcard 
 
 A buffer is a temp memory used to communicate to two different [[Process]] with different [[Running Time]].
+<!--ID: 1683559069786-->
+
 
 For example: 
 
