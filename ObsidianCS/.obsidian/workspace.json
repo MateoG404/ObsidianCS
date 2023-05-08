@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04455a315130150f",
+        "id": "78e6b010f1366850",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9f3a0d08ed634f",
+            "id": "5859a584c9d0aff7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Operating System/Pasted image 20230410095810.png"
+              }
             }
           }
         ]
@@ -65,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e2f0ca665b8fb7c9",
@@ -82,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating System/Pasted image 20230410095810.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating System/Pasted image 20230410095810.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operating System/Pasted image 20230410095810.png"
+              }
             }
           }
         ]
@@ -140,12 +145,23 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "dc9f3a0d08ed634f",
+  "active": "2a221d237e9e7c5b",
   "lastOpenFiles": [
-    "Buffer.md",
+    "Algorithms/Loop Invariant.md",
+    "Operating System/Buffer.md",
+    "Algorithms/Big Omega.md",
+    "Algorithms/Big O.md",
+    "Algorithms/Asymptotic Notation.md",
+    "Algorithms/Little o.md",
+    "Algorithms/Big Theta.md",
+    "Operating System/Pasted image 20230422160611.png",
+    "Algorithms/Little omega.md",
+    "Operating System/Pasted image 20230422160557.png",
+    "Operating System/Pasted image 20230422160541.png",
+    "Operating System/Pasted image 20230422160519.png",
     "Algorithms/Running Time.md",
-    "Pipeline.md",
-    "Pasted image 20230410095810.png",
+    "Operating System/Pipeline.md",
+    "Operating System/Pasted image 20230410095810.png",
     "Theory of computation/String.md",
     "Theory of computation/Alphabets.md",
     "Operating System/Process.md",
@@ -166,7 +182,6 @@
     "Operating System/Program Counter.md",
     "Operating System/PCB.md",
     "Operating System/Kernel.md",
-    "Operating System/Pasted image 20230407200729.png",
     "Operating System/PRI.md",
     "Operating System/Memory.md",
     "Operating System/Procesos.xopp~",
@@ -174,15 +189,8 @@
     "Operating System/Procesos.xopp",
     "Operating System/SO_Introduccion.pdf",
     "Operating System/SO_Introduccion.xopp~",
-    "Machine Learning/Hyperplane.md",
-    "Machine Learning/Support Vector Machines.md",
     "Machine Learning",
-    "Untitlvdsved.md",
     "Operating System/SO_Introduccion.xopp",
-    "Algorithms/P - Problem.md",
-    "Algorithms/NP - Problem.md",
-    "Operating System",
-    "2023-03-29.md",
-    "Algorithms/Big Theta.md"
+    "Operating System"
   ]
 }
