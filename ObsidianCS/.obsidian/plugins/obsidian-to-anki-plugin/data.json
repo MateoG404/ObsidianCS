@@ -42,7 +42,7 @@
     },
     "Defaults": {
       "Tag": "flashcard",
-      "Deck": "Vocabulary_French_mateosky",
+      "Deck": "Operating System",
       "Scheduling Interval": 0,
       "Add File Link": true,
       "Add Context": true,
@@ -64,7 +64,8 @@
     "Pasted image 20230408190142.png",
     "Pasted image 20230408191620.png",
     "Pasted image 20230422160611.png",
-    "Pasted image 20230422160557.png"
+    "Pasted image 20230422160557.png",
+    "Pasted image 20230510095151.png"
   ],
   "File Hashes": {
     "Untitlvdsved.md": "1556dcb0badf4043856ce41745e275ee",
@@ -127,10 +128,13 @@
     "Theory of computation/String.md": "00d78ba3c5bf78ad40763738e71db6ad",
     "Theory of computation/Alphabets.md": "27020cd585d0f519193e7e802f2529c7",
     "Buffer.md": "4b74b41815ba088614bbc2c6fa86eb37",
-    "verbes réguliers.md": "65de748c88af9576e3b4fd73fc09da34",
+    "verbes réguliers.md": "bd49cc03c6f5b336015f1e8bcfae2ba5",
     "Operating System/Pipeline.md": "be6dbd8e4c1f3e8c23ab6a01faf83328",
     "Operating System/Buffer.md": "f9a3438f55355e9d3cce3b45f142ee35",
-    "Algorithms/Loop Invariant.md": "68b329da9893e34099c7d8ad5cb9c940"
+    "Algorithms/Loop Invariant.md": "68b329da9893e34099c7d8ad5cb9c940",
+    "Message Passing.md": "6e7e18264066762d5ca2dd3f88393ab1",
+    "Shared Memory.md": "054f3ab119dcc7ff99797b53fb1833f2",
+    "Port.md": "093e5995bbcebcc6977cda78e3b762b8"
   },
   "fields_dict": {
     "Basic-a79c1": [

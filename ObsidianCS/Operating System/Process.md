@@ -25,7 +25,7 @@ We can set a priority to execute a process using the [[PRI]]
 The process can communicate between them using: 
 1. Files 
 2. [[Pipeline]]
-3. [[Shared memory]]
+3. [[Shared Memory]]
 4. [[Pass of message]]
 <!--ID: 1681138386877-->
 
