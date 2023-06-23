@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ddb7f21f74f3a119",
+        "id": "11c093c9211b9bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "db35c3948f56222e",
+            "id": "85b07dfc2b34c4f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frances/verbes réguliers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e2f0ca665b8fb7c9",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frances/verbes réguliers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frances/verbes réguliers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frances/verbes réguliers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,7 +148,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "db35c3948f56222e",
+  "active": "85b07dfc2b34c4f1",
   "lastOpenFiles": [
     "Frances/verbes réguliers.md",
     "Frances/verbes réguliers.md",
