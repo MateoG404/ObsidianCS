@@ -22,13 +22,15 @@
       "Algorithms": "Algorithms",
       "Operating System": "",
       "Machine Learning": "",
-      "Theory of computation": ""
+      "Theory of computation": "",
+      "Frances": ""
     },
     "FOLDER_TAGS": {
       "Algorithms": "#algorithms",
       "Operating System": "",
       "Machine Learning": "",
-      "Theory of computation": ""
+      "Theory of computation": "",
+      "Frances": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -116,7 +118,7 @@
     "Operating System/subroutine.md": "d41d8cd98f00b204e9800998ecf8427e",
     "Operating System/Program Counter.md": "3d5b3911b398b647acbef03a207b3c89",
     "Operating System/Process State.md": "ebe6177122175fa86277a8282eb0e557",
-    "Operating System/Process.md": "7651c909886116b3f8fb641b8def8416",
+    "Operating System/Process.md": "8717bc367d0a87fe5f13cc9d516c5b2f",
     "Operating System/PRI.md": "2b511a7e9237c36641338571bef576dc",
     "Operating System/PCB.md": "3317790700d5d285824472757f0b153d",
     "Operating System/NI.md": "efb67d4d865b86d78e85ada02866dd35",
@@ -134,7 +136,13 @@
     "Algorithms/Loop Invariant.md": "68b329da9893e34099c7d8ad5cb9c940",
     "Message Passing.md": "6e7e18264066762d5ca2dd3f88393ab1",
     "Shared Memory.md": "054f3ab119dcc7ff99797b53fb1833f2",
-    "Port.md": "093e5995bbcebcc6977cda78e3b762b8"
+    "Port.md": "093e5995bbcebcc6977cda78e3b762b8",
+    "Terminal.md": "1e9bf3ec46453e6fe419f2f951c736e5",
+    "Operating System/Shared Memory.md": "054f3ab119dcc7ff99797b53fb1833f2",
+    "Operating System/Port.md": "093e5995bbcebcc6977cda78e3b762b8",
+    "Operating System/Message Passing.md": "6e7e18264066762d5ca2dd3f88393ab1",
+    "Frances/verbes réguliers.md": "bd49cc03c6f5b336015f1e8bcfae2ba5",
+    "Frances/README.md": "1e23dafb760b26e668789995ad077d12"
   },
   "fields_dict": {
     "Basic-a79c1": [
