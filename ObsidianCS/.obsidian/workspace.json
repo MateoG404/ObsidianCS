@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "11c093c9211b9bb8",
+        "id": "bbea99457f1ac838",
         "type": "tabs",
         "children": [
           {
-            "id": "85b07dfc2b34c4f1",
+            "id": "08133746c83aa207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Operating System/Terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb55ae5a7e751906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,9 +169,16 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ced8683bfa34cf4e",
+  "active": "08133746c83aa207",
   "lastOpenFiles": [
+    "Pasted image 20230717113749.png",
+    "Pasted image 20230717113424.png",
+    "Pasted image 20230717113412.png",
+    "Command.md",
     "Operating System/Terminal.md",
+    "Redirect.md",
+    "Wildcards.md",
+    "Alias Command.md",
     "principios_de_usabilidad.md",
     "Operating System/Operating System.md",
     "Frances/verbes réguliers.md",
@@ -186,18 +205,11 @@
     "Operating System/Pasted image 20230422160541.png",
     "Operating System/Pasted image 20230422160519.png",
     "Algorithms/Running Time.md",
-    "Operating System/Pipeline.md",
     "Operating System/Pasted image 20230410095810.png",
-    "Theory of computation/String.md",
-    "Theory of computation/Alphabets.md",
-    "Operating System/Process.md",
     "Theory of computation/Pasted image 20230408191620.png",
     "Theory of computation/Pasted image 20230408191424.png",
-    "Theory of computation/Pasted image 20230408191201.png",
-    "Theory of computation/Pasted image 20230408190142.png",
     "Untitled.canvas",
     "Theory of computation",
-    "Operating System/Linux.md",
     "Operating System/Procesos.xopp~",
     "Operating System/Procesos.xopp",
     "Operating System/SO_Introduccion.pdf",
