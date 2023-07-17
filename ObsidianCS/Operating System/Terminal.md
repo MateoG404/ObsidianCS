@@ -45,8 +45,27 @@
 ## What is an Alias command? #flashcard 
 
 * Is a way to save time at the moment that we are writing a long command, is powerful because we can save a long command with only one or two words that we want. But when the currently terminal is closed, all the alias are deleted.
+* Example : 
+	Create an alias to run the command "ls -lh" that show all the files with the information of the files and their size 
+	 	
+ 	 	alias l = "ls -lh"
+    
+<!--ID: 1689608830393-->
 
-Example : 
-Create an alias to run the command "ls -lh" that show all the files with the information of the files and their size 
-	alias l = "ls -lh"
+
+
+## What is a wildcard ? #flashcard 
+
+* It's a powerful tool to find files with special format in a directory with a lot of files that have many formats. **Similar to the [[Regular expressions]]**
+* We use the command **ls** with the sufix "'\*.(format)" to find the file with that format
+* We use the command **ls** with the sufix "'\*(name)" to find the file that contains that word first in the name
+* We use the command **ls** with the sufix "'(name)?" to find the file that contains that word in the name and one or more characters in the name
+* We can create [[Regular expressions]] using "[ ]" and the symbol "\*" that represents the  
+<!--ID: 1689608830399-->
+
+## What are redirect ? #flashcard 
+
+* When we are running a file or a program, it prints some in the terminal, and sometimes we want to save that information in a file. To do that we use a redirection of the information using the command "> name file)" and if we want to concatenate the information we use the command ">> (name file)", both for the **standard input** and **standard error**
+* If we want to redirect **stdout** or **stderr** we have to use the command **2>&1** at the end to save that information
+<!--ID: 1689609974493-->
 

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eea7527720f84f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal.md",
+                "file": "Operating System/Terminal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PRI",
+                "query": "tag:#flashcard",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal.md",
+                "file": "Operating System/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal.md",
+                "file": "Operating System/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal.md"
+                "file": "Operating System/Terminal.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 300.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,11 +157,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "eea7527720f84f8e",
+  "active": "ced8683bfa34cf4e",
   "lastOpenFiles": [
+    "Operating System/Terminal.md",
     "principios_de_usabilidad.md",
     "Operating System/Operating System.md",
-    "Terminal.md",
     "Frances/verbes réguliers.md",
     "Frances/verbes réguliers.md",
     "Operating System/Shared Memory.md",
