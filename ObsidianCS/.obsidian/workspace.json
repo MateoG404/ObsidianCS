@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privileges.md",
+                "file": "Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "335e67167edbe673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Environment Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privileges.md",
+                "file": "Environment Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privileges.md",
+                "file": "Environment Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privileges.md"
+                "file": "Environment Variables.md"
               }
             }
           }
@@ -157,11 +170,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "60d1357ca04528de",
+  "active": "335e67167edbe673",
   "lastOpenFiles": [
-    "Operating System/Terminal.md",
-    "Privileges.md",
+    "Pasted image 20230717172312.png",
+    "Pasted image 20230717172244.png",
+    "Symbolic Link.md",
+    "Environment Variables.md",
     "Command.md",
+    "Privileges.md",
+    "Operating System/Terminal.md",
     "Pasted image 20230717125714.png",
     "Pasted image 20230717125552.png",
     "Pasted image 20230717124358.png",
@@ -185,7 +202,6 @@
     "Frances/README.md",
     "Frances",
     "Operating System/Message Passing.md",
-    "Operating System/Pasted image 20230510095151.png",
     "Operating System/Process State.md",
     "Operating System/Port.md",
     "Operating System/PRI.md",
@@ -193,8 +209,6 @@
     "Algorithms/Loop Invariant.md",
     "Operating System/Buffer.md",
     "Algorithms/Big Omega.md",
-    "Algorithms/Big O.md",
-    "Algorithms/Asymptotic Notation.md",
     "Untitled.canvas",
     "Theory of computation",
     "Operating System/Procesos.xopp~",

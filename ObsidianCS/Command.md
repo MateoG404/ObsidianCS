@@ -20,7 +20,11 @@
 * **echo** (Generate an stdout in the terminal)
 * **cat** (Link two files)
 * **whoami** (Know who I am (user, group or other) )  
-<!--ID: 1689606456572-->
+* **uptime** (Show the use time from the computer)
+* **finger** (Show info about the user)
+* **uname -a** (Show info about the kernel)
+* **df** (Show info about the disk)
+ <!--ID: 1689606456572-->
 
 
 ## Explore Files commands #flashcard 
