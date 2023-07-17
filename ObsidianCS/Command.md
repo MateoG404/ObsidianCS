@@ -19,6 +19,7 @@
 * **man** (User manual to know more information about one command)
 * **echo** (Generate an stdout in the terminal)
 * **cat** (Link two files)
+* **whoami** (Know who I am (user, group or other) )  
 <!--ID: 1689606456572-->
 
 
@@ -29,3 +30,4 @@
 * **less** (Show file with an interactive mode to do scroll or search words )
 * **xdg-open** (Open the file with the editor)
 <!--ID: 1689606456576-->
+
