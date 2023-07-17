@@ -11,21 +11,17 @@
             "id": "60d1357ca04528de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Command.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "335e67167edbe673",
+            "id": "1f80dab67e6d652e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment Variables.md",
+                "file": "Search Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Environment Variables.md",
+                "file": "Search Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Environment Variables.md",
+                "file": "Search Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Environment Variables.md"
+                "file": "Search Commands.md"
               }
             }
           }
@@ -170,28 +166,30 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "335e67167edbe673",
+  "active": "1f80dab67e6d652e",
   "lastOpenFiles": [
+    "Pasted image 20230717181210.png",
+    "Pasted image 20230717175822.png",
+    "Pasted image 20230717175440.png",
+    "Pasted image 20230717175123.png",
+    "Wildcards.md",
+    "Untitled.md",
+    "Search Commands.md",
+    "Command.md",
+    "Environment Variables.md",
     "Pasted image 20230717172312.png",
     "Pasted image 20230717172244.png",
     "Symbolic Link.md",
-    "Environment Variables.md",
-    "Command.md",
     "Privileges.md",
     "Operating System/Terminal.md",
     "Pasted image 20230717125714.png",
     "Pasted image 20230717125552.png",
     "Pasted image 20230717124358.png",
-    "Wildcards.md",
     "Operating System/Linux.md",
     "Control Operators.md",
     "Pasted image 20230717122910.png",
     "Pasted image 20230717121735.png",
-    "Pasted image 20230717121059.png",
     "Pipe Operator.md",
-    "Pasted image 20230717113749.png",
-    "Pasted image 20230717113424.png",
-    "Pasted image 20230717113412.png",
     "Redirect.md",
     "Alias Command.md",
     "principios_de_usabilidad.md",
@@ -207,8 +205,6 @@
     "Operating System/PRI.md",
     "Operating System/NI.md",
     "Algorithms/Loop Invariant.md",
-    "Operating System/Buffer.md",
-    "Algorithms/Big Omega.md",
     "Untitled.canvas",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
