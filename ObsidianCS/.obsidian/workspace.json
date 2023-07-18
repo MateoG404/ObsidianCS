@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1f49a1ebd401092",
+        "id": "fd9c06d622c11014",
         "type": "tabs",
         "children": [
           {
-            "id": "659a19e991a68fdd",
+            "id": "e93606501691e7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Process.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Process.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Process.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Process.md"
+                "file": "Git.md"
               }
             }
           }
@@ -157,8 +157,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "659a19e991a68fdd",
+  "active": "e93606501691e7f5",
   "lastOpenFiles": [
+    "Git.md",
     "Operating System/Process.md",
     "Compress Files.md",
     "Pasted image 20230718104006.png",
@@ -197,7 +198,6 @@
     "Frances",
     "Operating System/Message Passing.md",
     "Operating System/Process State.md",
-    "Operating System/Port.md",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
     "Operating System/Procesos.xopp",
