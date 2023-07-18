@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3938ab1c848934ca",
+        "id": "b1f49a1ebd401092",
         "type": "tabs",
         "children": [
           {
-            "id": "60d1357ca04528de",
+            "id": "659a19e991a68fdd",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "1f80dab67e6d652e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Search Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Search Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Search Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Search Commands.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,15 +149,17 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "1f80dab67e6d652e",
+  "active": "659a19e991a68fdd",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Search Commands.md",
     "Pasted image 20230717181210.png",
     "Pasted image 20230717175822.png",
     "Pasted image 20230717175440.png",
     "Pasted image 20230717175123.png",
     "Wildcards.md",
     "Untitled.md",
-    "Search Commands.md",
     "Command.md",
     "Environment Variables.md",
     "Pasted image 20230717172312.png",
@@ -188,7 +173,6 @@
     "Operating System/Linux.md",
     "Control Operators.md",
     "Pasted image 20230717122910.png",
-    "Pasted image 20230717121735.png",
     "Pipe Operator.md",
     "Redirect.md",
     "Alias Command.md",
@@ -205,7 +189,6 @@
     "Operating System/PRI.md",
     "Operating System/NI.md",
     "Algorithms/Loop Invariant.md",
-    "Untitled.canvas",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
     "Operating System/Procesos.xopp",
