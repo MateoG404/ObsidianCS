@@ -19,3 +19,5 @@ Yes, only we need to add the instruction **exec** and the next instruction have 
 ![[Pasted image 20230717181210.png]]
 
 
+## Command wc (Word count)
+This [[Command]] is used to count the number of lines, words and bites of the files
