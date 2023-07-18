@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a83138b1e40fa2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers networks commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Search Commands.md",
+                "file": "Computers networks commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Search Commands.md",
+                "file": "Computers networks commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Search Commands.md"
+                "file": "Computers networks commands.md"
               }
             }
           }
@@ -166,14 +178,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6491e09a1c092100",
+  "active": "1a83138b1e40fa2e",
   "lastOpenFiles": [
+    "Search Commands.md",
+    "Computers networks commands.md",
     "Grep.md",
     "Pasted image 20230718095710.png",
     "Pasted image 20230718095413.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Search Commands.md",
     "Pasted image 20230717181210.png",
     "Pasted image 20230717175822.png",
     "Pasted image 20230717175440.png",
