@@ -11,24 +11,15 @@
             "id": "659a19e991a68fdd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6491e09a1c092100",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Compress Files.md",
+                "file": "Operating System/Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compress Files.md",
+                "file": "Operating System/Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compress Files.md",
+                "file": "Operating System/Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compress Files.md"
+                "file": "Operating System/Process.md"
               }
             }
           }
@@ -166,13 +157,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6491e09a1c092100",
+  "active": "659a19e991a68fdd",
   "lastOpenFiles": [
+    "Operating System/Process.md",
+    "Compress Files.md",
     "Pasted image 20230718104006.png",
     "Pasted image 20230718103833.png",
     "Pasted image 20230718102811.png",
     "Pasted image 20230718102809.png",
-    "Compress Files.md",
     "Search Commands.md",
     "Computers networks commands.md",
     "Grep.md",
@@ -188,7 +180,6 @@
     "Untitled.md",
     "Command.md",
     "Environment Variables.md",
-    "Pasted image 20230717172312.png",
     "Symbolic Link.md",
     "Privileges.md",
     "Operating System/Terminal.md",
