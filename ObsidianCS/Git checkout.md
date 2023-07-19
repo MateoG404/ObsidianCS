@@ -1,0 +1,1 @@
+Similar to [[Git reset]] but used to changed to another version of code between [[Branch]] or commits. We can use the [[Command]] **git checkout** 

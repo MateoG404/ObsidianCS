@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Git checkout.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git reset.md",
+                "file": "Git checkout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git reset.md",
+                "file": "Git checkout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git reset.md"
+                "file": "Git checkout.md"
               }
             }
           }
@@ -182,11 +181,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "7ccb637875b4561f",
+  "active": "2af6c835d7678f80",
   "lastOpenFiles": [
-    "Staging.md",
-    "Git reset.md",
     "Git.md",
+    "Git checkout.md",
+    "Git reset.md",
+    "Pasted image 20230719113323.png",
+    "Staging.md",
     "Branch.md",
     "Pasted image 20230719110159.png",
     "Redirect.md",
@@ -210,7 +211,6 @@
     "Untitled.canvas",
     "Pasted image 20230717181210.png",
     "Pasted image 20230717175822.png",
-    "Pasted image 20230717175440.png",
     "Untitled.md",
     "Environment Variables.md",
     "Symbolic Link.md",
@@ -220,8 +220,6 @@
     "Alias Command.md",
     "principios_de_usabilidad.md",
     "Operating System/Operating System.md",
-    "Frances/verbes réguliers.md",
-    "Frances/verbes réguliers.md",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
