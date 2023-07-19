@@ -13,6 +13,8 @@
 * **git diff** (Show the difference between two commits)
 * **git merge** (Merge two [[Branch]])
 * **git reset** (Return our project to a specific **commit**)
+* **git rm** (Remove files from the repository)
+* **git revert** (Revert a commit using a new commit whitout delete the repository's historial)
 
 ## What is GIT?
 

@@ -4,3 +4,7 @@ It's a [[Command]] in [[Git]] that we use to return our **HEAD** version's code 
 
 We use **git reset** if we have to return to another old version, but if we want to return and see old code and go to the HEAD we have to use [[Git checkout]]
 
+## Git reset HEAD
+
+We can use **git reset HEAD** to reverse the changed before to make a commit 
+
