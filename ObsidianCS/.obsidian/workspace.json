@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9c06d622c11014",
+        "id": "3df9f66cb56e012d",
         "type": "tabs",
         "children": [
           {
-            "id": "e93606501691e7f5",
+            "id": "2af6c835d7678f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Branch.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Branch.md"
               }
             }
           }
@@ -157,9 +157,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e93606501691e7f5",
+  "active": "2af6c835d7678f80",
   "lastOpenFiles": [
     "Git.md",
+    "Branch.md",
+    "Pasted image 20230719110159.png",
+    "Redirect.md",
+    "Wildcards.md",
+    "Pipe Operator.md",
+    "Control Operators.md",
+    "Command.md",
+    "Staging.md",
+    "[System control version.md",
     "Operating System/Process.md",
     "Compress Files.md",
     "Pasted image 20230718104006.png",
@@ -176,28 +185,18 @@
     "Pasted image 20230717181210.png",
     "Pasted image 20230717175822.png",
     "Pasted image 20230717175440.png",
-    "Pasted image 20230717175123.png",
-    "Wildcards.md",
     "Untitled.md",
-    "Command.md",
     "Environment Variables.md",
     "Symbolic Link.md",
     "Privileges.md",
     "Operating System/Terminal.md",
     "Operating System/Linux.md",
-    "Control Operators.md",
-    "Pipe Operator.md",
-    "Redirect.md",
     "Alias Command.md",
     "principios_de_usabilidad.md",
     "Operating System/Operating System.md",
     "Frances/verbes réguliers.md",
     "Frances/verbes réguliers.md",
-    "Operating System/Shared Memory.md",
-    "Frances/README.md",
     "Frances",
-    "Operating System/Message Passing.md",
-    "Operating System/Process State.md",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
     "Operating System/Procesos.xopp",
