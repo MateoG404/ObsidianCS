@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d60e454a2523cd56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f05549baee2e3b96",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Git log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Git log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Git log.md"
               }
             }
           }
@@ -194,13 +206,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b4a52ccb477cdd40",
+  "active": "d60e454a2523cd56",
   "lastOpenFiles": [
+    "Pasted image 20230719133830.png",
+    "Git.md",
+    "Git log.md",
     "Staging.md",
     "Git reset.md",
     "Git checkout.md",
     "Pasted image 20230719113323.png",
-    "Git.md",
     "Branch.md",
     "Pasted image 20230719110159.png",
     "Redirect.md",
@@ -232,7 +246,6 @@
     "Operating System/Linux.md",
     "Alias Command.md",
     "principios_de_usabilidad.md",
-    "Operating System/Operating System.md",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
