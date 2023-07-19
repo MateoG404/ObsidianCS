@@ -11,6 +11,8 @@
 * **git rm** (Delete files from our repository)
 * **git rm --cached** (Move the files from [[Staging]] state to [[Untracked]] state)
 * **git diff** (Show the difference between two commits)
+* **git merge** (Merge two [[Branch]])
+* **git reset** (Return our project to a specific **commit**)
 
 ## What is GIT?
 
