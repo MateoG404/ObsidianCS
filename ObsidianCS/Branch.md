@@ -9,3 +9,5 @@ There are four different types of branch :
 ![[Pasted image 20230719110159.png]]
 
 If we want to merge two different branches in our project, we use the [[Command]] **git merge \[Branch_1] \[Branch origin]** 
+
+We can mix two [[Branch]] using the [[Merge]] [[Command]]

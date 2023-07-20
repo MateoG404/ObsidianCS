@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60e454a2523cd56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git log.md",
+                "file": "Merge.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git log.md",
+                "file": "Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git log.md",
+                "file": "Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git log.md"
+                "file": "Merge.md"
               }
             }
           }
@@ -206,16 +194,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d60e454a2523cd56",
+  "active": "b4a52ccb477cdd40",
   "lastOpenFiles": [
-    "Pasted image 20230719133830.png",
+    "Pasted image 20230720161720.png",
+    "Branch.md",
+    "Merge.md",
     "Git.md",
     "Git log.md",
+    "Pasted image 20230719133830.png",
     "Staging.md",
     "Git reset.md",
     "Git checkout.md",
     "Pasted image 20230719113323.png",
-    "Branch.md",
     "Pasted image 20230719110159.png",
     "Redirect.md",
     "Wildcards.md",
@@ -237,7 +227,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230717181210.png",
-    "Pasted image 20230717175822.png",
     "Untitled.md",
     "Environment Variables.md",
     "Symbolic Link.md",
@@ -245,7 +234,6 @@
     "Operating System/Terminal.md",
     "Operating System/Linux.md",
     "Alias Command.md",
-    "principios_de_usabilidad.md",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
