@@ -15,3 +15,4 @@ We can use this [[asymmetric cryptographic]] creating Public and Private Keys to
 
 **Steps to create Public and Private Keys:**
 
+**git remote set-url origin git@servidor-git.com:usuario/repo.git** ( To use the SSH key)
