@@ -1,4 +1,4 @@
-
+ 
 ## Basic [[Command]]
 * **git init** (Create a repository)
 * **git add** (Add changes in our repository)
@@ -12,7 +12,7 @@
 * **git rm --cached** (Move the files from [[Staging]] state to [[Untracked]] state)
 * **git diff** (Show the difference between two commits)
 * **git merge** (Merge two [[Branch]])
-* **git reset** (Return our project to a specific **commit**)
+* [[Git reset]] (Return our project to a specific **commit**)
 * **git rm** (Remove files from the repository)
 * **git revert** (Revert a commit using a new commit whitout delete the repository's historial)
 * **git fetch** (Get updates from our remote repository whitout change the files )

@@ -11,3 +11,6 @@ There are four different types of branch :
 If we want to merge two different branches in our project, we use the [[Command]] **git merge \[Branch_1] \[Branch origin]** 
 
 We can mix two [[Branch]] using the [[Merge]] [[Command]]
+
+We can use the [[Command]] **git show-branch --all** to show all the branches
+
