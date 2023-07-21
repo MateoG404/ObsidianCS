@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b08a9c81f6dd8ad",
+        "id": "f2955b10e7025cab",
         "type": "tabs",
         "children": [
           {
-            "id": "b740ef68c1e85d06",
+            "id": "bc2db697fa3f5903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public and Private Keys.md",
+                "file": "Git tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public and Private Keys.md",
+                "file": "Git tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public and Private Keys.md",
+                "file": "Git tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public and Private Keys.md"
+                "file": "Git tag.md"
               }
             }
           }
@@ -157,13 +157,16 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b740ef68c1e85d06",
+  "active": "bc2db697fa3f5903",
   "lastOpenFiles": [
+    "Pasted image 20230720195952.png",
+    "Alias Command.md",
+    "Public and Private Keys.md",
+    "Git tag.md",
     "Staging.md",
     "Git checkout.md",
     "Merge.md",
     "Wildcards.md",
-    "Public and Private Keys.md",
     "Pasted image 20230720165354.png",
     "Pasted image 20230720161720.png",
     "Branch.md",
@@ -194,8 +197,6 @@
     "Environment Variables.md",
     "Symbolic Link.md",
     "Privileges.md",
-    "Operating System/Terminal.md",
-    "Operating System/Linux.md",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",

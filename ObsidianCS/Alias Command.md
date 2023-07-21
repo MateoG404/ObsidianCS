@@ -6,5 +6,7 @@
 	Create an alias to run the command "ls -lh" that show all the files with the information of the files and their size 
 	 	
  	 	alias l = "ls -lh"
-    
+
+* Example :
+	❯ alias gittree = "git log --all --graph --decorate --oneline" to use on [[Git]] 
 <!--ID: 1689608830393-->
