@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f2955b10e7025cab",
+        "id": "cadd2401b67594e9",
         "type": "tabs",
         "children": [
           {
-            "id": "bc2db697fa3f5903",
+            "id": "ea5ac909d0f38a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff94cf8dc4f2cb83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git reset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "988969a5f15dfcad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Fork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5219f65249c11b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pull Request.md",
+                "file": "Deployment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcard",
+                "query": "PRI",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pull Request.md",
+                "file": "Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pull Request.md",
+                "file": "Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,16 +134,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pull Request.md"
+                "file": "Deployment.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,45 +156,46 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c5219f65249c11b9",
+  "active": "ea5ac909d0f38a93",
   "lastOpenFiles": [
-    "Git.md",
-    "Pull Request.md",
-    "Pasted image 20230721094403.png",
-    "Git Fork.md",
-    "Git reset.md",
-    "Branch.md",
-    "Alias Command.md",
-    "Git tag.md",
-    "Pasted image 20230720195952.png",
-    "Public and Private Keys.md",
-    "Staging.md",
-    "Git checkout.md",
-    "Merge.md",
+    "Deployment.md",
+    "principios_de_usabilidad.md",
+    "[System control version.md",
     "Wildcards.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Symbolic Link.md",
+    "Staging.md",
+    "Search Commands.md",
+    "Redirect.md",
+    "Pull Request.md",
+    "Public and Private Keys.md",
+    "Privileges.md",
+    "Pipe Operator.md",
+    "Pasted image 20230721094403.png",
+    "Pasted image 20230720195952.png",
     "Pasted image 20230720165354.png",
     "Pasted image 20230720161720.png",
-    "Git log.md",
     "Pasted image 20230719133830.png",
     "Pasted image 20230719113323.png",
     "Pasted image 20230719110159.png",
-    "Redirect.md",
-    "Pipe Operator.md",
-    "Control Operators.md",
-    "Command.md",
-    "[System control version.md",
-    "Operating System/Process.md",
-    "Compress Files.md",
     "Pasted image 20230718104006.png",
     "Pasted image 20230718103833.png",
     "Pasted image 20230718102811.png",
-    "Search Commands.md",
-    "Computers networks commands.md",
+    "Operating System/Terminal.md",
+    "Merge.md",
     "Grep.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled.md",
+    "Git.md",
+    "Git tag.md",
+    "Git reset.md",
+    "Git log.md",
+    "Git checkout.md",
+    "Git Fork.md",
     "Environment Variables.md",
+    "Control Operators.md",
+    "Computers networks commands.md",
+    "Compress Files.md",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
