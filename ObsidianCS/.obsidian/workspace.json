@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddb6093f94aa71ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public and Private Keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployment.md",
+                "file": "Public and Private Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployment.md",
+                "file": "Public and Private Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployment.md"
+                "file": "Public and Private Keys.md"
               }
             }
           }
@@ -156,8 +169,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ea5ac909d0f38a93",
+  "active": "ddb6093f94aa71ff",
   "lastOpenFiles": [
+    "Git ignore.md",
     "Deployment.md",
     "principios_de_usabilidad.md",
     "[System control version.md",
@@ -195,7 +209,6 @@
     "Environment Variables.md",
     "Control Operators.md",
     "Computers networks commands.md",
-    "Compress Files.md",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
