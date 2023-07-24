@@ -4,45 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "53a2eb0cc8f193d2",
+        "id": "5b273b5db10214a5",
         "type": "tabs",
         "children": [
           {
-            "id": "f19e041858e153ee",
+            "id": "d20a827d1e329810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git amend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d52ae7a2e5eeb7a",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Git/Pasted image 20230717113412.png"
-              }
-            }
-          },
-          {
-            "id": "6162162a253986c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git reflog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2759d5f9f98a0692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git amend.md",
-                "mode": "source",
-                "source": false
+                "file": "Git/Pasted image 20230724124921.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e2f0ca665b8fb7c9",
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git reflog.md",
+                "file": "Git/Pasted image 20230724124921.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git reflog.md",
+                "file": "Git/Pasted image 20230724124921.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git reflog.md"
+                "file": "Git/Pasted image 20230724124921.png"
               }
             }
           }
@@ -180,11 +167,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6162162a253986c9",
+  "active": "2a221d237e9e7c5b",
   "lastOpenFiles": [
-    "Pasted image 20230724124921.png",
+    "Git/Git amend.md",
+    "Git/Git reflog.md",
     "Git/Pasted image 20230717113412.png",
-    "Git reflog.md",
+    "Git/Pasted image 20230724124921.png",
     "Operating System/Compress Files.md",
     "Operating System/Environment Variables.md",
     "Operating System/Computers networks commands.md",
@@ -214,13 +202,11 @@
     "Git/Git tag.md",
     "Git/Pasted image 20230720195952.png",
     "Git/Staging.md",
-    "Git/Git checkout.md",
     "Git/Pasted image 20230720165354.png",
     "Git/Pasted image 20230720161720.png",
     "Git/Pasted image 20230719133830.png",
     "Git/Pasted image 20230719113323.png",
     "Git/Pasted image 20230719110159.png",
-    "Git/Pasted image 20230718104006.png",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
