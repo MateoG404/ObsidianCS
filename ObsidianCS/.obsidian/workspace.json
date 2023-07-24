@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21168c4afcdf2f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git cherry-pick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git clean.md",
+                "file": "Git cherry-pick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git clean.md",
+                "file": "Git cherry-pick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git clean.md"
+                "file": "Git cherry-pick.md"
               }
             }
           }
@@ -157,10 +170,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e16b77b34e00bfca",
+  "active": "21168c4afcdf2f31",
   "lastOpenFiles": [
-    "Git stash.md",
+    "Pasted image 20230724123738.png",
     "Git clean.md",
+    "Git cherry-pick.md",
+    "Git stash.md",
     "Git ignore.md",
     "Deployment.md",
     "Git Rebase.md",
@@ -190,8 +205,6 @@
     "Control Operators.md",
     "Command.md",
     "[System control version.md",
-    "Operating System/Process.md",
-    "Compress Files.md",
     "Pasted image 20230718104006.png",
     "Pasted image 20230718103833.png",
     "Pasted image 20230718102811.png",
