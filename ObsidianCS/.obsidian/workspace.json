@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git amend.md",
+                "file": "Git reflog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git amend.md",
+                "file": "Git reflog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git amend.md"
+                "file": "Git reflog.md"
               }
             }
           }
@@ -180,12 +180,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2759d5f9f98a0692",
+  "active": "6162162a253986c9",
   "lastOpenFiles": [
-    "Git reflog.md",
-    "Git amend.md",
     "Pasted image 20230724124921.png",
     "Git/Pasted image 20230717113412.png",
+    "Git reflog.md",
     "Operating System/Compress Files.md",
     "Operating System/Environment Variables.md",
     "Operating System/Computers networks commands.md",
@@ -221,6 +220,7 @@
     "Git/Pasted image 20230719133830.png",
     "Git/Pasted image 20230719113323.png",
     "Git/Pasted image 20230719110159.png",
+    "Git/Pasted image 20230718104006.png",
     "Frances",
     "Theory of computation",
     "Operating System/Procesos.xopp~",
