@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git stash.md",
+                "file": "Git clean.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git stash.md",
+                "file": "Git clean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git stash.md",
+                "file": "Git clean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git stash.md"
+                "file": "Git clean.md"
               }
             }
           }
@@ -159,10 +159,11 @@
   },
   "active": "e16b77b34e00bfca",
   "lastOpenFiles": [
+    "Git stash.md",
+    "Git clean.md",
     "Git ignore.md",
     "Deployment.md",
     "Git Rebase.md",
-    "Git stash.md",
     "Git.md",
     "Git reset.md",
     "Git Fork.md",
@@ -194,7 +195,6 @@
     "Pasted image 20230718104006.png",
     "Pasted image 20230718103833.png",
     "Pasted image 20230718102811.png",
-    "Search Commands.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frances",
