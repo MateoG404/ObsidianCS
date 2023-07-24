@@ -10,3 +10,9 @@ It's a [[Command]] used to show the commit logs (information)
 	![[Pasted image 20230719133830.png]]
 
 We can mix the git log [[Command]] with others [[Search Commands]] or [[Grep]]  commands
+
+## Search Words in all the commits
+
+We can run the next command to search words in our text commit 
+
+**git log -S "git"**  

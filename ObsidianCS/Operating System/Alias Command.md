@@ -10,3 +10,10 @@
 * Example :
 	❯ alias gittree = "git log --all --graph --decorate --oneline" to use on [[Git]] 
 <!--ID: 1689608830393-->
+
+## Alias Command in [[Git]]
+
+We can create the same alias in [[Git]] using the next [[Command]]
+
+```
+git config --global alias.<nombre_alias> "command"

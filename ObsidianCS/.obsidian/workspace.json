@@ -23,9 +23,11 @@
             "id": "0d52ae7a2e5eeb7a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Git/Pasted image 20230724124921.png"
+                "file": "Operating System/Alias Command.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e2f0ca665b8fb7c9",
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Pasted image 20230724124921.png",
+                "file": "Operating System/Alias Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Pasted image 20230724124921.png",
+                "file": "Operating System/Alias Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Pasted image 20230724124921.png"
+                "file": "Operating System/Alias Command.md"
               }
             }
           }
@@ -167,12 +170,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2a221d237e9e7c5b",
+  "active": "0d52ae7a2e5eeb7a",
   "lastOpenFiles": [
+    "Git/Git log.md",
+    "Git/Pasted image 20230724124921.png",
     "Git/Git amend.md",
     "Git/Git reflog.md",
     "Git/Pasted image 20230717113412.png",
-    "Git/Pasted image 20230724124921.png",
     "Operating System/Compress Files.md",
     "Operating System/Environment Variables.md",
     "Operating System/Computers networks commands.md",
