@@ -16,3 +16,6 @@ We can use this [[asymmetric cryptographic]] creating Public and Private Keys to
 **Steps to create Public and Private Keys:**
 
 **git remote set-url origin git@servidor-git.com:usuario/repo.git** ( To use the SSH key)
+
+git remote set-url origin git@github.com:usuario/nombre-repositorio.git
+Reemplaza "usuario" y "nombre-repositorio" con tu nombre de usuario de GitHub y el nombre de tu repositorio, respectivamente.
