@@ -15,5 +15,6 @@
     "t **e",
     "encry"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
