@@ -13,7 +13,8 @@
     "egrep",
     "d **e",
     "t **e",
-    "encry"
+    "encry",
+    "deleters"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false

@@ -26,9 +26,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7885ebfd3fbd4743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decorators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c740361276fbc6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Redirect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Environments.md",
+                "file": "Decorators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Environments.md",
+                "file": "Decorators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtual Environments.md"
+                "file": "Decorators.md"
               }
             }
           }
@@ -166,14 +190,17 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "1e8f8f8392db14c3",
+  "active": "7885ebfd3fbd4743",
   "lastOpenFiles": [
+    "Virtual Environments.md",
+    "Decorators.md",
+    "Git/Redirect.md",
+    "Operating System/Pipeline.md",
     "Operating System/Grep.md",
     "Git/Git reset.md",
     "git grep.md",
     "Git/Git cherry-pick.md",
     "Git/Git.md",
-    "Virtual Environments.md",
     "Operating System/Alias Command.md",
     "Git/Git amend.md",
     "Python",
@@ -198,9 +225,6 @@
     "Git/Deployment.md",
     "Git/Git Rebase.md",
     "Git/Git Fork.md",
-    "Git/Pull Request.md",
-    "Git/Public and Private Keys.md",
-    "Git/Deploy.md",
     "Git/Pasted image 20230721094403.png",
     "Git/Pasted image 20230720195952.png",
     "Git/Pasted image 20230720165354.png",
