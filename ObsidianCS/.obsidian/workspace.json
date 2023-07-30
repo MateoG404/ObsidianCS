@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "c8265d91a2929eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c740361276fbc6bd",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decorators.md",
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decorators.md",
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decorators.md"
+                "file": "Docker.md"
               }
             }
           }
@@ -190,10 +202,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "7885ebfd3fbd4743",
+  "active": "c8265d91a2929eef",
   "lastOpenFiles": [
-    "Virtual Environments.md",
+    "Untitled.md",
+    "Docker.md",
     "Decorators.md",
+    "Virtual Environments.md",
     "Git/Redirect.md",
     "Operating System/Pipeline.md",
     "Operating System/Grep.md",
@@ -223,8 +237,6 @@
     "Git/Git stash.md",
     "Git/Git ignore.md",
     "Git/Deployment.md",
-    "Git/Git Rebase.md",
-    "Git/Git Fork.md",
     "Git/Pasted image 20230721094403.png",
     "Git/Pasted image 20230720195952.png",
     "Git/Pasted image 20230720165354.png",
