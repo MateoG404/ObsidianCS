@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71dae840ac6ac941",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e8f8f8392db14c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Environments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7885ebfd3fbd4743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decorators.md",
+                "file": "Depedencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,12 +23,8 @@
             "id": "c8265d91a2929eef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git Rebase.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -64,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Rebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Rebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/Git Rebase.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -204,10 +176,20 @@
   },
   "active": "c8265d91a2929eef",
   "lastOpenFiles": [
+    "Git/Branch.md",
+    "Git/Git Rebase.md",
+    "Depedencies.md",
+    "Virtual Environments.md",
+    "Algorithms/Algorithm.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-07-30.md",
+    "Decorators.md",
+    "Operating System/Operating System.md",
+    "FastAPI.md",
+    "API.md",
     "Docker.md",
     "Untitled.md",
-    "Decorators.md",
-    "Virtual Environments.md",
     "Git/Redirect.md",
     "Operating System/Pipeline.md",
     "Operating System/Grep.md",
@@ -225,18 +207,8 @@
     "Operating System/Compress Files.md",
     "Operating System/Environment Variables.md",
     "Operating System/Computers networks commands.md",
-    "Operating System/Control Operators.md",
-    "Git/Wildcards.md",
-    "2023-07-24.md",
-    "[System control version.md",
     "Git",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Git/Git clean.md",
     "Git/Pasted image 20230724123738.png",
-    "Git/Git stash.md",
-    "Git/Git ignore.md",
-    "Git/Deployment.md",
     "Git/Pasted image 20230721094403.png",
     "Git/Pasted image 20230720195952.png",
     "Git/Pasted image 20230720165354.png",

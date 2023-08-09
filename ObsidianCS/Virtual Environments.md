@@ -12,7 +12,7 @@ python3 -m venv <nombre_virtual_env>
 ```
 2. Activate venv
 ```zsh
-source env/bin/activate
+	source env/bin/activate
 ```
 3. Know [[Depedencies]]
 ```zsh
