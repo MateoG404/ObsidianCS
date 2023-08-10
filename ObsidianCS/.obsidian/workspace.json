@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2565c07356e3ed21",
+        "id": "4a7bc69ad56e7921",
         "type": "tabs",
         "children": [
           {
-            "id": "7885ebfd3fbd4743",
+            "id": "9a733b0782a5681e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Depedencies.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c8265d91a2929eef",
+            "id": "6d4dcd5f3b2fecd1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,19 +24,19 @@
             }
           },
           {
-            "id": "c740361276fbc6bd",
+            "id": "5eec247addf9f39f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Redirect.md",
+                "file": "Computing Machinery and Intelligence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computing Machinery and Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computing Machinery and Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computing Machinery and Intelligence.md"
+              }
             }
           }
         ],
@@ -174,11 +174,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c8265d91a2929eef",
+  "active": "5eec247addf9f39f",
   "lastOpenFiles": [
+    "Alan Turing.md",
+    "Computing Machinery and Intelligence.md",
+    "Git/Git.md",
+    "Git/Redirect.md",
+    "Depedencies.md",
     "Git/Branch.md",
     "Git/Git Rebase.md",
-    "Depedencies.md",
     "Virtual Environments.md",
     "Algorithms/Algorithm.md",
     "Untitled 1.canvas",
@@ -190,13 +194,11 @@
     "API.md",
     "Docker.md",
     "Untitled.md",
-    "Git/Redirect.md",
     "Operating System/Pipeline.md",
     "Operating System/Grep.md",
     "Git/Git reset.md",
     "git grep.md",
     "Git/Git cherry-pick.md",
-    "Git/Git.md",
     "Operating System/Alias Command.md",
     "Git/Git amend.md",
     "Python",
@@ -204,9 +206,6 @@
     "Git/Pasted image 20230724124921.png",
     "Git/Git reflog.md",
     "Git/Pasted image 20230717113412.png",
-    "Operating System/Compress Files.md",
-    "Operating System/Environment Variables.md",
-    "Operating System/Computers networks commands.md",
     "Git",
     "Git/Pasted image 20230724123738.png",
     "Git/Pasted image 20230721094403.png",
