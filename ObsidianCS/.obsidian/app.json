@@ -1,9 +1,6 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "es",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "spellcheckDictionary": [
     "effiency",
     "Eulerian",
@@ -14,7 +11,8 @@
     "d **e",
     "t **e",
     "encry",
-    "deleters"
+    "deleters",
+    "Dat"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false
