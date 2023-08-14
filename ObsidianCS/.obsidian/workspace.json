@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b7dc3ba58a2e61",
+        "id": "d7f06f1e1834cea6",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6aa2aceba1a442",
+            "id": "d503285ea5b377ee",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,12 +148,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2b6aa2aceba1a442",
+  "active": "d503285ea5b377ee",
   "lastOpenFiles": [
+    "Dart.md",
+    "Pasted image 20230814153645.png",
     "14-Agosto Mobile class.md",
     "Flutter.md",
     "Untitled.md",
-    "Dart.md",
     "Pasted image 20230814151850.png",
     "Server.md",
     "SDK.md",
@@ -184,7 +185,6 @@
     "Git/Pasted image 20230720161720.png",
     "Git/Pasted image 20230719133830.png",
     "Git/Pasted image 20230719113323.png",
-    "Git/Pasted image 20230719110159.png",
     "Git",
     "Untitled.canvas",
     "Untitled 1.canvas",
