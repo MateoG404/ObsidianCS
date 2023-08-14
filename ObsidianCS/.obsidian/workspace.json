@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cadd2401b67594e9",
+        "id": "a4b7dc3ba58a2e61",
         "type": "tabs",
         "children": [
           {
-            "id": "2e5505dde5e7c7b8",
+            "id": "2b6aa2aceba1a442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87df6bedbfd38d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4bad88303cbbe1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14-Agosto Mobile class.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -118,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dart.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,16 +148,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2e5505dde5e7c7b8",
+  "active": "2b6aa2aceba1a442",
   "lastOpenFiles": [
-    "Server.md",
-    "Dart.md",
+    "14-Agosto Mobile class.md",
     "Flutter.md",
+    "Untitled.md",
+    "Dart.md",
+    "Pasted image 20230814151850.png",
+    "Server.md",
     "SDK.md",
     "IOS.md",
     "Frances/README.md",
     "mobile applications.md",
-    "14-Agosto Mobile class.md",
     "Deployment.md",
     "multicore processors.md",
     "git grep.md",
@@ -206,8 +176,6 @@
     "Git/principios_de_usabilidad.md",
     "Git/Wildcards.md",
     "Git/Symbolic Link.md",
-    "Git/Staging.md",
-    "Git/Search Commands.md",
     "Git/Pasted image 20230724124921.png",
     "Git/Pasted image 20230724123738.png",
     "Git/Pasted image 20230721094403.png",
@@ -217,7 +185,6 @@
     "Git/Pasted image 20230719133830.png",
     "Git/Pasted image 20230719113323.png",
     "Git/Pasted image 20230719110159.png",
-    "Git/Pasted image 20230718104006.png",
     "Git",
     "Untitled.canvas",
     "Untitled 1.canvas",
