@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea5ac909d0f38a93",
+            "id": "2e5505dde5e7c7b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87df6bedbfd38d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14-Agosto Mobile class.md",
+                "file": "Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14-Agosto Mobile class.md",
+                "file": "Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14-Agosto Mobile class.md"
+                "file": "Dart.md"
               }
             }
           }
@@ -165,8 +180,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "f4bad88303cbbe1e",
+  "active": "2e5505dde5e7c7b8",
   "lastOpenFiles": [
+    "Flutter.md",
+    "SDK.md",
+    "IOS.md",
+    "Dart.md",
+    "Frances/README.md",
+    "mobile applications.md",
     "14-Agosto Mobile class.md",
     "Deployment.md",
     "multicore processors.md",
@@ -187,10 +208,6 @@
     "Git/Staging.md",
     "Git/Search Commands.md",
     "Git/Redirect.md",
-    "Git/Pull Request.md",
-    "Git/Public and Private Keys.md",
-    "Git/Privileges.md",
-    "Git/Pipe Operator.md",
     "Git/Pasted image 20230724124921.png",
     "Git/Pasted image 20230724123738.png",
     "Git/Pasted image 20230721094403.png",
@@ -201,8 +218,6 @@
     "Git/Pasted image 20230719113323.png",
     "Git/Pasted image 20230719110159.png",
     "Git/Pasted image 20230718104006.png",
-    "Git/Merge.md",
-    "Git/Git.md",
     "Git",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -1,0 +1,2 @@
+
+It's an [[Open source]] [[language programming]] that is primarily used for building web, desktop, and [[mobile applications]]. It was developed by Google and first introduced in 2011. Dart is designed to be easy to learn, efficient, and suitable for a wide range of development scenarios
