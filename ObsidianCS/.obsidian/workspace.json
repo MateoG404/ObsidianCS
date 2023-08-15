@@ -11,8 +11,24 @@
             "id": "d503285ea5b377ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Value Proposition Canvas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd477929e635080e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "customer jobs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Value Proposition Canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Value Proposition Canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Value Proposition Canvas.md"
+              }
             }
           }
         ]
@@ -150,11 +170,13 @@
   },
   "active": "d503285ea5b377ee",
   "lastOpenFiles": [
+    "customer jobs.md",
+    "Value Proposition Canvas.md",
+    "Pasted image 20230815032914.png",
     "Dart.md",
     "Pasted image 20230814153645.png",
     "14-Agosto Mobile class.md",
     "Flutter.md",
-    "Untitled.md",
     "Pasted image 20230814151850.png",
     "Server.md",
     "SDK.md",
@@ -184,7 +206,6 @@
     "Git/Pasted image 20230720165354.png",
     "Git/Pasted image 20230720161720.png",
     "Git/Pasted image 20230719133830.png",
-    "Git/Pasted image 20230719113323.png",
     "Git",
     "Untitled.canvas",
     "Untitled 1.canvas",
