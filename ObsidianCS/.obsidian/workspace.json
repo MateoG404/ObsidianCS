@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f06f1e1834cea6",
+        "id": "1ca76a7f46c72626",
         "type": "tabs",
         "children": [
           {
-            "id": "d503285ea5b377ee",
+            "id": "352e37cc4c5793ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Value Proposition Canvas.md",
+                "file": "Dart.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd477929e635080e",
+            "id": "8bfc8484bcac90f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "customer jobs.md",
+                "file": "16 - Agosto - mobile class.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Value Proposition Canvas.md",
+                "file": "16 - Agosto - mobile class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Value Proposition Canvas.md",
+                "file": "16 - Agosto - mobile class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Value Proposition Canvas.md"
+                "file": "16 - Agosto - mobile class.md"
               }
             }
           }
@@ -168,12 +169,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d503285ea5b377ee",
+  "active": "8bfc8484bcac90f1",
   "lastOpenFiles": [
+    "Dart.md",
+    "16 - Agosto - mobile class.md",
     "customer jobs.md",
     "Value Proposition Canvas.md",
     "Pasted image 20230815032914.png",
-    "Dart.md",
     "Pasted image 20230814153645.png",
     "14-Agosto Mobile class.md",
     "Flutter.md",
@@ -198,7 +200,6 @@
     "Operating System/Alias Command.md",
     "Git/principios_de_usabilidad.md",
     "Git/Wildcards.md",
-    "Git/Symbolic Link.md",
     "Git/Pasted image 20230724124921.png",
     "Git/Pasted image 20230724123738.png",
     "Git/Pasted image 20230721094403.png",
