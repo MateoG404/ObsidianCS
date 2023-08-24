@@ -1,14 +1,13 @@
-{
   "main": {
     "id": "cb14ef16eafa4dc6",
     "type": "split",
     "children": [
       {
-        "id": "d7f06f1e1834cea6",
+        "id": "1ca76a7f46c72626",
         "type": "tabs",
         "children": [
           {
-            "id": "d503285ea5b377ee",
+            "id": "352e37cc4c5793ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,18 +25,19 @@
               "type": "markdown",
               "state": {
                 "file": "Virtual Environments.md",
+                "file": "Dart.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd477929e635080e",
-            "type": "leaf",
+            "id": "8bfc8484bcac90f1",
+          "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "customer jobs.md",
+                "file": "16 - Agosto - mobile class.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Virtual Environments.md",
+=======
+                "file": "16 - Agosto - mobile class.md",
+>>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +140,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Virtual Environments.md",
+=======
+                "file": "16 - Agosto - mobile class.md",
+>>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +167,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Virtual Environments.md"
+=======
+                "file": "16 - Agosto - mobile class.md"
+>>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
               }
             }
           }
@@ -181,6 +193,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
+<<<<<<< HEAD
   "active": "faf418162f3a83d6",
   "lastOpenFiles": [
     "Untitled.md",
@@ -188,10 +201,16 @@
     "Git/Git stash.md",
     "Git/Public and Private Keys.md",
     "SSH.md",
+=======
+  "active": "8bfc8484bcac90f1",
+  "lastOpenFiles": [
+    "Dart.md",
+    "16 - Agosto - mobile class.md",
+    "customer jobs.md",
+>>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
     "Value Proposition Canvas.md",
     "customer jobs.md",
     "Pasted image 20230815032914.png",
-    "Dart.md",
     "Pasted image 20230814153645.png",
     "14-Agosto Mobile class.md",
     "Flutter.md",
@@ -212,6 +231,12 @@
     "Operating System/Computers networks commands.md",
     "Operating System/Compress Files.md",
     "Operating System/Command.md",
+<<<<<<< HEAD
+=======
+    "Operating System/Alias Command.md",
+    "Git/principios_de_usabilidad.md",
+    "Git/Wildcards.md",
+>>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
     "Git/Pasted image 20230724124921.png",
     "Git/Pasted image 20230724123738.png",
     "Git/Pasted image 20230721094403.png",
