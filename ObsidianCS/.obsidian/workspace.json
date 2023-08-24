@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Value Proposition Canvas.md",
+                "file": "Virtual Environments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faf418162f3a83d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Environments.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Value Proposition Canvas.md",
+                "file": "Virtual Environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Value Proposition Canvas.md",
+                "file": "Virtual Environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Value Proposition Canvas.md"
+                "file": "Virtual Environments.md"
               }
             }
           }
@@ -168,10 +181,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d503285ea5b377ee",
+  "active": "faf418162f3a83d6",
   "lastOpenFiles": [
-    "customer jobs.md",
+    "Untitled.md",
+    "Virtual Environments.md",
+    "Git/Git stash.md",
+    "Git/Public and Private Keys.md",
+    "SSH.md",
     "Value Proposition Canvas.md",
+    "customer jobs.md",
     "Pasted image 20230815032914.png",
     "Dart.md",
     "Pasted image 20230814153645.png",
@@ -186,7 +204,6 @@
     "Deployment.md",
     "multicore processors.md",
     "git grep.md",
-    "Virtual Environments.md",
     "Task Parallelism.md",
     "Parallel Computing.md",
     "Operating System/Grep.md",
@@ -195,10 +212,6 @@
     "Operating System/Computers networks commands.md",
     "Operating System/Compress Files.md",
     "Operating System/Command.md",
-    "Operating System/Alias Command.md",
-    "Git/principios_de_usabilidad.md",
-    "Git/Wildcards.md",
-    "Git/Symbolic Link.md",
     "Git/Pasted image 20230724124921.png",
     "Git/Pasted image 20230724123738.png",
     "Git/Pasted image 20230721094403.png",
