@@ -1,43 +1,27 @@
+{
   "main": {
-    "id": "cb14ef16eafa4dc6",
+    "id": "d4a50da51887c58a",
     "type": "split",
     "children": [
       {
-        "id": "1ca76a7f46c72626",
+        "id": "5cb8c7047607ee79",
         "type": "tabs",
         "children": [
           {
-            "id": "352e37cc4c5793ca",
+            "id": "23c7b91fd5d70a15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a98a120fcae91b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual Environments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faf418162f3a83d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Environments.md",
-                "file": "Dart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bfc8484bcac90f1",
-          "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16 - Agosto - mobile class.md",
+                "file": "Personas.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1826c8b4680c691a",
+    "id": "dca9b22d4640cfe4",
     "type": "split",
     "children": [
       {
-        "id": "703a15fd280455e1",
+        "id": "2d3fe79df733f52f",
         "type": "tabs",
         "children": [
           {
-            "id": "2a221d237e9e7c5b",
+            "id": "305666cd9f6e5355",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,13 +52,13 @@
             }
           },
           {
-            "id": "5da8625ddb407884",
+            "id": "6cd2b217bb5458fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "PRI",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,15 +67,7 @@
             }
           },
           {
-            "id": "148c023f1f828ae6",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "e6f4827c10d58b65",
+            "id": "4f41b9fec9d1752e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,24 +82,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "e2f0ca665b8fb7c9",
+    "id": "19648e84b0e98bc5",
     "type": "split",
     "children": [
       {
-        "id": "29c4e6c3ef3fce12",
+        "id": "4285cefa25b9b62d",
         "type": "tabs",
         "children": [
           {
-            "id": "757ba3b36f79555e",
+            "id": "6dde318aadcb2615",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Virtual Environments.md",
-=======
-                "file": "16 - Agosto - mobile class.md",
->>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
+                "file": "Personas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,23 +107,19 @@
             }
           },
           {
-            "id": "0f8f184da2004fc9",
+            "id": "8e8fcae52bc29136",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Virtual Environments.md",
-=======
-                "file": "16 - Agosto - mobile class.md",
->>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
+                "file": "Personas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a121f26f6b36801e",
+            "id": "14fcf4d950173bfd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,16 +130,12 @@
             }
           },
           {
-            "id": "ced8683bfa34cf4e",
+            "id": "e775ff8c7a42774b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Virtual Environments.md"
-=======
-                "file": "16 - Agosto - mobile class.md"
->>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
+                "file": "Personas.md"
               }
             }
           }
@@ -184,77 +148,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "faf418162f3a83d6",
+  "active": "a98a120fcae91b13",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Virtual Environments.md",
-    "Git/Git stash.md",
-    "Git/Public and Private Keys.md",
-    "SSH.md",
-=======
-  "active": "8bfc8484bcac90f1",
-  "lastOpenFiles": [
-    "Dart.md",
-    "16 - Agosto - mobile class.md",
-    "customer jobs.md",
->>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
-    "Value Proposition Canvas.md",
-    "customer jobs.md",
-    "Pasted image 20230815032914.png",
-    "Pasted image 20230814153645.png",
-    "14-Agosto Mobile class.md",
-    "Flutter.md",
-    "Pasted image 20230814151850.png",
-    "Server.md",
-    "SDK.md",
-    "IOS.md",
-    "Frances/README.md",
-    "mobile applications.md",
-    "Deployment.md",
-    "multicore processors.md",
-    "git grep.md",
-    "Task Parallelism.md",
-    "Parallel Computing.md",
-    "Operating System/Grep.md",
-    "Operating System/Environment Variables.md",
-    "Operating System/Control Operators.md",
-    "Operating System/Computers networks commands.md",
-    "Operating System/Compress Files.md",
-    "Operating System/Command.md",
-<<<<<<< HEAD
-=======
-    "Operating System/Alias Command.md",
-    "Git/principios_de_usabilidad.md",
-    "Git/Wildcards.md",
->>>>>>> 35a7661e67212013ddad4185fde00ae6f9476082
-    "Git/Pasted image 20230724124921.png",
-    "Git/Pasted image 20230724123738.png",
-    "Git/Pasted image 20230721094403.png",
-    "Git/Pasted image 20230720195952.png",
-    "Git/Pasted image 20230720165354.png",
-    "Git/Pasted image 20230720161720.png",
-    "Git/Pasted image 20230719133830.png",
-    "Git",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Frances",
-    "Theory of computation",
-    "Operating System/Procesos.xopp~",
-    "Operating System/Procesos.xopp",
-    "Operating System/SO_Introduccion.pdf",
-    "Operating System/SO_Introduccion.xopp~",
-    "Machine Learning",
-    "Operating System/SO_Introduccion.xopp",
-    "Operating System"
+    "Personas.md"
   ]
 }
