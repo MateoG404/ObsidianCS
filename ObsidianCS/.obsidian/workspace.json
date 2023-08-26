@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb8c7047607ee79",
+        "id": "d64adee1b924deba",
         "type": "tabs",
         "children": [
           {
-            "id": "23c7b91fd5d70a15",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a98a120fcae91b13",
+            "id": "16a41b1a3c4d95b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innovation/Value Proposition Canvas.md",
+                "file": "Backend/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5b2e4f1f54f4182",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230408190142.png"
+              }
+            }
+          },
+          {
+            "id": "c0c3065097f2a508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innovation/Value Proposition Canvas.md",
+                "file": "Images/Pasted image 20230408190142.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innovation/Value Proposition Canvas.md",
+                "file": "Images/Pasted image 20230408190142.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innovation/Value Proposition Canvas.md"
+                "file": "Images/Pasted image 20230408190142.png"
               }
             }
           }
@@ -158,14 +172,27 @@
   },
   "active": "305666cd9f6e5355",
   "lastOpenFiles": [
+    "Images/Pasted image 20230407194122.png",
+    "Images/Pasted image 20230814151850.png",
+    "Images/Pasted image 20230720161720.png",
+    "Images/Pasted image 20230717113412.png",
+    "Images/Pasted image 20230215064228.png",
+    "Images/Pasted image 20230826104920.png",
+    "Images",
+    "Backend/CRUD.md",
+    "Backend/API.md",
+    "Images/Pasted image 20230826111801.png",
+    "Images/Pasted image 20230826111754.png",
+    "Images/Pasted image 20230826111735.png",
+    "Backend/HTTP.md",
+    "Backend/Framework.md",
+    "Images/Pasted image 20230826110248.png",
+    "Images/Pasted image 20230826105710.png",
+    "Backend/Endpoint.md",
     "Backend/SDK.md",
-    "Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Innovation/Personas.md",
-    "Innovation/Pasted image 20230815032914.png",
-    "Mobile dev/Pasted image 20230814153645.png",
-    "Mobile dev/Pasted image 20230814151850.png",
     "Backend/Depedencies.md",
     "Backend/Decorators.md",
     "Operating System/Data Parallelism.md",
@@ -173,7 +200,6 @@
     "Innovation/customer jobs.md",
     "Mobile dev",
     "Innovation",
-    "Backend/API.md",
     "Backend",
     "Machine Learning/Alan Turing.md",
     "Class notes/14 - Agosto - Ingesoft II.md",
