@@ -4,45 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "d64adee1b924deba",
+        "id": "50a816e105e5a342",
         "type": "tabs",
         "children": [
           {
-            "id": "16a41b1a3c4d95b0",
+            "id": "ddb2d44ab6c78ffa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "47b9c339326b2b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/HTTP.md",
+                "file": "Backend/Cloud.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d5b2e4f1f54f4182",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230408190142.png"
-              }
-            }
-          },
-          {
-            "id": "c0c3065097f2a508",
+            "id": "37283c531dd5752d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/CRUD.md",
+                "file": "DevOps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "19648e84b0e98bc5",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230408190142.png",
+                "file": "DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230408190142.png",
+                "file": "DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230408190142.png"
+                "file": "DevOps.md"
               }
             }
           }
@@ -170,8 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "305666cd9f6e5355",
+  "active": "37283c531dd5752d",
   "lastOpenFiles": [
+    "Backend/Cloud.md",
+    "DevOps.md",
+    "Backend/CRUD.md",
+    "Backend/API.md",
+    "Backend/HTTP.md",
+    "Images/Pasted image 20230408190142.png",
     "Images/Pasted image 20230407194122.png",
     "Images/Pasted image 20230814151850.png",
     "Images/Pasted image 20230720161720.png",
@@ -179,15 +184,10 @@
     "Images/Pasted image 20230215064228.png",
     "Images/Pasted image 20230826104920.png",
     "Images",
-    "Backend/CRUD.md",
-    "Backend/API.md",
     "Images/Pasted image 20230826111801.png",
     "Images/Pasted image 20230826111754.png",
     "Images/Pasted image 20230826111735.png",
-    "Backend/HTTP.md",
     "Backend/Framework.md",
-    "Images/Pasted image 20230826110248.png",
-    "Images/Pasted image 20230826105710.png",
     "Backend/Endpoint.md",
     "Backend/SDK.md",
     "Untitled 1.canvas",
