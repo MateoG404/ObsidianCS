@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architecture.md",
+                "file": "Backend/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SaaS - Software as a Service.md",
+                "file": "Backend/SaaS - Software as a Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "19648e84b0e98bc5",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture.md",
+                "file": "Backend/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture.md",
+                "file": "Backend/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture.md"
+                "file": "Backend/Requirements.md"
               }
             }
           }
@@ -172,16 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37283c531dd5752d",
+  "active": "305666cd9f6e5355",
   "lastOpenFiles": [
-    "Pasted image 20230828103214.png",
-    "SaaS - Software as a Service.md",
-    "Software Architecture.md",
-    "PaaS - Platform as a Service.md",
-    "IaaS - Infrastructure as a Service.md",
-    "IaaS - Infrastucture as a Service.md",
-    "Requirements.md",
-    "DevOps.md",
+    "Backend/IaaS - Infrastructure as a Service.md",
+    "Backend/Software Architecture.md",
+    "Images/Pasted image 20230828103214.png",
+    "Backend/SaaS - Software as a Service.md",
+    "Backend/PaaS - Platform as a Service.md",
+    "Backend/IaaS - Infrastucture as a Service.md",
+    "Backend/Requirements.md",
+    "Backend/DevOps.md",
     "Backend/Cloud.md",
     "Innovation/Personas.md",
     "Backend/CRUD.md",
@@ -197,7 +196,6 @@
     "Images",
     "Images/Pasted image 20230826111801.png",
     "Images/Pasted image 20230826111754.png",
-    "Images/Pasted image 20230826111735.png",
     "Backend/Framework.md",
     "Backend/Endpoint.md",
     "Backend/SDK.md",
