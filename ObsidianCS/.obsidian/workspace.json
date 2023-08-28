@@ -1,18 +1,11 @@
-{
-  "main": {
-    "id": "d4a50da51887c58a",
-    "type": "split",
-    "children": [
-      {
-        "id": "ee825501fed071f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45c789480deccfbc",
-            "type": "leaf",
+",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Replication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Replication.md"
+              }
             }
           }
         ]
