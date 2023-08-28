@@ -1,8 +1,19 @@
-",
+{
+  "main": {
+    "id": "08137e98a7c0465d",
+    "type": "split",
+    "children": [
+      {
+        "id": "326934da55887077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6d9784555bfe703",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replication.md",
+                "file": "Backend/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -14,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dca9b22d4640cfe4",
+    "id": "96e22125f0d0e1fa",
     "type": "split",
     "children": [
       {
-        "id": "2d3fe79df733f52f",
+        "id": "d80be4d359f42e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "305666cd9f6e5355",
+            "id": "a30cee1e75c029d9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -32,7 +43,7 @@
             }
           },
           {
-            "id": "6cd2b217bb5458fe",
+            "id": "beeb713f593d022b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,7 +58,7 @@
             }
           },
           {
-            "id": "4f41b9fec9d1752e",
+            "id": "6859280f5cd7e1c8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -58,24 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "19648e84b0e98bc5",
+    "id": "1228de5e07b9ea23",
     "type": "split",
     "children": [
       {
-        "id": "4285cefa25b9b62d",
+        "id": "f9cece1fa1a10623",
         "type": "tabs",
         "children": [
           {
-            "id": "6dde318aadcb2615",
+            "id": "15c405c222c2ce74",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Replication.md",
+                "file": "Backend/Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,19 +97,19 @@
             }
           },
           {
-            "id": "8e8fcae52bc29136",
+            "id": "efa6e67bb5105f0f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Replication.md",
+                "file": "Backend/Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "14fcf4d950173bfd",
+            "id": "4a026095adb94b9c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -110,12 +120,12 @@
             }
           },
           {
-            "id": "e775ff8c7a42774b",
+            "id": "bef7789621dd0454",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Replication.md"
+                "file": "Backend/Replication.md"
               }
             }
           }
@@ -137,49 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45c789480deccfbc",
+  "active": "a30cee1e75c029d9",
   "lastOpenFiles": [
-    "Pasted image 20230828120612.png",
-    "Untitled.md",
-    "Horizontal scalability.md",
-    "Replication.md",
-    "Pasted image 20230828111509.png",
-    "Pasted image 20230828111507.png",
-    "Vertical scalability.md",
-    "Scalability.md",
-    "network.md",
-    "Backend/Server.md",
-    "Operating System/Operating System.md",
-    "Data Bases.md",
-    "Innovation/Personas.md",
-    "Backend/SaaS - Software as a Service.md",
-    "Cookies.md",
-    "web applications.md",
-    "JWT.md",
-    "Pasted image 20230828104321.png",
-    "Backend/Requirements.md",
-    "Backend/IaaS - Infrastructure as a Service.md",
-    "Backend/Software Architecture.md",
-    "Images/Pasted image 20230828103214.png",
-    "Backend/PaaS - Platform as a Service.md",
-    "Backend/IaaS - Infrastucture as a Service.md",
-    "Backend/DevOps.md",
-    "Backend/Cloud.md",
-    "Backend/CRUD.md",
-    "Backend/API.md",
-    "Backend/HTTP.md",
-    "Images/Pasted image 20230408190142.png",
-    "Images/Pasted image 20230407194122.png",
-    "Images/Pasted image 20230814151850.png",
-    "Images/Pasted image 20230720161720.png",
-    "Images/Pasted image 20230717113412.png",
-    "Images",
-    "Backend/Framework.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Mobile dev",
-    "Innovation",
-    "Backend",
-    "Class notes"
+    "Images/Pasted image 20230828104321.png",
+    "Backend/Cookies.md"
   ]
 }
