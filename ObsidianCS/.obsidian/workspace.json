@@ -8,39 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddb2d44ab6c78ffa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "47b9c339326b2b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "37283c531dd5752d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps.md",
+                "file": "Software Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc4eade0032466d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SaaS - Software as a Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0dca7ec669d1b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innovation/Personas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps.md",
+                "file": "Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps.md",
+                "file": "Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps.md"
+                "file": "Software Architecture.md"
               }
             }
           }
@@ -171,8 +174,16 @@
   },
   "active": "37283c531dd5752d",
   "lastOpenFiles": [
-    "Backend/Cloud.md",
+    "Pasted image 20230828103214.png",
+    "SaaS - Software as a Service.md",
+    "Software Architecture.md",
+    "PaaS - Platform as a Service.md",
+    "IaaS - Infrastructure as a Service.md",
+    "IaaS - Infrastucture as a Service.md",
+    "Requirements.md",
     "DevOps.md",
+    "Backend/Cloud.md",
+    "Innovation/Personas.md",
     "Backend/CRUD.md",
     "Backend/API.md",
     "Backend/HTTP.md",
@@ -192,7 +203,6 @@
     "Backend/SDK.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Innovation/Personas.md",
     "Backend/Depedencies.md",
     "Backend/Decorators.md",
     "Operating System/Data Parallelism.md",
