@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "50a816e105e5a342",
+        "id": "b4c5cd6b2fdec8d1",
         "type": "tabs",
         "children": [
           {
-            "id": "37283c531dd5752d",
+            "id": "925f09c44da6fbd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Requirements.md",
+                "file": "Horizontal scalability.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc4eade0032466d2",
+            "id": "11bd6efa2e2068e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/SaaS - Software as a Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0dca7ec669d1b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innovation/Personas.md",
+                "file": "Replication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "19648e84b0e98bc5",
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Requirements.md",
+                "file": "Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Requirements.md",
+                "file": "Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Requirements.md"
+                "file": "Replication.md"
               }
             }
           }
@@ -171,18 +161,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "305666cd9f6e5355",
+  "active": "11bd6efa2e2068e8",
   "lastOpenFiles": [
+    "Horizontal scalability.md",
+    "Replication.md",
+    "Pasted image 20230828111509.png",
+    "Pasted image 20230828111507.png",
+    "Vertical scalability.md",
+    "Scalability.md",
+    "network.md",
+    "Backend/Server.md",
+    "Operating System/Operating System.md",
+    "Data Bases.md",
+    "Innovation/Personas.md",
+    "Backend/SaaS - Software as a Service.md",
+    "Cookies.md",
+    "web applications.md",
+    "JWT.md",
+    "Pasted image 20230828104321.png",
+    "Backend/Requirements.md",
     "Backend/IaaS - Infrastructure as a Service.md",
     "Backend/Software Architecture.md",
     "Images/Pasted image 20230828103214.png",
-    "Backend/SaaS - Software as a Service.md",
     "Backend/PaaS - Platform as a Service.md",
     "Backend/IaaS - Infrastucture as a Service.md",
-    "Backend/Requirements.md",
     "Backend/DevOps.md",
     "Backend/Cloud.md",
-    "Innovation/Personas.md",
     "Backend/CRUD.md",
     "Backend/API.md",
     "Backend/HTTP.md",
@@ -192,27 +196,15 @@
     "Images/Pasted image 20230720161720.png",
     "Images/Pasted image 20230717113412.png",
     "Images/Pasted image 20230215064228.png",
-    "Images/Pasted image 20230826104920.png",
     "Images",
-    "Images/Pasted image 20230826111801.png",
-    "Images/Pasted image 20230826111754.png",
     "Backend/Framework.md",
     "Backend/Endpoint.md",
     "Backend/SDK.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Backend/Depedencies.md",
-    "Backend/Decorators.md",
-    "Operating System/Data Parallelism.md",
-    "Mobile dev/Dart.md",
-    "Innovation/customer jobs.md",
     "Mobile dev",
     "Innovation",
     "Backend",
-    "Machine Learning/Alan Turing.md",
-    "Class notes/14 - Agosto - Ingesoft II.md",
-    "2023-07-30.md",
-    "Git/Git stash.md",
     "Class notes"
   ]
 }

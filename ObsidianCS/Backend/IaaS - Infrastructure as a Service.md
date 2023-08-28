@@ -1,7 +1,7 @@
 
 ## What is IaaS?
 
-It's a service to provide virtualized computing resources. Offers virtual machines, storage and [[networking]] infrastructure. The users have the responsibilities to manage the [[Operating System]], [[Storage]] and the [[Virtual Machines]] 
+It's a service to provide virtualized computing resources. Offers virtual machines, storage and [[network]] infrastructure. The users have the responsibilities to manage the [[Operating System]], [[Storage]] and the [[Virtual Machines]] 
 
 ## Use cases
 
