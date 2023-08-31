@@ -1,0 +1,56 @@
+{
+  "scanned": true,
+  "reminders": {
+    "TODO.md": [
+      {
+        "title": "MicroSprint 4",
+        "time": "2023-09-02",
+        "rowNumber": 6
+      },
+      {
+        "title": "Preparar clase viernes",
+        "time": "2023-09-01",
+        "rowNumber": 7
+      },
+      {
+        "title": "Preparar Tarea semana 5",
+        "time": "2023-09-05",
+        "rowNumber": 11
+      },
+      {
+        "title": "Hacer lista de temas por estudiar",
+        "time": "2023-09-01",
+        "rowNumber": 15
+      },
+      {
+        "title": "Ver clases",
+        "time": "2023-09-05",
+        "rowNumber": 19
+      },
+      {
+        "title": "Preparar exposición",
+        "time": "2023-09-05",
+        "rowNumber": 23
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
