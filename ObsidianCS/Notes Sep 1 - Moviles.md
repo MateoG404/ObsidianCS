@@ -40,3 +40,15 @@
 	 * Define the relationship between the user problem and the solution
 	 * Is an indicator of sustainable apps
 
+* Growth
+	* Important concept to [[Backend/Scalability|Scalability]] the [[revenue models]] and the [[mobile applications]]
+	* How do my clients get to me?
+		* Using the product
+		* Marketing
+		* Personal recommendations
+		* Further purchases (Sell more)
+ 
+ + Engine Key aspects
+	 + Acquring clients
+	 + Pricing Model
+	 + 
