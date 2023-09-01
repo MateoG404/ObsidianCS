@@ -4,31 +4,117 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef5142636c9f255",
+        "id": "c42c3b76c51c565b",
         "type": "tabs",
         "children": [
           {
-            "id": "635f4b748aa14cf4",
+            "id": "aa3997735cf17788",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "6d1d79d7414679fd",
+            "id": "db4013fe8f5a9f68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d315c6d7d261f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Notes Sep 1 - Moviles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "693af964e079764b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In-app video ads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac40b5c846454b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rewarded video ads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cd31df629baabd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banner ads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c60c2e5556a124d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Native Ads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4194c71066673ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interstitial Ads.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
+      },
+      {
+        "id": "e8e85e540e645415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4bd33cdf5a97f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes Sep 1 - Moviles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Notes Sep 1 - Moviles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Notes Sep 1 - Moviles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,20 +221,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Notes Sep 1 - Moviles.md"
               }
             }
-          },
-          {
-            "id": "57f29be0934cb35e",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,24 +234,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6d1d79d7414679fd",
+  "active": "3a4bd33cdf5a97f6",
   "lastOpenFiles": [
+    "Native Ads.md",
+    "Notes Sep 1 - Moviles.md",
+    "In-app video ads.md",
+    "Banner ads.md",
+    "Rewarded video ads.md",
+    "Interstitial Ads.md",
+    "Pasted image 20230901084434.png",
     "TODO.md",
-    "Untitled",
-    "Backend/SSH.md",
-    "Git/Public and Private Keys.md",
-    "Backend/web applications.md",
     "Backend/Server-Side Rendering.md",
+    "Algorithms/Hamiltonian Path.md",
+    "Tractable Graph.md",
+    "Notes 31 Agos.md",
+    "Mobile dev/mobile applications.md",
+    "Mobile dev/Mobile Applications.md",
+    "CAS.md",
+    "web.md",
     "Backend/Task Queues.md",
+    "Server-Side Rendering.md",
     "Innovation/Notes about Case \"Familia Torres\" Harvard Business School.md",
     "Git/Git stash.md",
     "Backend/Cache.md",
@@ -183,26 +271,15 @@
     "Images/Pasted image 20230828111509.png",
     "Images/Pasted image 20230828111507.png",
     "Images/Pasted image 20230828104321.png",
+    "Backend/web applications.md",
     "Backend/network.md",
     "Backend/Vertical scalability.md",
     "Backend/Scalability.md",
     "Backend/Replication.md",
     "Backend/JWT.md",
-    "Backend/Horizontal scalability.md",
-    "Backend/Data Bases.md",
-    "Backend/Cookies.md",
-    "web applications.md",
-    "network.md",
-    "Vertical scalability.md",
-    "Scalability.md",
-    "Replication.md",
     "Pasted image 20230828120612.png",
     "Pasted image 20230828111509.png",
     "Pasted image 20230828111507.png",
-    "Pasted image 20230828104321.png",
-    "JWT.md",
-    "Horizontal scalability.md",
-    "Data Bases.md",
-    "Cookies.md"
+    "Pasted image 20230828104321.png"
   ]
 }
