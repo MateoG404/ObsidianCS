@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef5142636c9f255",
+        "id": "d1eb18ea95680878",
         "type": "tabs",
         "children": [
           {
-            "id": "635f4b748aa14cf4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d1d79d7414679fd",
+            "id": "5d171e42be55e5a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d1d79d7414679fd",
+  "active": "5d171e42be55e5a4",
   "lastOpenFiles": [
+    "Backend/SDK.md",
+    "Mobile dev/Flutter.md",
     "TODO.md",
     "Untitled",
     "Backend/SSH.md",
@@ -201,8 +194,6 @@
     "Pasted image 20230828111507.png",
     "Pasted image 20230828104321.png",
     "JWT.md",
-    "Horizontal scalability.md",
-    "Data Bases.md",
-    "Cookies.md"
+    "Horizontal scalability.md"
   ]
 }
