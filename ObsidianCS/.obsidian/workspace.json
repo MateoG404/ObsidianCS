@@ -7,6 +7,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "d1eb18ea95680878",
         "type": "tabs",
         "children": [
@@ -97,14 +98,25 @@
           },
           {
             "id": "a8af072ae26c20a3",
+=======
+        "id": "c42c3b76c51c565b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa3997735cf17788",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Task Queues.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "db4013fe8f5a9f68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -174,7 +186,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Repository.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +206,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Repository.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +231,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "Repository.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           },
           {
@@ -236,15 +258,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
+<<<<<<< Updated upstream
   "active": "f222cdf45375eb6c",
   "lastOpenFiles": [
     "Git/Git stash.md",
@@ -267,7 +290,19 @@
     "Git/Public and Private Keys.md",
     "Backend/web applications.md",
     "Backend/Server-Side Rendering.md",
+=======
+  "active": "db4013fe8f5a9f68",
+  "lastOpenFiles": [
+    "Algorithms/Hamiltonian Path.md",
+    "Tractable Graph.md",
+    "Notes 31 Agos.md",
+    "Mobile dev/mobile applications.md",
+    "Mobile dev/Mobile Applications.md",
+    "CAS.md",
+    "web.md",
+>>>>>>> Stashed changes
     "Backend/Task Queues.md",
+    "Server-Side Rendering.md",
     "Innovation/Notes about Case \"Familia Torres\" Harvard Business School.md",
     "Backend/Cache.md",
     "Images/Pasted image 20230828123327.png",
