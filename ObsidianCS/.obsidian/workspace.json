@@ -22,23 +22,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "a8af072ae26c20a3",
-
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "db4013fe8f5a9f68",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -91,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1228de5e07b9ea23",
@@ -123,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Task Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,13 +128,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backend/Task Queues.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,21 +149,39 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "dc31026831670dc5",
+  "active": "db4013fe8f5a9f68",
   "lastOpenFiles": [
+    "Algorithms/Hamiltonian Path.md",
+    "Tractable Graph.md",
+    "Notes 31 Agos.md",
+    "Mobile dev/mobile applications.md",
+    "Mobile dev/Mobile Applications.md",
+    "CAS.md",
+    "web.md",
+    "Backend/Task Queues.md",
     "Server-Side Rendering.md",
     "Innovation/Notes about Case \"Familia Torres\" Harvard Business School.md",
+    "Git/Git stash.md",
     "Backend/Cache.md",
     "Images/Pasted image 20230828123327.png",
     "Images/Pasted image 20230828120612.png",
     "Images/Pasted image 20230828111509.png",
     "Images/Pasted image 20230828111507.png",
     "Images/Pasted image 20230828104321.png",
+    "Backend/web applications.md",
     "Backend/network.md",
     "Backend/Vertical scalability.md",
     "Backend/Scalability.md",
     "Backend/Replication.md",
     "Backend/JWT.md",
+    "Backend/Horizontal scalability.md",
+    "Backend/Data Bases.md",
+    "Backend/Cookies.md",
+    "web applications.md",
+    "network.md",
+    "Vertical scalability.md",
+    "Scalability.md",
+    "Replication.md",
     "Pasted image 20230828120612.png",
     "Pasted image 20230828111509.png",
     "Pasted image 20230828111507.png",
