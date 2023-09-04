@@ -6,6 +6,7 @@
       {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "d1eb18ea95680878",
         "type": "tabs",
         "children": [
@@ -58,6 +59,25 @@
                 "mode": "source",
                 "source": false
               }
+=======
+        "id": "c42c3b76c51c565b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa3997735cf17788",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "db4013fe8f5a9f68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+>>>>>>> Stashed changes
             }
           },
           {
@@ -160,7 +180,10 @@
               "state": {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Git/Git stash.md",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -183,7 +206,10 @@
               "state": {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Git/Git stash.md",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -211,6 +237,7 @@
               "type": "outline",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "state": {
                 "file": "Git/Git stash.md"
               }
@@ -224,6 +251,8 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
               "state": {}
@@ -248,6 +277,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   "active": "f222cdf45375eb6c",
@@ -277,6 +307,10 @@
   "active": "db4013fe8f5a9f68",
   "lastOpenFiles": [
 >>>>>>> Stashed changes
+=======
+  "active": "db4013fe8f5a9f68",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "Algorithms/Hamiltonian Path.md",
     "Tractable Graph.md",
     "Notes 31 Agos.md",
@@ -285,6 +319,9 @@
     "CAS.md",
     "web.md",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
