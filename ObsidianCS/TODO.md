@@ -12,14 +12,14 @@
 ## Moviles
 
 - [x] MicroSprint 4 (@2023-09-02)
-- [ ] Preparar clase viernes (@2023-09-04)
+- [x] Preparar clase viernes (@2023-09-04)
 
 ## Emprendimiento
 
 - [ ] Preparar Tarea semana 5 (@2023-09-05)
 ## Francés
 
-- [ ] Hacer lista de temas por estudiar (@2023-09-04)
+- [ ] Hacer lista de temas por estudiar (@2023-09-04 12:00)
 - [ ] Preparar exposicion utopia
 ## Paralela
 
