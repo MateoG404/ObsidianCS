@@ -11,20 +11,27 @@
             "id": "aa3997735cf17788",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Innovation/Virtual Environments.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "db4013fe8f5a9f68",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes 4 Sept - Moviles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Innovation/Virtual Environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Innovation/Virtual Environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +138,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Innovation/Virtual Environments.md"
+              }
+            }
+          },
+          {
+            "id": "e7bbd400b0d9510b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -149,8 +169,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "db4013fe8f5a9f68",
+  "active": "aa3997735cf17788",
   "lastOpenFiles": [
+    "Notes 4 Sept - Moviles.md",
     "Algorithms/Hamiltonian Path.md",
     "Tractable Graph.md",
     "Notes 31 Agos.md",
@@ -181,7 +202,6 @@
     "network.md",
     "Vertical scalability.md",
     "Scalability.md",
-    "Replication.md",
     "Pasted image 20230828120612.png",
     "Pasted image 20230828111509.png",
     "Pasted image 20230828111507.png",

@@ -19,7 +19,7 @@
 - [ ] Preparar Tarea semana 5 (@2023-09-05)
 ## Francés
 
-- [ ] Hacer lista de temas por estudiar (@2023-09-04 12:00)
+- [ ] Hacer lista de temas por estudiar (@2023-09-04 20:35)
 - [ ] Preparar exposicion utopia
 ## Paralela
 
