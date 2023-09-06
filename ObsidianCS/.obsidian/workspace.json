@@ -19,12 +19,28 @@
             "id": "db4013fe8f5a9f68",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes 4 Sept - Moviles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02b66698a7b46621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas - Sep5  - Intro IA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas - Sep5  - Intro IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas - Sep5  - Intro IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +146,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Notas - Sep5  - Intro IA.md"
+              }
+            }
+          },
+          {
+            "id": "45e514bddb2ff586",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -149,8 +177,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "db4013fe8f5a9f68",
+  "active": "02b66698a7b46621",
   "lastOpenFiles": [
+    "Notes 4 Sept - Moviles.md",
+    "Notas - Sep5  - Intro IA.md",
+    "Notes Sep 1 - Moviles.md",
     "Algorithms/Hamiltonian Path.md",
     "Tractable Graph.md",
     "Notes 31 Agos.md",
@@ -179,9 +210,6 @@
     "Backend/Cookies.md",
     "web applications.md",
     "network.md",
-    "Vertical scalability.md",
-    "Scalability.md",
-    "Replication.md",
     "Pasted image 20230828120612.png",
     "Pasted image 20230828111509.png",
     "Pasted image 20230828111507.png",
