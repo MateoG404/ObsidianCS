@@ -7,6 +7,7 @@
 /Obsidian/.obsidian/workspace.json
 ObsidianCS/.obsidian/workspace.json
 # This file is used to keep track of last auto backup/pull
+.ObsidianCS/obsidian/*  
 .obsidian-git-data
 
 # Exclude Untitled Notes

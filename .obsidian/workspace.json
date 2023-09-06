@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0e753d0cef93a2e3",
+        "id": "3a535123d0804fd3",
         "type": "tabs",
         "children": [
           {
-            "id": "3b39e003dfc8fa07",
+            "id": "77ce6bb76b8aa01b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphs.md"
+              }
             }
           }
         ]
@@ -147,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b39e003dfc8fa07",
+  "active": "77ce6bb76b8aa01b",
   "lastOpenFiles": [
+    "ObsidianLogo.png",
     "Graphs.md",
     "Graph.md",
     "ObsidianCS/Algorithms/Big Theta.md",
