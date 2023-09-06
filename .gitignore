@@ -16,7 +16,7 @@ Untitled*
 # Exclude "bad" names
 null*
 
-
+.obsidian/workspace
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
