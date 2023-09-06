@@ -1,9 +1,10 @@
 /ObsidianCS/Frances
-/ObsidianCS/README.md}
+/ObsidianCS/README.md
 
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 .obsidian/workspace.json
-
+.obsidian/workspace.json
+/Obsidian/.obsidian/workspace.json
 # This file is used to keep track of last auto backup/pull
 .obsidian-git-data
 
@@ -11,6 +12,7 @@
 Untitled*
 # Exclude "bad" names
 null*
+
 
 # Add below lines to exclude OS settings and caches
 .trash/
