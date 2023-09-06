@@ -19,11 +19,11 @@
 - [x] Preparar Tarea semana 5 (@2023-09-05 19:20)
 ## Francés
 
-- [ ] Hacer lista de temas por estudiar (@2023-09-06 11:48)
+- [ ] Hacer lista de temas por estudiar (@2023-09-06 14:51)
 - [ ] Preparar exposicion utopia
 ## Paralela
 
-- [ ] Ver clases (@2023-09-06 11:48)
+- [ ] Ver clases (@2023-09-06 14:51)
 - [ ] Hacer código Leibiniz  + OMP usando hilos
 - [ ] Hacer benchmarks con 1, 2, 4, 8 y 16 hilos usando false sharing y no usando false sharing
 ## IA
