@@ -4,16 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2f5ec98d0712ca69",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aaab65cd2d70d9bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innovation/Virtual Environments.md",
+
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innovation/Virtual Environments.md",
+                
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innovation/Virtual Environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,12 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innovation/Virtual Environments.md"
+
               }
             }
           },
           {
-            "id": "e7bbd400b0d9510b",
+
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -157,10 +147,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "aaab65cd2d70d9bd",
-  "lastOpenFiles": [
-    "Notes 4 Sept - Moviles.md",
-    "Innovation/Virtual Environments.md",
+
     "Algorithms/Hamiltonian Path.md",
     "Tractable Graph.md",
     "Notes 31 Agos.md",
@@ -186,10 +173,7 @@
     "Backend/JWT.md",
     "Backend/Horizontal scalability.md",
     "Backend/Data Bases.md",
-    "Backend/Cookies.md",
-    "web applications.md",
-    "network.md",
-    "Vertical scalability.md",
+
     "Pasted image 20230828120612.png",
     "Pasted image 20230828111509.png",
     "Pasted image 20230828111507.png",
