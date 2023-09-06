@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c42c3b76c51c565b",
+        "id": "9068fbb8752a5509",
         "type": "tabs",
         "children": [
           {
-            "id": "aa3997735cf17788",
+            "id": "ae74bb7a42f3eede",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "db4013fe8f5a9f68",
+            "id": "a1f076bc5672c33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes 4 Sept - Moviles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b66698a7b46621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas - Sep5  - Intro IA.md",
+                "file": "Notes 6 Sept moviles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas - Sep5  - Intro IA.md",
+                "file": "Notes 6 Sept moviles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas - Sep5  - Intro IA.md",
+                "file": "Notes 6 Sept moviles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas - Sep5  - Intro IA.md"
+                "file": "Notes 6 Sept moviles.md"
               }
             }
           },
@@ -177,8 +165,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "02b66698a7b46621",
+  "active": "a1f076bc5672c33c",
   "lastOpenFiles": [
+    "Mobile dev/IOS.md",
+    "Notes 6 Sept moviles.md",
+    "IOS Navigation.md",
     "Notes 4 Sept - Moviles.md",
     "Notas - Sep5  - Intro IA.md",
     "Notes Sep 1 - Moviles.md",
@@ -207,9 +198,6 @@
     "Backend/JWT.md",
     "Backend/Horizontal scalability.md",
     "Backend/Data Bases.md",
-    "Backend/Cookies.md",
-    "web applications.md",
-    "network.md",
     "Pasted image 20230828120612.png",
     "Pasted image 20230828111509.png",
     "Pasted image 20230828111507.png",
