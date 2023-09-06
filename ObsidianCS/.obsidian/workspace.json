@@ -4,31 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9068fbb8752a5509",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ae74bb7a42f3eede",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a1f076bc5672c33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes 6 Sept moviles.md",
+
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes 6 Sept moviles.md",
+                
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes 6 Sept moviles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,12 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes 6 Sept moviles.md"
+
               }
             }
           },
           {
-            "id": "45e514bddb2ff586",
+
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -165,14 +147,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "a1f076bc5672c33c",
-  "lastOpenFiles": [
-    "Mobile dev/IOS.md",
-    "Notes 6 Sept moviles.md",
-    "IOS Navigation.md",
-    "Notes 4 Sept - Moviles.md",
-    "Notas - Sep5  - Intro IA.md",
-    "Notes Sep 1 - Moviles.md",
+
     "Algorithms/Hamiltonian Path.md",
     "Tractable Graph.md",
     "Notes 31 Agos.md",
@@ -198,6 +173,7 @@
     "Backend/JWT.md",
     "Backend/Horizontal scalability.md",
     "Backend/Data Bases.md",
+
     "Pasted image 20230828120612.png",
     "Pasted image 20230828111509.png",
     "Pasted image 20230828111507.png",

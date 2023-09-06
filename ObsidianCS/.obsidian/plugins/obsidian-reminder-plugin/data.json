@@ -3,8 +3,13 @@
   "reminders": {
     "TODO.md": [
       {
+        "title": "Preparar Tarea semana 5",
+        "time": "2023-09-06 14:55",
+        "rowNumber": 18
+      },
+      {
         "title": "Hacer lista de temas por estudiar",
-        "time": "2023-09-06 14:51",
+        "time": "2023-09-06 14:55",
         "rowNumber": 21
       },
       {
