@@ -1,15 +1,25 @@
 /ObsidianCS/Frances
 /ObsidianCS/README.md
-/ObsidianCS/ObsidianCS/.obsidian/workspace.json
-/ObsidianCS/.obsidian/workspace.json
+
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/workspace.json
+.obsidian/workspace.json
+/Obsidian/.obsidian/workspace.json
+ObsidianCS/.obsidian/workspace.json 
 ObsidianCS/.obsidian/workspace.json
-/ObsidianCS/ObsidianCS/.obsidian/workspace.json
-ObsidianCS/.obsidian/workspace.json
-workspace.json
-ObsidianCS/.obsidian/workspace.json
-ObsidianCS/ObsidianCS/.obsidian/workspace.json
-ObsidianCS/.obsidian/workspace.json
-/ObsidianCS/ObsidianCS/.obsidian/workspace.json
-ObsidianCS/.obsidian/graph.json
-ObsidianCS/.obsidian/workspace.json
-ObsidianCS/.obsidian/workspace.json
+# This file is used to keep track of last auto backup/pull
+.ObsidianCS/.obsidian/*  
+.obsidian-git-data
+/ObsidianCS/.obsidian/*
+.obsidian/*
+/.obsidian/*
+
+# Exclude Untitled Notes
+Untitled*
+# Exclude "bad" names
+null*
+
+.obsidian/workspace
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store

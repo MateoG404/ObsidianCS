@@ -1,18 +1,14 @@
 ## Otros
 
 - [ ] Presentar examen Intro Backend Platzi
-- [ ] Hacer co
 - [ ] Hacer curso FastAPI python
 - [ ] Hacer curso Flutter Python
 
 ## Trabajo
 - [ ] Hacer propuesta con fechas de trabajo
 - [ ] Revisar DB para hacer webscraping
-- [ ] 
 ## Moviles
 
-- [x] MicroSprint 4 (@2023-09-02)
-- [x] Preparar clase viernes (@2023-09-04)
 
 ## Emprendimiento
 
@@ -21,6 +17,7 @@
 
 - [ ] Hacer lista de temas por estudiar (@2023-09-06 19:32)
 - [ ] Preparar exposicion utopia
+- [ ] Hacer CV
 ## Paralela
 
 - [ ] Ver clases (@2023-09-06 19:32)
@@ -29,6 +26,8 @@
 ## IA
 - [ ] Hacer presentación (@2023-09-07)
 ## Métodos
+- [ ] Hacer lab3
+- [ ] Hacer lab4
 
 ## Ingesoft 2
 
