@@ -12,19 +12,19 @@
 
 ## Emprendimiento
 
-- [ ] Preparar Tarea semana 5 (@2023-09-06 19:32)
+- [x] Preparar Tarea semana 5 (@2023-09-07 22:56)
 ## Francés
 
-- [ ] Hacer lista de temas por estudiar (@2023-09-06 19:32)
+- [x] Hacer lista de temas por estudiar (@2023-09-07 22:56)
 - [ ] Preparar exposicion utopia
 - [ ] Hacer CV
 ## Paralela
 
-- [ ] Ver clases (@2023-09-06 19:32)
+- [x] Ver clases (@2023-09-07 22:56)
 - [ ] Hacer código Leibiniz  + OMP usando hilos
 - [ ] Hacer benchmarks con 1, 2, 4, 8 y 16 hilos usando false sharing y no usando false sharing
 ## IA
-- [ ] Hacer presentación (@2023-09-07)
+- [x] Hacer presentación (@2023-09-07)
 ## Métodos
 - [ ] Hacer lab3
 - [ ] Hacer lab4
