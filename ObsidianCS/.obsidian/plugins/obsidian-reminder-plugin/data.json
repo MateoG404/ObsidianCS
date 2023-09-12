@@ -3,6 +3,7 @@
   "reminders": {
     "TODO.md": [
       {
+<<<<<<< Updated upstream
         "title": "Preparar Tarea semana 5",
         "time": "2023-09-06 14:55",
         "rowNumber": 18
@@ -21,6 +22,11 @@
         "title": "Hacer presentación",
         "time": "2023-09-07",
         "rowNumber": 29
+=======
+        "title": "Ver clases",
+        "time": "2023-09-07 22:56",
+        "rowNumber": 21
+>>>>>>> Stashed changes
       }
     ]
   },
