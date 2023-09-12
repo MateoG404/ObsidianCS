@@ -26,7 +26,7 @@
 
 ## Métodos
 
-
+c
 ## Ingesoft 2
 
 - [ ] Realizar CRUD chazas
