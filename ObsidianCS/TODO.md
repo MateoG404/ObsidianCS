@@ -6,16 +6,21 @@
 
 ## Trabajo
 
-
+- [ ] Hacer webscraping perfiles
+- [ ] Realizar df con nombres de egresados para busqueda en Linkedin
 ## Moviles
 
+- [ ] Crear nuevo diagrama
+- [ ] 
+- [ ] 
 
 ## Emprendimiento
 
+- [ ] Value proposition canvas
 
 ## Francés
+
 - [ ] Hacer opinión pelicula
-- [ ] Buscar libro lectura propia
 - [ ] Hacer CV
 ## Paralela
 
@@ -26,7 +31,6 @@
 
 ## Métodos
 
-c
 ## Ingesoft 2
 
 - [ ] Realizar CRUD chazas
