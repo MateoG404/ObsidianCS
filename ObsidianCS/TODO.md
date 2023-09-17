@@ -3,6 +3,7 @@
 - [ ] Presentar examen Intro Backend Platzi
 - [ ] Hacer curso FastAPI python
 - [ ] Hacer curso Flutter Python
+- [ ] Hacer curso Typescript 
 
 ## Trabajo
 
@@ -10,8 +11,7 @@
 - [ ] Realizar df con nombres de egresados para busqueda en Linkedin
 ## Moviles
 
-- [ ] Crear nuevo diagrama
-- [ ] 
+- [ ] Crear nuevo diagrama (frontend)
 - [ ] 
 
 ## Emprendimiento
@@ -28,8 +28,11 @@
 - [ ] Hacer código Leibiniz  + OMP usando hilos
 - [ ] Hacer benchmarks con 1, 2, 4, 8 y 16 hilos usando false sharing y no usando false sharing
 ## IA
+* [ ] Realizar lectura articulo de ley sobre IA
 
 ## Métodos
+
+- [ ] Laboratorio 5
 
 ## Ingesoft 2
 
