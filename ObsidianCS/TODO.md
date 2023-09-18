@@ -12,7 +12,7 @@
 ## Moviles
 
 - [ ] Crear nuevo diagrama (frontend)
-- [ ] 
+- [ ] Lecturas MS7
 
 ## Emprendimiento
 
