@@ -1,0 +1,10 @@
+
+[[Software Architecture]] : 
+
+* Functional Requirements (Features & services offered for the users) 
+* Not-Functional Requirements (Attributes expected by the stakeholders)
+* Technological Constrains (Technology used for the [[mobile applications]], we can have different **constrains** ([[Internet]], [[Operating System]], [[Memory]])
+	* We need to optimize the use of [[Memory]] & [[battery]]
+	* We need to think about the different scenarios ***(not internet connection, low battery, not enough memory, etc ...)***
+	* Quality matters more than the [[Software Architecture]] 
+	*
