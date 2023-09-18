@@ -23,5 +23,16 @@
 * User error protection -> Minimize user's errors when they is using the app
 * [[UI]] 
 * [[Accesibility]] -> What type of users can use the [[mobile applications]], related with the [[UI]]
-* 
+
+## Reliability 
+
+* Fault Tolerance -> What happened if the [[mobile applications]] failed? Some features can work at the same time ( not necessary [[internet]]) / [[Chaos testing]] 
+* Maturity -> How the app works and how can growth around the time
+* Availability -> Similar to [[Accesibility]]
+
+## Security
+
+* Confidentiality
+* Integrity
+* Authencity
 * 
