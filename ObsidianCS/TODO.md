@@ -18,7 +18,16 @@
 ## Emprendimiento
 
 - [ ] Value proposition canvas
-
+- [ ] Prototipo app
+- [ ] Traer evidencia de las entrevistas
+- [ ] Lectura TAM - SAM - SOM
+	- [ ] Explicar y hacer el TAM-SAM-SOM para la propuesta
+	- [ ] Testing Ideas
+	- [ ] Juego de roles -> stakeholders & investors 
+	- [ ] AI Advantage
+	- [ ] Alexander Stolwalder
+	- [ ] Restaurantes (requerimientos funcionales)
+	- [ ] Tabla análisis del problem
 ## Francés
 
 - [ ] Hacer opinión pelicula
