@@ -1,5 +1,5 @@
 ## Otros
-
+	
 - [ ] Presentar examen Intro Backend Platzi
 - [ ] Hacer curso FastAPI python
 - [ ] Hacer curso Flutter Python
