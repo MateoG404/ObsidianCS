@@ -6,7 +6,7 @@
 * Functional Appropriateness : **How the features solve the problems** (user [[Testing]] )
 
 ## Performance Efficiency
-* Time Behavior → [[Execution Time]], [[Running Time]] around the different features
+* Time Behavior → [[Execution TIme]], [[Running Time]] around the different features
 * Resource utilization → [[Memory]], [[Storage]], [[internet]],[[CPU]],[[battery]], [[network]] and how we use and optimize to minimum uses
 * Capacity → How we do ... (Amount of users, networks, [[Process]]) *The limits of our [[mobile applications]]* and 
 

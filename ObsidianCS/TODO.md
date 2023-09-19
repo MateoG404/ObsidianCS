@@ -13,6 +13,7 @@
 
 - [ ] Crear nuevo diagrama (frontend)
 - [ ] Lecturas MS7
+- [ ] App report
 
 ## Emprendimiento
 
@@ -35,7 +36,3 @@
 - [ ] Laboratorio 5
 
 ## Ingesoft 2
-
-- [ ] Realizar CRUD chazas
-- [ ] Realizar CRUD Productos
-- [ ] Realizar CRUD Usuarios 
