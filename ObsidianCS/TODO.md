@@ -28,6 +28,8 @@
 	- [ ] Alexander Stolwalder
 	- [ ] Restaurantes (requerimientos funcionales)
 	- [ ] Tabla análisis del problem
+	- [ ] Design Test Decide Lecture
+	- [ ] Read testing lectures
 ## Francés
 
 - [ ] Hacer opinión pelicula
