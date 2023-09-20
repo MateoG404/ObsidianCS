@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "TODO.md": [
+      {
+        "title": "Ver clases",
+        "time": "2023-09-21",
+        "rowNumber": 38
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
