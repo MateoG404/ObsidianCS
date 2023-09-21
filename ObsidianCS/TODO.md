@@ -11,13 +11,11 @@
 - [ ] Realizar df con nombres de egresados para busqueda en Linkedin
 ## Moviles
 
-- [ ] Crear nuevo diagrama (frontend)
 - [ ] Lecturas MS7
 - [ ] App report
 
 ## Emprendimiento
-
-- [ ] Value proposition canvas
+	
 - [ ] Prototipo app
 - [ ] Traer evidencia de las entrevistas
 - [ ] Lectura TAM - SAM - SOM
