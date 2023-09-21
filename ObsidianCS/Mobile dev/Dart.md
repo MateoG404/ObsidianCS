@@ -21,3 +21,9 @@ Dart is used in [[mobile applications]], [[web]] and [[Server]]
 It's a way to define different values that only can have a **variable**.
 ![[Pasted image 20230814153645.png]]
 
+## Creating App
+
+![[Pasted image 20230920195512.png]]
+**Void main** is the main function that start the [[mobile applications]]
+**runApp** show a given [[Widget]] and attach it to the screen
+
