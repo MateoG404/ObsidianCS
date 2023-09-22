@@ -10,7 +10,7 @@ It's the main [[Widget]] material design used to create [[Flutter]] [[mobile app
 ![[Pasted image 20230922175732.png]]
 It's the main method to create [[mobile applications]]  and **runApp()** it the function initialize the [[Widget]] application
 
-## Stateless Widget
+## [[Stateless Widget]]
 
 A stateless widget is a [[Widget]] that describes part of the user interface by building a constellation of other widgets that describe the user interface more concretely. That means, the stateless widget is the main [[Widget]] where we can create different [[Widget]]
 
