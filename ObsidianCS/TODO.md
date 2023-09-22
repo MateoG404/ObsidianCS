@@ -15,33 +15,27 @@
 - [ ] App report
 
 ## Emprendimiento
-	
 - [ ] Prototipo app
-- [ ] Traer evidencia de las entrevistas
 - [ ] Lectura TAM - SAM - SOM
 	- [ ] Explicar y hacer el TAM-SAM-SOM para la propuesta
 	- [ ] Testing Ideas
 	- [ ] Juego de roles -> stakeholders & investors 
 	- [ ] AI Advantage
 	- [ ] Alexander Stolwalder
-	- [ ] Restaurantes (requerimientos funcionales)
 	- [ ] Tabla análisis del problem
-	- [ ] Design Test Decide Lecture
 	- [ ] Read testing lectures
-## Francés
 
+## Francés
 - [ ] Hacer opinión pelicula
 - [ ] Hacer CV
 ## Paralela
-
-- [ ] Ver clases (@2023-09-22)
+- [ ] Ver clases (@2023-09-23)
 - [ ] Hacer código Leibiniz  + OMP usando hilos
 - [ ] Hacer benchmarks con 1, 2, 4, 8 y 16 hilos usando false sharing y no usando false sharing
 ## IA
 * [ ] Realizar lectura articulo de ley sobre IA
 
 ## Métodos
-
 - [ ] Laboratorio 5
 
 ## Ingesoft 2
