@@ -11,27 +11,21 @@
 - [ ] Realizar df con nombres de egresados para busqueda en Linkedin
 ## Moviles
 
-- [ ] Crear nuevo diagrama (frontend)
 - [ ] Lecturas MS7
 - [ ] App report
 
 ## Emprendimiento
-
-- [ ] Value proposition canvas
 - [ ] Prototipo app
-- [ ] Traer evidencia de las entrevistas
 - [ ] Lectura TAM - SAM - SOM
 	- [ ] Explicar y hacer el TAM-SAM-SOM para la propuesta
 	- [ ] Testing Ideas
 	- [ ] Juego de roles -> stakeholders & investors 
 	- [ ] AI Advantage
 	- [ ] Alexander Stolwalder
-	- [ ] Restaurantes (requerimientos funcionales)
 	- [ ] Tabla análisis del problem
-	- [ ] Design Test Decide Lecture
 	- [ ] Read testing lectures
-## Francés
 
+## Francés
 - [ ] Hacer opinión pelicula
 - [ ] Hacer CV
 ## Paralela
@@ -43,7 +37,6 @@
 * [ ] Realizar lectura articulo de ley sobre IA
 
 ## Métodos
-
 - [ ] Laboratorio 5
 
 ## Ingesoft 2

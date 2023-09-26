@@ -13,7 +13,8 @@
     "encry",
     "deleters",
     "Dat",
-    "personas"
+    "personas",
+    "MaterialDesign"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
