@@ -8,35 +8,31 @@
 ## Trabajo
 
 - [ ] Hacer webscraping perfiles
-- [ ] Realizar df con nombres de egresados para busqueda en Linkedin
+- [x] Realizar df con nombres de egresados para busqueda en Linkedin
 ## Moviles
 
-- [ ] Lecturas MS7
-- [ ] App report
+- [x] Lecturas MS7
+- [x] App report
 	
 ## Emprendimiento
-- [ ] Prototipo app
-- [ ] Lectura TAM - SAM - SOM
-	- [ ] Explicar y hacer el TAM-SAM-SOM para la propuesta
-	- [ ] Testing Ideas
-	- [ ] Juego de roles -> stakeholders & investors 
-	- [ ] AI Advantage
-	- [ ] Alexander Stolwalder
-	- [ ] Tabla análisis del problem
-	- [ ] Read testing lectures
+- [x] Prototipo app
+- [x] Lectura TAM - SAM - SOM
+	- [x] Explicar y hacer el TAM-SAM-SOM para la propuesta
+	- [x] Testing Ideas
+	- [x] Juego de roles -> stakeholders & investors 
+	- [x] AI Advantage
+	- [x] Alexander Stolwalder
+	- [x] Tabla análisis del problem
+	- [x] Read testing lectures
 
 ## Francés
 - [ ] Hacer opinión pelicula
 - [ ] Hacer CV
 ## Paralela
 
-- [x] Ver clases (@2023-09-23)
-- [ ] Hacer código Leibiniz  + OMP usando hilos
-- [ ] Hacer benchmarks con 1, 2, 4, 8 y 16 hilos usando false sharing y no usando false sharing
+- [ ] Hacer code para comprimir videos
 ## IA
-* [ ] Realizar lectura articulo de ley sobre IA
 
 ## Métodos
-- [ ] Laboratorio 5
 
 ## Ingesoft 2
