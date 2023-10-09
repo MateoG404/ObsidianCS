@@ -1,9 +1,12 @@
+
+
+
 ## Otros
-	
 - [ ] Presentar examen Intro Backend Platzi
 - [ ] Hacer curso FastAPI python
 - [ ] Hacer curso Flutter Python
 - [ ] Hacer curso Typescript 
+- [ ] Hacer certificados Curso IA
 
 ## Trabajo
 
@@ -24,7 +27,6 @@
 ## IA
 
 ## Métodos
-- [ ] Taller 5
 
 ## Ingesoft 2
 - [ ] Sprint 2 actividades
