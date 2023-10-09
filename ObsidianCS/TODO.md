@@ -8,22 +8,12 @@
 ## Trabajo
 
 - [ ] Hacer webscraping perfiles
-- [x] Realizar df con nombres de egresados para busqueda en Linkedin
+- [ ] Hacer limpieza base de datos
+- [ ] 
 ## Moviles
 
-- [x] Lecturas MS7
-- [x] App report
-	
 ## Emprendimiento
-- [x] Prototipo app
-- [x] Lectura TAM - SAM - SOM
-	- [x] Explicar y hacer el TAM-SAM-SOM para la propuesta
-	- [x] Testing Ideas
-	- [x] Juego de roles -> stakeholders & investors 
-	- [x] AI Advantage
-	- [x] Alexander Stolwalder
-	- [x] Tabla análisis del problem
-	- [x] Read testing lectures
+
 
 ## Francés
 - [ ] Hacer opinión pelicula
@@ -34,5 +24,9 @@
 ## IA
 
 ## Métodos
+- [ ] Taller 5
 
 ## Ingesoft 2
+- [ ] Sprint 2 actividades
+- [ ] Curso Platzi Typescript
+- [ ] 
