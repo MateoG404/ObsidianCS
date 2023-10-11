@@ -19,7 +19,7 @@ Structure Communication
 ![[Pasted image 20230913085013.png]]
 
 
-The structure of communicationion for the [[Broadcast Receiver]] is different because we have to communicate with the [[hardware]] phone and the [[activies]] of the [[mobile applications]]
+The structure of communicationion for the [[Broadcast Receiver]] is different because we have to communicate with the [[hardware]] phone and the [[Activies]] of the [[mobile applications]]
 
 ![[Pasted image 20230913085246.png]]
 
