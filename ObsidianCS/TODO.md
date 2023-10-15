@@ -22,6 +22,5 @@
 
 ## Métodos
 
-## Ingesoft 2
-- [ ] Sprint 2 actividades
+	## Ingesoft 2
 - [ ] Curso Platzi Typescript
