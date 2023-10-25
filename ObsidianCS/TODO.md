@@ -1,26 +1,29 @@
-## Otros
+dev## Otros
 
 - [ ] Hacer curso FastAPI python
 - [ ] Hacer curso Flutter Python
 - [ ] Hacer curso Typescript 
-- [ ] Hacer propuesta charla MORADO
 
 ## Trabajo
 
-- [ ] Hacer webscraping perfiles
-- [ ] Hacer limpieza base de datos
+- [ ] Hacer estadistica exploratoria
+- [ ] Hacer documentación de Algoritmo
 
 ## Moviles
-
+- [ ] Entrega 
 ## Emprendimiento
 
-- [ ] Hacer lecturas temas clase pasada
+- [ ] Hacer lecturas temas clase 
+- [ ] Preparar entrega 
 ## Francés
+
 ## Paralela
 
+- [ ] Realizar CUDA ejercicio
 ## IA
 
-## Métodos
-
-	## Ingesoft 2
+## Métodos 
+- [ ] Hacer quiz
+- [ ] 
+## Ingesoft 2
 - [ ] Curso Platzi Typescript
