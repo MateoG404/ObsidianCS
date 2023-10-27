@@ -23,7 +23,6 @@ dev## Otros
 ## IA
 
 ## Métodos 
-- [ ] Hacer quiz
-- [ ] 
+
 ## Ingesoft 2
 - [ ] Curso Platzi Typescript
