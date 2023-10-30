@@ -10,7 +10,7 @@ dev## Otros
 - [ ] Hacer documentación de Algoritmo
 
 ## Moviles
-- [ ] Entrega 
+- [x] Entrega 
 ## Emprendimiento
 
 - [ ] Hacer lecturas temas clase 
