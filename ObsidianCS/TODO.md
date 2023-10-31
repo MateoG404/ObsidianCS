@@ -6,15 +6,18 @@ dev## Otros
 
 ## Trabajo
 
-- [ ] Hacer estadistica exploratoria
-- [ ] Hacer documentación de Algoritmo
+- [ ] Dividir análisis por programa curricular para el "Description" y "Skills"
+- [ ] Eliminar pregrado para la estadistica de universidades
+- [ ] Hacer software Davivienda unión data
+- [ ] Entrenar modelos  imagenes
+- [ ] 
 
 ## Moviles
-- [x] Entrega 
+
 ## Emprendimiento
 
 - [ ] Hacer lecturas temas clase 
-- [ ] Preparar entrega 
+
 ## Francés
 
 ## Paralela
