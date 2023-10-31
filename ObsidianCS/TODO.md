@@ -10,7 +10,7 @@ dev## Otros
 - [ ] Eliminar pregrado para la estadistica de universidades
 - [ ] Hacer software Davivienda unión data
 - [ ] Entrenar modelos  imagenes
-- [ ] 
+- [ ] Lecturas / Curso pytorch
 
 ## Moviles
 
