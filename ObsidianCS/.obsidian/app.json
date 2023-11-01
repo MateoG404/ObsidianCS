@@ -14,7 +14,9 @@
     "deleters",
     "Dat",
     "personas",
-    "MaterialDesign"
+    "MaterialDesign",
+    " ArrayMa",
+    " SparseArra"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
