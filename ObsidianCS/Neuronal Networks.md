@@ -33,3 +33,6 @@ Idea : Seleccionar delta p de tal forma que p sea el menor costo posible, para e
 -> Backpropagation:
 Tecninca para identificar los valores de los costos de cada parametro
 Consiste en determinar cuales son los gradientes de la función de cost.
+
+-> CGAN Red neuronal (Conditional Generative Adversail Nertwork)
+-> AIAMA

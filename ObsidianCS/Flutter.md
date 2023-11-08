@@ -57,4 +57,11 @@ How to detect this performance bugs ?
 	2. Micro-optimization
 	3. Memory-Managment
 	4. Multi-Threading
-	5. 
+
+We can see like **HTOP** to see the process and how are working 
+	We can use the energy log to see the use of the memory 
+
+
+## Flutter Profiler (Debugging device)
+
+## Flutter Futures

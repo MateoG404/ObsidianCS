@@ -13,6 +13,8 @@ dev## Otros
 - [ ] Lecturas / Curso pytorch
 
 ## Moviles
+- [ ] Develop the anti-pattern for the maps
+- [ ] 
 
 ## Emprendimiento
 
@@ -25,6 +27,9 @@ dev## Otros
 - [ ] Realizar CUDA ejercicio
 ## IA
 
+- [ ] Hacer ANN simple manualmente
+- [ ] 
+  
 ## Métodos 
 
 ## Ingesoft 2

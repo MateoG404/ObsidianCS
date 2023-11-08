@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FLutter.md",
+                "file": "Neuronal Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FLutter.md",
+                "file": "Neuronal Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FLutter.md",
+                "file": "Neuronal Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FLutter.md"
+                "file": "Neuronal Networks.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "7fb32b5f6f1d129b",
   "lastOpenFiles": [
-    "Neuronal Networks.md",
-    "FLutter.md",
     "TODO.md",
+    "Neuronal Networks.md",
+    "Flutter.md",
     "Typescript.md",
     "Static Typing.md",
     "Pasted image 20231013202337.png",
