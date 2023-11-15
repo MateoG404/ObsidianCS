@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eb331285945ddfe3",
+        "id": "31bebc91b682733f",
         "type": "tabs",
         "children": [
           {
-            "id": "7fb32b5f6f1d129b",
+            "id": "49bcf42bfe9bb125",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Static Typing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "65184350d1b0899b",
+            "id": "7dedc7b64d207882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "API REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "API REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "API REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "API REST.md"
               }
             }
           },
@@ -179,12 +175,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "65184350d1b0899b",
+  "active": "7dedc7b64d207882",
   "lastOpenFiles": [
-    "QA.md",
-    "TODO.md",
-    "Backend/Typescript.md",
+    "API REST.md",
     "Backend/Static Typing.md",
+    "TODO.md",
+    "QA.md",
+    "Backend/Typescript.md",
     "Mobile dev/Pasted image 20231013202337.png",
     "Machine Learning/Neuronal Networks.md",
     "Flutter.md",
@@ -207,7 +204,6 @@
     "Mobile dev/Row.md",
     "Mobile dev/Rewarded video ads.md",
     "Mobile dev/Notes Oct 11 - Mobile Development.md",
-    "Mobile dev/Native Ads.md",
     "Ketcher/Ketcher 9-7-2023 20.02.23.ket",
     "Ketcher/Ketcher 9-7-2023 20.02.13.ket",
     "Ketcher",
