@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "31bebc91b682733f",
         "type": "tabs",
         "children": [
@@ -17,18 +18,57 @@
           },
           {
             "id": "7dedc7b64d207882",
+=======
+        "id": "bc5b2b9a1455bae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f0f916cf55df71",
+>>>>>>> 16338d9 (Update notes MELI)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "API REST.md",
+=======
+                "file": "Class Notes/Notes Software sep 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "815b86d71b49c76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/SOLID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b4e5f030ab2412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patrones de diseño.md",
+>>>>>>> 16338d9 (Update notes MELI)
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "currentTab": 2
+>>>>>>> 16338d9 (Update notes MELI)
       }
     ],
     "direction": "vertical"
@@ -57,7 +97,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "task parallelism",
+=======
+                "query": "SOLID",
+>>>>>>> 16338d9 (Update notes MELI)
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +140,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "API REST.md",
+=======
+                "file": "Patrones de diseño.md",
+>>>>>>> 16338d9 (Update notes MELI)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +161,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "API REST.md",
+=======
+                "file": "Patrones de diseño.md",
+>>>>>>> 16338d9 (Update notes MELI)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +209,27 @@
                 "sortOrder": "frequency"
               }
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "7e6f604d7492956d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Patrones de diseño.md"
+              }
+            }
+          },
+          {
+            "id": "08abbd8929f71722",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+>>>>>>> 16338d9 (Update notes MELI)
           }
         ]
       }
@@ -175,6 +249,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
+<<<<<<< HEAD
   "active": "7dedc7b64d207882",
   "lastOpenFiles": [
     "Mobile dev/Flutter 1.md",
@@ -196,9 +271,40 @@
     "Golang/Interfaces.md",
     "Golang/GO.md",
     "Golang/FMT.md",
+=======
+  "active": "b9b4e5f030ab2412",
+  "lastOpenFiles": [
+    "Backend/SOLID.md",
+    "Patrones de diseño.md",
+    "Class Notes/Notes Software sep 11.md",
+    "Golang/Channels.md",
+    "Images/Pasted image 20231114162201.png",
+    "Golang/Goroutines.md",
+    "Golang/GO.md",
+    "Golang/Stringers.md",
+    "Images/Pasted image 20231114165619.png",
+    "Images/Pasted image 20231114164900.png",
+    "Golang/Concurrency.md",
+    "Golang/Structs.md",
+    "Golang/Slices.md",
+    "Golang/Interfaces.md",
+    "TODO.md",
+    "Golang/FMT.md",
+    "Images/Pasted image 20231114145113.png",
+    "Images/Pasted image 20231114095617.png",
+    "Golang",
+    "Images/Pasted image 20231114144608.png",
+    "Images/Pasted image 20231114144511.png",
+    "Golang/Pointers.md",
+    "Images/Pasted image 20231114143310.png",
+    "Images/Pasted image 20231114143254.png",
+    "Images/Pasted image 20231114131725.png",
+    "Golang/Map.md",
+>>>>>>> 16338d9 (Update notes MELI)
     "Golang/Array.md",
     "Golang",
     "Backend/QA.md",
+<<<<<<< HEAD
     "Backend/CUDA.md",
     "API REST.md",
     "Backend/Static Typing.md",
@@ -214,6 +320,18 @@
     "Operating System/Context.md",
     "Operating System/Container.md",
     "Operating System/Columna.md",
+=======
+    "Machine Learning/Neuronal Networks.md",
+    "Mobile dev/Flutter 1.md",
+    "Backend/Typescript.md",
+    "Backend/Static Typing.md",
+    "Innovation & Bussiness/Virtual Environments.md",
+    "Operating System/Parallel Computing.md",
+    "Operating System/Data Parallelism.md",
+    "Frances/execercise_escrite.xopp",
+    "Frances/subjonticf.xopp",
+    "Frances/subjonctif2 (3)_230925_140433.pdf",
+>>>>>>> 16338d9 (Update notes MELI)
     "Ketcher/Ketcher 9-7-2023 20.02.23.ket",
     "Ketcher/Ketcher 9-7-2023 20.02.13.ket",
     "Ketcher",
