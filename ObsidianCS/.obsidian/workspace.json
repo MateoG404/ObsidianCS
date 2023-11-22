@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f93308adbe713ebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Select",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MPI.md"
+              }
             }
           },
           {
@@ -159,8 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "635aec78fffc4fe7",
+  "active": "f93308adbe713ebb",
   "lastOpenFiles": [
+    "Pasted image 20231121204243.png",
+    "MPI.md",
     "Golang/Channels.md",
     "Golang/Interfaces.md",
     "Backend/API REST.md",
