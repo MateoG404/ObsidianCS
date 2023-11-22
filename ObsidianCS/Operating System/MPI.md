@@ -31,4 +31,23 @@ The blocks are the different components of the problems, and the nodes small pc 
 
 1. Define all the [[Process]]
 2. Identify which [[Process]] can be executed as [[Concurrency]] **(Insert MPI)**
-3. 
+
+
+[[MPI]] use the same program in a **Single Program Multiple Data**, that means there are only one program and many data in different [[computers]]
+
+
+## Communication in [[MPI]]
+
+All the process are grouped in a **communicator**, that is, a box to group of [[Process]] together that are communicated between them.
+
+The communications can be in two different ways:
+
+1. **Point to Point** : Two [[Process]] in the same communicator
+2. **Collective** : All the [[Process]] in a [[Commnunicator]] are going to communicate together
+
+![[Pasted image 20231122063846.png]]
+
+**(Example Communicator)**
+
+
+The rank is the identificator in some [[Commnunicator]] for each [[Process]] in [[MPI]]
