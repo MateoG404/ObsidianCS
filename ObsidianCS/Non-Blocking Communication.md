@@ -46,3 +46,4 @@ int MPI_Irecv(void *buf, int count, MPI_Datatype datatype, int source, int tag, 
 - **tag**: Etiqueta para identificar el mensaje. Puede ser `MPI_ANY_TAG` para aceptar un mensaje con cualquier etiqueta.
 - **comm**: Comunicador que se utiliza para la comunicación.
 - **request**: Puntero a una variable de tipo `MPI_Request` que se utilizará para consultar o esperar a que la operación de recepción se complete.
+	
