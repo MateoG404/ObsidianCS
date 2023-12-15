@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "35e5ddd43a8103b0",
+        "id": "a8977cb1332ec2f7",
         "type": "tabs",
         "children": [
           {
-            "id": "02f6aabff3455dd9",
+            "id": "58ecf394d5055244",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "433925d9348d198a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innovation & Bussiness/Customer Discorvery.md",
+                "file": "Product Discovery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af38e1a9e792c0e4",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innovation & Bussiness/Customer Discorvery.md",
+                "file": "Product Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innovation & Bussiness/Customer Discorvery.md",
+                "file": "Product Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innovation & Bussiness/Customer Discorvery.md"
+                "file": "Product Discovery.md"
               }
             }
           },
@@ -165,11 +175,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "02f6aabff3455dd9",
+  "active": "433925d9348d198a",
   "lastOpenFiles": [
+    "Pasted image 20231215151646.png",
+    "Pasted image 20231215151504.png",
+    "Product Discovery.md",
+    "Innovation & Bussiness/Customer Discorvery.md",
     "Pasted image 20231215144716.png",
     "Pasted image 20231215142941.png.md",
-    "Innovation & Bussiness/Customer Discorvery.md",
     "Operating System/multicore processors.md",
     "Operating System/subroutine.md",
     "Operating System/Tuberias.xopp",
@@ -200,7 +213,6 @@
     "Operating System/Layout.md",
     "Operating System/Kernel.md",
     "Operating System/Inkwell.md",
-    "Operating System/Grep.md",
     "Operating System",
     "Mobile dev/Pasted image 20231013202337.png",
     "Mobile dev",
@@ -210,8 +222,6 @@
     "Images/Pasted image 20231122070719.png",
     "Images/Pasted image 20231122065403.png",
     "Images/Pasted image 20231122063846.png",
-    "Images/Pasted image 20231121204243.png",
-    "Images/Pasted image 20231114165619.png",
-    "Images/Pasted image 20231114164900.png"
+    "Images/Pasted image 20231121204243.png"
   ]
 }
