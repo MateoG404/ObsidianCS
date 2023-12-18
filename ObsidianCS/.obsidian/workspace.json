@@ -16,19 +16,51 @@
             }
           },
           {
-            "id": "433925d9348d198a",
+            "id": "e1002313ccc94856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Discovery.md",
+                "file": "PII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2516ea494f9b5c37",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfb7f25f13f5241d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "No Functional Requeriments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54f1f02380799943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Requeriments.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Discovery.md",
+                "file": "No Functional Requeriments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Discovery.md",
+                "file": "No Functional Requeriments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Discovery.md"
+                "file": "No Functional Requeriments.md"
               }
             }
           },
@@ -175,11 +207,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "433925d9348d198a",
+  "active": "cfb7f25f13f5241d",
   "lastOpenFiles": [
+    "Functional Requeriments.md",
+    "No Functional Requeriments.md",
+    "PII.md",
+    "Product Discovery.md",
     "Pasted image 20231215151646.png",
     "Pasted image 20231215151504.png",
-    "Product Discovery.md",
     "Innovation & Bussiness/Customer Discorvery.md",
     "Pasted image 20231215144716.png",
     "Pasted image 20231215142941.png.md",
@@ -211,8 +246,6 @@
     "Operating System/MPI.md",
     "Operating System/Linux.md",
     "Operating System/Layout.md",
-    "Operating System/Kernel.md",
-    "Operating System/Inkwell.md",
     "Operating System",
     "Mobile dev/Pasted image 20231013202337.png",
     "Mobile dev",
@@ -221,7 +254,6 @@
     "Images/Pasted image 20231122074815.png",
     "Images/Pasted image 20231122070719.png",
     "Images/Pasted image 20231122065403.png",
-    "Images/Pasted image 20231122063846.png",
-    "Images/Pasted image 20231121204243.png"
+    "Images/Pasted image 20231122063846.png"
   ]
 }
