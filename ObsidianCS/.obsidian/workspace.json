@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a8977cb1332ec2f7",
+        "id": "17816aa7070ad1dc",
         "type": "tabs",
         "children": [
           {
-            "id": "58ecf394d5055244",
+            "id": "74d34f2e89c17d78",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "e1002313ccc94856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PII.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2516ea494f9b5c37",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cfb7f25f13f5241d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "No Functional Requeriments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54f1f02380799943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functional Requeriments.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af38e1a9e792c0e4",
@@ -127,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "No Functional Requeriments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "No Functional Requeriments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "No Functional Requeriments.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,17 +157,19 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "cfb7f25f13f5241d",
+  "active": "74d34f2e89c17d78",
   "lastOpenFiles": [
-    "Functional Requeriments.md",
-    "No Functional Requeriments.md",
-    "PII.md",
-    "Product Discovery.md",
-    "Pasted image 20231215151646.png",
-    "Pasted image 20231215151504.png",
+    "CiberSecurity/PII.md",
+    "CiberSecurity/Threat Model.md",
+    "CiberSecurity",
+    "Innovation & Bussiness/Functional Requeriments.md",
+    "Images/Pasted image 20231215142941.png.md",
+    "Innovation & Bussiness/No Functional Requeriments.md",
+    "Innovation & Bussiness/Product Discovery.md",
+    "Images/Pasted image 20231215151646.png",
+    "Images/Pasted image 20231215151504.png",
     "Innovation & Bussiness/Customer Discorvery.md",
-    "Pasted image 20231215144716.png",
-    "Pasted image 20231215142941.png.md",
+    "Images/Pasted image 20231215144716.png",
     "Operating System/multicore processors.md",
     "Operating System/subroutine.md",
     "Operating System/Tuberias.xopp",
@@ -244,11 +196,8 @@
     "Operating System/Memoria_compartida.xopp",
     "Operating System/Memoria_compartida.pdf",
     "Operating System/MPI.md",
-    "Operating System/Linux.md",
-    "Operating System/Layout.md",
     "Operating System",
     "Mobile dev/Pasted image 20231013202337.png",
-    "Mobile dev",
     "Images/Pasted image 20231122082832.png",
     "Images/Pasted image 20231122074821.png",
     "Images/Pasted image 20231122074815.png",
