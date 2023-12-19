@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "17816aa7070ad1dc",
+        "id": "61e982554eb704c7",
         "type": "tabs",
         "children": [
           {
-            "id": "74d34f2e89c17d78",
+            "id": "6229d9cbbb35787b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -157,7 +157,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "74d34f2e89c17d78",
+  "active": "6229d9cbbb35787b",
   "lastOpenFiles": [
     "CiberSecurity/PII.md",
     "CiberSecurity/Threat Model.md",
