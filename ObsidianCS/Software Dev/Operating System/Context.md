@@ -1,4 +1,4 @@
-In [[Mobile dev/Flutter]], the context refers to the location of a [[Widget]] in the [[Widget tree]]. It provides information about the surrounding environment and services that the widget might need.
+In [[Flutter]], the context refers to the location of a [[Widget]] in the [[Widget tree]]. It provides information about the surrounding environment and services that the widget might need.
 
 
 ### Example

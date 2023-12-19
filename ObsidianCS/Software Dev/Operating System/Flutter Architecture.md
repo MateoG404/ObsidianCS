@@ -3,7 +3,7 @@
 
 ![[Pasted image 20230922175637.png]]
 
-It's the main [[Widget]] material design used to create [[Mobile dev/Flutter]] [[mobile applications]]
+It's the main [[Widget]] material design used to create [[Flutter]] [[mobile applications]]
 
 ## Main Method
 

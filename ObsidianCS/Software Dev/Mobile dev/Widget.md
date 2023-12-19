@@ -3,4 +3,4 @@ In [[mobile applications]] and [[web development]] a widget means a part of code
 
 ## Widgets on Flutter
 
-On [[Mobile dev/Flutter]] all the components are **widgets** and the **widgets** can be [[override]], there are another called [[Stateless Widgets]] and [[Stable Widgets]]
+On [[Flutter]] all the components are **widgets** and the **widgets** can be [[override]], there are another called [[Stateless Widgets]] and [[Stable Widgets]]

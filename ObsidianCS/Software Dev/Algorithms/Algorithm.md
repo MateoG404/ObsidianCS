@@ -34,7 +34,7 @@ Select an algorithm to solve a problem sometimes could be difficult, for that re
 
 ### Why analyze Algorithms ? #flashcard 
 
-- [[Algorithms/Scalability]]
+- [[Software Dev/Algorithms/Scalability]]
 - Know about the behavior of the Algorithm in the best, worse and average-case 
 * To describe the Algorithm behavior we use the [[Asymptotic Notation]]
 <!--ID: 1676823874547-->

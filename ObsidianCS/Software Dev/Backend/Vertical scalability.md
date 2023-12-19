@@ -1,6 +1,6 @@
 ## What is vertical scalability?
 
-Involves increasing the resources (such as [[CPU]], memory, storage) of a single [[server]] or machine to handle increased load.
+Involves increasing the resources (such as [[CPU]], memory, storage) of a single [[Server]] or machine to handle increased load.
 
 ## Problems
 

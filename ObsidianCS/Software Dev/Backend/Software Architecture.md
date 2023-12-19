@@ -3,7 +3,7 @@
 
 When we are creating apps or [[web applications]] we need to define or use rules and patroness to develop, maintenance and fix our applications. 
 
-The [[Software Architecture]] define the [[Server]], technologies, [[Data Bases]] and the other things that we use in the [[Backend]] and [[Frontend]]. Another advantage of create a good [[Software Architecture]] is that we need to [[Backend/Scalability]] our projects, that means we need to think constantly how to improve our service and how to grow the app using new technologies 
+The [[Software Architecture]] define the [[Server]], technologies, [[Data Bases]] and the other things that we use in the [[Backend]] and [[Frontend]]. Another advantage of create a good [[Software Architecture]] is that we need to [[Software Dev/Backend/Scalability]] our projects, that means we need to think constantly how to improve our service and how to grow the app using new technologies 
 
 ## Steps to define a good architecture
 

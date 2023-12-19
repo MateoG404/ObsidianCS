@@ -1,5 +1,5 @@
 
-In [[Mobile dev/Flutter]] we have different types of buttons.
+In [[Flutter]] we have different types of buttons.
 
 * **RaisedButtton**
 ![[Pasted image 20231006124725.png]]
