@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "853756c285eedc4c",
+        "id": "e9904a68227c9feb",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd5e3e62a4d2c0f",
+            "id": "1b795db9b7739484",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20231219131814.png"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git hub",
+                "query": "frac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Pasted image 20231219131814.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Pasted image 20231219131814.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Images/Pasted image 20231219131814.png"
               }
             }
           },
@@ -161,51 +165,51 @@
   },
   "active": "d06ace9902308a4a",
   "lastOpenFiles": [
+    "Innovation & Bussiness/Compliance.md",
+    "Software Dev/Backend/A B testing.md",
+    "Software Dev/Algorithms/Master Theorem.md",
+    "Images/Pasted image 20231219131814.png",
+    "Software Dev/Backend/Conversion Rate.md",
+    "Software Dev/Software Management/feature.md",
+    "Software Dev/Software Management",
+    "Images/Pasted image 20231219122909.png",
+    "A/B testing.md",
+    "Class Notes/Notes Sep 1 - Moviles.md",
+    "A",
+    "Software Dev/Software Management/Issues.md",
+    "Software Dev/Software Management/Workflows.md",
+    "Software Dev/Backend/Confluence.md",
+    "Software Dev/Software Management/Jira Service Management.md",
+    "Software Dev/Software Management/spaces.md",
+    "Software Dev",
+    "Images/Pasted image 20231219104703.png",
+    "Images/Pasted image 20231219105706.png",
+    "Images/Pasted image 20231219105537.png",
+    "Images/Pasted image 20231219105416.png",
+    "Images/Pasted image 20231219105218.png",
+    "Images/Pasted image 20231219105210.png",
+    "Software Dev/Software Management/Projects.md",
+    "Images/Pasted image 20231219104907.png",
+    "Images/Pasted image 20231219104855.png",
     "TODO.md",
-    "CiberSecurity/PII.md",
-    "CiberSecurity/Threat Model.md",
-    "CiberSecurity",
+    "Software Dev/CiberSecurity/PII.md",
+    "Software Dev/CiberSecurity/Threat Model.md",
+    "Software Dev/CiberSecurity",
     "Innovation & Bussiness/Functional Requeriments.md",
     "Images/Pasted image 20231215142941.png.md",
     "Innovation & Bussiness/No Functional Requeriments.md",
     "Innovation & Bussiness/Product Discovery.md",
-    "Images/Pasted image 20231215151646.png",
-    "Images/Pasted image 20231215151504.png",
     "Innovation & Bussiness/Customer Discorvery.md",
-    "Images/Pasted image 20231215144716.png",
-    "Operating System/multicore processors.md",
-    "Operating System/subroutine.md",
-    "Operating System/Tuberias.xopp",
-    "Operating System/Tuberias.pdf",
-    "Operating System/Task Parallelism.md",
-    "Operating System/Terminal.md",
-    "Operating System/Shared Memory.md",
-    "Operating System/SO_Introduccion.xopp",
-    "Operating System/SO_Introduccion.pdf",
-    "Operating System/Program Counter.md",
-    "Operating System/Process.md",
-    "Operating System/Process State.md",
-    "Operating System/Procesos.xopp",
-    "Operating System/Procesos.pdf",
-    "Operating System/Port.md",
-    "Operating System/Pipeline.md",
-    "Operating System/Parallel Computing.md",
-    "Operating System/PRI.md",
-    "Operating System/PCB.md",
-    "Operating System/Operating System.md",
-    "Operating System/NI.md",
-    "Operating System/Message Passing.md",
-    "Operating System/Memory.md",
-    "Operating System/Memoria_compartida.xopp",
-    "Operating System/Memoria_compartida.pdf",
-    "Operating System/MPI.md",
-    "Operating System",
-    "Mobile dev/Pasted image 20231013202337.png",
-    "Images/Pasted image 20231122082832.png",
-    "Images/Pasted image 20231122074821.png",
-    "Images/Pasted image 20231122074815.png",
-    "Images/Pasted image 20231122070719.png",
-    "Images/Pasted image 20231122065403.png",
-    "Images/Pasted image 20231122063846.png"
+    "Software Dev/Operating System/multicore processors.md",
+    "Software Dev/Operating System/subroutine.md",
+    "Software Dev/Operating System/Tuberias.xopp",
+    "Software Dev/Operating System/Tuberias.pdf",
+    "Software Dev/Operating System/Task Parallelism.md",
+    "Software Dev/Operating System/Terminal.md",
+    "Software Dev/Operating System/Shared Memory.md",
+    "Software Dev/Operating System/SO_Introduccion.xopp",
+    "Software Dev/Operating System/SO_Introduccion.pdf",
+    "Software Dev/Operating System/Procesos.xopp",
+    "Software Dev/Operating System/Procesos.pdf"
   ]
 }

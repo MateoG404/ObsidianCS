@@ -6,7 +6,7 @@
 	- Our solution has not to be the better
 	- We need to create a solution for a specific problem with a special value proposition
 	- Uber -> Get an app and get a taxi
-	- Unbounce -> Solve the problem to create [[landing pages]] for the people don't have an IT team with all the steps as [[Deploy]], [[Testing]]  and [[A/B tests]]
+	- Unbounce -> Solve the problem to create [[landing pages]] for the people don't have an IT team with all the steps as [[Deploy]], [[Testing]]  and [[A B testing]]   
 	- Stripe -> The new standar to [[online payments]]
 
 +  Value proposition we need to :
@@ -41,7 +41,7 @@
 	 * Is an indicator of sustainable apps
 
 * Growth
-	* Important concept to [[Backend/Scalability|Scalability]] the [[revenue models]] and the [[mobile applications]]
+	* Important concept to [[Software Dev/Backend/Scalability|Scalability]] the [[revenue models]] and the [[mobile applications]]
 	* How do my clients get to me?
 		* Using the product
 		* Marketing
