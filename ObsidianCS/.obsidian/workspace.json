@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6236f429cb258f37",
+            "id": "1b795db9b7739484",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Software Dev/Software Management/feature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40738206e8be4e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Dev/Backend/Conversion Rate.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20231219131814.png"
               }
             }
           }
@@ -60,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "A/B",
+                "query": "frac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Dev/Software Management/feature.md",
+                "file": "Images/Pasted image 20231219131814.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Dev/Software Management/feature.md",
+                "file": "Images/Pasted image 20231219131814.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Dev/Software Management/feature.md"
+                "file": "Images/Pasted image 20231219131814.png"
               }
             }
           },
@@ -177,13 +163,16 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6236f429cb258f37",
+  "active": "d06ace9902308a4a",
   "lastOpenFiles": [
+    "Innovation & Bussiness/Compliance.md",
     "Software Dev/Backend/A B testing.md",
-    "Software Dev/Software Management",
-    "Images/Pasted image 20231219122909.png",
+    "Software Dev/Algorithms/Master Theorem.md",
+    "Images/Pasted image 20231219131814.png",
     "Software Dev/Backend/Conversion Rate.md",
     "Software Dev/Software Management/feature.md",
+    "Software Dev/Software Management",
+    "Images/Pasted image 20231219122909.png",
     "A/B testing.md",
     "Class Notes/Notes Sep 1 - Moviles.md",
     "A",
@@ -210,7 +199,6 @@
     "Images/Pasted image 20231215142941.png.md",
     "Innovation & Bussiness/No Functional Requeriments.md",
     "Innovation & Bussiness/Product Discovery.md",
-    "Images/Pasted image 20231215151646.png",
     "Innovation & Bussiness/Customer Discorvery.md",
     "Software Dev/Operating System/multicore processors.md",
     "Software Dev/Operating System/subroutine.md",
@@ -221,7 +209,6 @@
     "Software Dev/Operating System/Shared Memory.md",
     "Software Dev/Operating System/SO_Introduccion.xopp",
     "Software Dev/Operating System/SO_Introduccion.pdf",
-    "Software Dev/Operating System/Program Counter.md",
     "Software Dev/Operating System/Procesos.xopp",
     "Software Dev/Operating System/Procesos.pdf"
   ]
