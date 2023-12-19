@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61e982554eb704c7",
+        "id": "853756c285eedc4c",
         "type": "tabs",
         "children": [
           {
-            "id": "6229d9cbbb35787b",
+            "id": "7dd5e3e62a4d2c0f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO.md"
+              }
             }
           },
           {
@@ -157,8 +159,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6229d9cbbb35787b",
+  "active": "d06ace9902308a4a",
   "lastOpenFiles": [
+    "TODO.md",
     "CiberSecurity/PII.md",
     "CiberSecurity/Threat Model.md",
     "CiberSecurity",
