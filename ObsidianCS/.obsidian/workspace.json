@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dd5e3e62a4d2c0f",
+            "id": "5c8003eb2e23d28e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Confluence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af38e1a9e792c0e4",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Confluence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Confluence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Confluence.md"
               }
             }
           },
@@ -159,8 +166,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d06ace9902308a4a",
+  "active": "5c8003eb2e23d28e",
   "lastOpenFiles": [
+    "spaces.md",
+    "Confluence.md",
     "TODO.md",
     "CiberSecurity/PII.md",
     "CiberSecurity/Threat Model.md",
@@ -195,10 +204,8 @@
     "Operating System/Operating System.md",
     "Operating System/NI.md",
     "Operating System/Message Passing.md",
-    "Operating System/Memory.md",
     "Operating System/Memoria_compartida.xopp",
     "Operating System/Memoria_compartida.pdf",
-    "Operating System/MPI.md",
     "Operating System",
     "Mobile dev/Pasted image 20231013202337.png",
     "Images/Pasted image 20231122082832.png",
