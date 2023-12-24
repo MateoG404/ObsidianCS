@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9904a68227c9feb",
+        "id": "6f721c006c8745b4",
         "type": "tabs",
         "children": [
           {
-            "id": "1b795db9b7739484",
+            "id": "128c336dc81d46c3",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20231219131814.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frac",
+                "query": "A B testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af38e1a9e792c0e4",
@@ -83,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20231219131814.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20231219131814.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/Pasted image 20231219131814.png"
-              }
+              "state": {}
             }
           },
           {
@@ -163,13 +159,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d06ace9902308a4a",
+  "active": "128c336dc81d46c3",
   "lastOpenFiles": [
-    "Innovation & Bussiness/Compliance.md",
-    "Software Dev/Backend/A B testing.md",
-    "Software Dev/Algorithms/Master Theorem.md",
-    "Images/Pasted image 20231219131814.png",
+    "Personal Finance.md",
     "Software Dev/Backend/Conversion Rate.md",
+    "Software Dev/Backend/A B testing.md",
+    "Images/Pasted image 20231219131814.png",
+    "Innovation & Bussiness/Compliance.md",
+    "Software Dev/Algorithms/Master Theorem.md",
     "Software Dev/Software Management/feature.md",
     "Software Dev/Software Management",
     "Images/Pasted image 20231219122909.png",
@@ -206,7 +203,6 @@
     "Software Dev/Operating System/Tuberias.pdf",
     "Software Dev/Operating System/Task Parallelism.md",
     "Software Dev/Operating System/Terminal.md",
-    "Software Dev/Operating System/Shared Memory.md",
     "Software Dev/Operating System/SO_Introduccion.xopp",
     "Software Dev/Operating System/SO_Introduccion.pdf",
     "Software Dev/Operating System/Procesos.xopp",
