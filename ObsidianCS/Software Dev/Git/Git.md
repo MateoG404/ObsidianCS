@@ -14,8 +14,11 @@
 * **git merge** (Merge two [[Branch]])
 * [[Git reset]] (Return our project to a specific **commit**)
 * **git rm** (Remove files from the repository)
-* **git revert** (Revert a commit using a new commit whitout delete the repository's historial)
-* **git fetch** (Get updates from our remote repository whitout change the files )
+* **git revert** (Revert a commit using a new commit without delete the repository's historical)
+* **git fetch** (Get updates from our remote repository without change the files )
+* **git config user.name " "** (Set the username for our [[Repository]])
+* **git config user. Email " "** (Set the email for our [[Repository]])
+* **git config user.password " "** (Set the [[PAT (Personal Access Token)]] for our [[Repository]])
 ## What is GIT?
 
 It's a [[System control version]] created to save the information changed in our projects, get old version of our code and get a register of the changes about who and when were made.
