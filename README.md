@@ -1,6 +1,6 @@
 # ObsidianCS - Repository for Computer Science Notes 🐒
- 
-Welcome to ObsidianCS! 
+
+Welcome to ObsidianCS!
 
 ObsidianCS is a repository for organizing and managing **Computer Science notes**, leveraging the powerful Obsidian app – your second brain. The notes contained within this repository follow the Zettelkasten method, as pioneered by Niklas Luhmann, which allows for a structured and interconnected knowledge base.
 
@@ -30,4 +30,3 @@ Contributions to this repository are highly encouraged. If you have valuable Com
 The contents of this repository are licensed under the [MIT License](LICENSE).
 
 Happy learning, and let's build our knowledge base together! 🚀
-

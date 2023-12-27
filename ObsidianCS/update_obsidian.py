@@ -1,21 +1,21 @@
-# update 
+# update
 
-import os 
+import os
 from datetime import date
 
 print(os.getcwd())
 if os.system('pip install gitpython') == 0:
 
-    from git import Repo    
+    from git import Repo
     import git
 
     repo = git.Repo(os.getcwd())
-    # Pull 
+    # Pull
 
     origin = repo.remote(name = 'origin')
     origin.pull()
 
-    # Push  
+    # Push
     index = repo.index
     commit_message = 'Actualización' + date.today()
 
@@ -25,5 +25,5 @@ if os.system('pip install gitpython') == 0:
     origin.push()  # sube los cambios al repositorio remoto
 
 
-else: 
+else:
     print("No se pudo instalar gitpython")

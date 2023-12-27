@@ -15067,12 +15067,12 @@ function create_fragment(ctx) {
       t7 = space();
       table = element("table");
       thead = element("thead");
-      thead.innerHTML = `<tr><th class="svelte-18sic8s">SUN</th> 
-                <th class="svelte-18sic8s">MON</th> 
-                <th class="svelte-18sic8s">TUE</th> 
-                <th class="svelte-18sic8s">WED</th> 
-                <th class="svelte-18sic8s">THU</th> 
-                <th class="svelte-18sic8s">FRI</th> 
+      thead.innerHTML = `<tr><th class="svelte-18sic8s">SUN</th>
+                <th class="svelte-18sic8s">MON</th>
+                <th class="svelte-18sic8s">TUE</th>
+                <th class="svelte-18sic8s">WED</th>
+                <th class="svelte-18sic8s">THU</th>
+                <th class="svelte-18sic8s">FRI</th>
                 <th class="svelte-18sic8s">SAT</th></tr>`;
       t21 = space();
       tbody = element("tbody");

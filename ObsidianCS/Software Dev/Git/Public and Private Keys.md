@@ -4,7 +4,7 @@ It is one type of [[asymmetric cryptographic ]] used to share information betwee
 
 As its name says, it's a public key created to encrypt information between two users. This kind of key could be shared, and more people can see, but that people can't decrypt that message.
 
-## Private Key 
+## Private Key
 
 It's a key used to decrypt a message using the encrypt information created using the **Public Key**. This kind of key couldn't be share with other people. There are a relation 1:1 between the **Public and Private keys**.
 

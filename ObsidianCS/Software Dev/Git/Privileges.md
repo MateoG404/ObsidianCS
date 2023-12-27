@@ -1,7 +1,7 @@
-  
+
 ## Types of Modes
 
-There are three type of modes: 
+There are three type of modes:
 1. Owner : The privileges for the owner of the file
 2. Group : The privileges for the group
 3. World : The privileges for the world

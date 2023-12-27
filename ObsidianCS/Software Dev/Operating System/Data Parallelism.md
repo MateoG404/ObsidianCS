@@ -1,7 +1,7 @@
 
 ## What is Data Parallelism?
 
-It's a type of [[Parallel Computing]] used to improve the [[Running Time]] dividing the data (input) in many subsets to run different [[Threads]] or [[Process]] that execute one function in that subset. 
+It's a type of [[Parallel Computing]] used to improve the [[Running Time]] dividing the data (input) in many subsets to run different [[Threads]] or [[Process]] that execute one function in that subset.
 
 ## Example
 

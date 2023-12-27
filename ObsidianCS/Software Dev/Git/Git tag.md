@@ -4,7 +4,7 @@ In [[Git]] we have an important concept used to make a reference to important co
 
 ![[Pasted image 20230720195952.png]]
 
-We use in [[Git]] and its important to make a reference from one version of our code. 
+We use in [[Git]] and its important to make a reference from one version of our code.
 
 ## How to send to Github?
 

@@ -11,4 +11,3 @@ There are three big different folders:
 ## File Configuration
 
 The file **pubspec.yaml** is a configuration file where we can put some different aspects related to version, dependencies, fonts, assets etc…
-

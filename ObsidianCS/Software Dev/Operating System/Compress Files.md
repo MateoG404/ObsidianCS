@@ -19,4 +19,3 @@ It is the same that **tar**, but **zip** is used in other [[Operating System]] l
 
 To **DECOMPRESS**, we use the [[Command]] **unzip**
 ![[Pasted image 20230718104006.png]]
-

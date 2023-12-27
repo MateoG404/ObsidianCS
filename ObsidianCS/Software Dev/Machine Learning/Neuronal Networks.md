@@ -1,5 +1,5 @@
 -> Multiperceptron Layer
--> ANN introduction 
+-> ANN introduction
 -> Activation f(x) (Función sigmoide)
 
 
@@ -9,10 +9,10 @@ Generalización de ANN
 
 Sea una red con L-capas y con n-neuronas por cada capa L, L= 1,2,3... se define que :
 
-n1 : Dimension de los datos (datos que entran) 
+n1 : Dimension de los datos (datos que entran)
 nL : Dimension de salida  (nodos que dicen la salida)
 
-La red se define como $L$  : $R^{n_{1}}$  -> $R^{n_{2}}$ 
+La red se define como $L$  : $R^{n_{1}}$  -> $R^{n_{2}}$
 
 $W^{l}$ E   $R^{n_{1} x n_{2}}$   (Matriz de pesos en la capa)
 $b^{l}$ E    $R^{n_{1} x n_{2}}$    (Vector de sesgos)
@@ -20,7 +20,7 @@ $b^{l}$ E    $R^{n_{1} x n_{2}}$    (Vector de sesgos)
 Función de activación
 
 $a^{1}$ = x
-$a^{l}$ = $\theta(W^{l}a^{l-1} + b{l})$ 
+$a^{l}$ = $\theta(W^{l}a^{l-1} + b{l})$
 -
 -> Stochastic gradient descent ( Usado para encontrar la mejor aproximación para determinar el minimo costo)
 

@@ -27,11 +27,10 @@ It's a file created to automatize the installation of our version for debug and 
 pip3 freeze > requeriments.txt
 ```
 
-In the last code, we use a [[Redirect]] to create the file 
+In the last code, we use a [[Redirect]] to create the file
 
 We can download the dependencies using the file requirements and the next [[Command]]
 
 ```zsh
 pip3 install -r requeriments.txt
 ```
- 

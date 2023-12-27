@@ -1,7 +1,7 @@
 
 ## What is PaaS?
 
-It's a [[Software patterns]] created for each of the developers only want to build, deploy and manage applications without need to control all the infrastructure. 
+It's a [[Software patterns]] created for each of the developers only want to build, deploy and manage applications without need to control all the infrastructure.
 
 ## Use Cases
 

@@ -2,12 +2,12 @@
 * Activities on Android → It's a screen of an app. In that way, the activity is very similar to a window in the Windows [[Operating System]]
 
 * [[Service]] → Background execution of long task without [[GUI]]
-				 There are three types of services: 
+				 There are three types of services:
 						 1. Foreground : Operation running the app interface
 						 2. Background : Operations running behind the scenes / interfaces
 						 3. Bound : [[Client]] - [[Server]] interface to interact with the users
 
-Using [[Threads]] can be powerful if we want to create independent [[Process]] or [[Memory]] **(Manage by user)** 
+Using [[Threads]] can be powerful if we want to create independent [[Process]] or [[Memory]] **(Manage by user)**
 
 When we use [[Service]] we don't aware about [[Memory]] or another computer things
 

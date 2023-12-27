@@ -8,4 +8,4 @@ git reflog
 
 ```
 
-2. Use [[Git reset]] to go to a specific commit 
+2. Use [[Git reset]] to go to a specific commit

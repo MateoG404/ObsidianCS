@@ -1,9 +1,9 @@
 ## What are the search commands?
 
-Are [[Command]] used to find files, directories or [[Symbolic Link]] in our computer since one direction specific. 
+Are [[Command]] used to find files, directories or [[Symbolic Link]] in our computer since one direction specific.
 
 ## Command Find
-This [[Command]] search the direction of files or directories since one specific direction. The sintaxis is : 
+This [[Command]] search the direction of files or directories since one specific direction. The sintaxis is :
 	![[Pasted image 20230717175123.png]]
 	Example of usage:
 	![[Pasted image 20230717175440.png]]

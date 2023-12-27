@@ -1,2 +1,2 @@
 
-## What is a Support Vector Machines ? #flashcard 
+## What is a Support Vector Machines ? #flashcard

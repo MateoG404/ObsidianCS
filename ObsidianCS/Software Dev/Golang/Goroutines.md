@@ -5,7 +5,7 @@ The **gouroutines** are one of the most powerful tool in [[GO]] because is the w
 
 ## waitGroup
 
-Method used to wait until a [[Goroutines]] end 
+Method used to wait until a [[Goroutines]] end
 * Add(int ) -> Number expected of goroutines to end the function
 * Done() -> End the goroutines
 * Wait() -> Wait until all the goroutines will be executed

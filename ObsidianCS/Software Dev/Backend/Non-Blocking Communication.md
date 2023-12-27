@@ -14,7 +14,7 @@ The [[Non-Blocking Communication]] are the operations which the program dont hav
 - `MPI_Wait`: Espera a que se complete una operación de comunicación no bloqueante.
 - `MPI_Test`: Comprueba si una operación de comunicación no bloqueante se ha completado, sin bloquear si aún no se ha completado.
 
-## Sintaxis 
+## Sintaxis
 
 ### MPI_Isend
 
@@ -46,4 +46,3 @@ int MPI_Irecv(void *buf, int count, MPI_Datatype datatype, int source, int tag, 
 - **tag**: Etiqueta para identificar el mensaje. Puede ser `MPI_ANY_TAG` para aceptar un mensaje con cualquier etiqueta.
 - **comm**: Comunicador que se utiliza para la comunicación.
 - **request**: Puntero a una variable de tipo `MPI_Request` que se utilizará para consultar o esperar a que la operación de recepción se complete.
-	

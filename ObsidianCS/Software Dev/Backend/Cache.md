@@ -3,4 +3,3 @@ Cache is a high-speed storage area that stores copies of frequently accessed or 
 
 * Diagram cache in a [[Server]]
 ![[Pasted image 20230828123327.png]]
-

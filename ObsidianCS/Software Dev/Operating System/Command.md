@@ -1,10 +1,10 @@
-## What is a command ? #flashcard 
+## What is a command ? #flashcard
 * A executable file
 * A function in the shell to make one operation
 * An Alias
 <!--ID: 1689606593518-->
 
-## Basic Commands #flashcard 
+## Basic Commands #flashcard
 * ***pwd*** (Print current/working directory)
 * ***file*** (Print the information about one file)
 * ***mkdir*** (Make directories)
@@ -19,7 +19,7 @@
 * **man** (User manual to know more information about one command)
 * **echo** (Generate an stdout in the terminal)
 * **cat** (Link two files)
-* **whoami** (Know who I am (user, group or other) )  
+* **whoami** (Know who I am (user, group or other) )
 * **uptime** (Show the use time from the computer)
 * **finger** (Show info about the user)
 * **uname -a** (Show info about the kernel)
@@ -27,11 +27,10 @@
  <!--ID: 1689606456572-->
 
 
-## Explore Files commands #flashcard 
+## Explore Files commands #flashcard
 
 * **head** (Show the first lines of the file)
 * **tail** (Show the last ones lines of the file)
 * **less** (Show file with an interactive mode to do scroll or search words )
 * **xdg-open** (Open the file with the editor)
 <!--ID: 1689606456576-->
-

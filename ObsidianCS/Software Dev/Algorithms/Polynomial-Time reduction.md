@@ -1,7 +1,7 @@
 
-## What is a Polynomial-Time reduction? #flashcard 
+## What is a Polynomial-Time reduction? #flashcard
 
-> A method for solving a hard problem using the [[Algorithm]] of another problem that is easier than the first. 
+> A method for solving a hard problem using the [[Algorithm]] of another problem that is easier than the first.
 <!--ID: 1676854286241-->
 
 

@@ -10,7 +10,7 @@
 * What is design system?
 	* A library of components, styles and other design things that are documented and can be reused
 	* The design has to be the driver for the user to use the different [[funcionalities]]
-	* There are [[Flat design]] and [[Realistic Design]] 
+	* There are [[Flat design]] and [[Realistic Design]]
 	* Use [[Skeuomorphism]]
-	* [[Neumorphism]] 
-	* 
+	* [[Neumorphism]]
+	*

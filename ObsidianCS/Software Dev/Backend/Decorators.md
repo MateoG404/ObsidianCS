@@ -1,4 +1,4 @@
-Decorators in Python are a powerful feature that allows you to modify or extend the behavior of functions or methods. That mean we can reuse code from different functions 
+Decorators in Python are a powerful feature that allows you to modify or extend the behavior of functions or methods. That mean we can reuse code from different functions
 
 ```python
 def decorador(f):
@@ -15,7 +15,7 @@ funcion_inicial()
 ```
 
 
-## Property 
+## Property
 Exist a special [[Decorators]] called **@property** which is used to create **getters, setters and deleters** methods without change the code or the class.
 
 ```python
@@ -27,7 +27,7 @@ class Casa:
 	@property
 	def precio(self):
 		return self._precio
-	
+
 	@precio.setter
 	def precio(self, precio_nuevo):
 		if precio_nuevo > 0 and isinstance(precio_nuevo, float):

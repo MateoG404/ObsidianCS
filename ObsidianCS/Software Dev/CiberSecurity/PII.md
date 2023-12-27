@@ -1,7 +1,7 @@
 ## What means?
 
 (PII : Personal Identifiable Information) that means any information that can be used to identify an user
-Example: 
+Example:
 + DNI
 + Mobile
 + Photos

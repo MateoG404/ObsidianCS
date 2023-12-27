@@ -28,4 +28,4 @@
 * Agile methods in the software development
 * SCRUM
 * 12 Agiles principles
-* 
+*

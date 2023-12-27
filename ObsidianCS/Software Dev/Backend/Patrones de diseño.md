@@ -11,9 +11,8 @@ Este patron hace que un objeto cualquiera notifique a los demás de un cambio re
 
 ## Patron Factory
 
-Patron que crea objetos pero no se sabe de que clase pues hace parte de una interfaz, depende de la logica 
+Patron que crea objetos pero no se sabe de que clase pues hace parte de una interfaz, depende de la logica
 
 ## Patron Strategy
 
 Patron que permite cambiar el algoritmo dependiendo el contexto
-

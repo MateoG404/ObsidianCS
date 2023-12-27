@@ -7,9 +7,9 @@ To make a Parallel computing we need an architecture parallel, that's to say, we
 
 ## Why Parallel Computing ?
 
-* The [[clock speed]] haven't improved in the last years because the computers when have a high [[clock speed]] need to consume more energy to run. 
+* The [[clock speed]] haven't improved in the last years because the computers when have a high [[clock speed]] need to consume more energy to run.
 
-## Types of Parallelism 
+## Types of Parallelism
 
 * [[Parallelism bit-level]]
 * [[Parallelism instruction-level]]

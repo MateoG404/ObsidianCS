@@ -14,16 +14,16 @@ Los servidores hacen stateless (sin estado), es decir, que no guarda contexto
 * Peticiones :
 	* HTTP : Formato de envio
 	* Header : Informacion de contexto (Auth, accept,content-type)
-	* Endpoint : Direccion para acceder (ruta) 
+	* Endpoint : Direccion para acceder (ruta)
 	* Query : Parametros para realizar las query
 	* Body : Envia datos extra para enviar
 
 * Responses :
 	* Headers : Informacion de contexto (content-type y status)
 	* Body : envia la info al cliente
-	* 
+	*
 
-Codigos 
+Codigos
 * 2xx Exito
 * 3xx Redireccion
 * 4xx Error humano

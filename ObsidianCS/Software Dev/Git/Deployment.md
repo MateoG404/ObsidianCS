@@ -4,4 +4,3 @@ When we are using a [[Server]] we can send information or files to do different 
 We can create a local server using Python with the next [[Command]]
 
 > ***python -m http.server***
-

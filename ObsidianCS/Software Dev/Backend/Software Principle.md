@@ -1,4 +1,4 @@
-A good system is : 
+A good system is :
 - Clean Code
 - [[Modular design]]
 - Easy to understand, test and debug

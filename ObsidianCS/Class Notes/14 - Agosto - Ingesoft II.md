@@ -5,4 +5,4 @@
 ## Important concepts
 
 * https://scrumguides.org/
-* 
+*

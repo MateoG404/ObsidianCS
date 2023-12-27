@@ -1,11 +1,11 @@
 ## What are control operators?
 
 The control operations are reserved symbols in the [[Terminal]] that can help us to link different [[Command]]
-Example : 
+Example :
 	Create a directory and print a cow saying hello
 	![[Pasted image 20230717121059.png]]
-	
-## Types of control operators 
+
+## Types of control operators
 
 1. ";" **Use more than one command**
 2. "&" **Create commands like [[Threads]]**

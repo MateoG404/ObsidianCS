@@ -1,8 +1,8 @@
-## What are the environment variables ? 
+## What are the environment variables ?
 
 The environment variables are variables when the [[Operating System]] save important information about some scripts or configuration.
 
-## Important environment variables 
+## Important environment variables
 	Note: To use an environment variable we have to use the symbol "$" before the      variable's name
 
 1. HOME : It's the direction of the home folder
@@ -15,4 +15,3 @@ In the file **.bashrc** and we can edit that information and create new [[Alias 
 ### Example:
 Add new bin folder for the PATH environment variables
 	![[Pasted image 20230717172312.png]]
-		

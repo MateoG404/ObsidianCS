@@ -5,8 +5,8 @@
 
 * In 2022, the company was divided into four business units
 	1. The unit responsible for the production and marketing of its wines, brandies, and wine distillates ***(where in wines accounted for 70 per cent of sales and brandies for 30 per cent.).***
-	2. Food, through the marketing of select products, premium olive, oil and “delicatessen”. 
-	3. The third unit was focused on the development of business related with wine tourism and restoration. 
+	2. Food, through the marketing of select products, premium olive, oil and “delicatessen”.
+	3. The third unit was focused on the development of business related with wine tourism and restoration.
 	4. The fourth was responsible for management of the company's winery in Chile.
 
 * In 2021, the company achieved sales of 255 million euros, with wine sales in more than 100 countries and approximately 1,200 workers
@@ -21,24 +21,24 @@
 
 * The mitigation tasks are :
 	* Renewable energies
-	* Energy effiency  ***(projects based on bioclimatic architectur)*** 
-	* Sustainable mobility 
+	* Energy effiency  ***(projects based on bioclimatic architectur)***
+	* Sustainable mobility
 	* Forest management and reforestation
 	* Average weight of wine bottles
-	* Capturing and reusing CO2 
+	* Capturing and reusing CO2
 
 * The task of adaption are:
 	* wine growing techniques
 	* new sites where the climate is the coolest
 	* ancestral varieties
-	
+
  * International Wineries for Climate Action (IWCA)
- 
- * President Miguel A. Torres says, “the more we care for earth, the better our wine.” 
-  
+
+ * President Miguel A. Torres says, “the more we care for earth, the better our wine.”
+
  * More resilient soils could reduce the number of unbalanced wines with overripe aromas; more fertile soils could produce wines with a fresher, more elegant character; and wines could be more consistent over time, less affected by climatic variability
 
-## Summary 
+## Summary
 
 "Familia Torres: From Sustainability to Regenerative Agriculture" provides an in-depth exploration of the transformation undertaken by Familia Torres, a prominent winemaking family from Spain. The text chronicles their journey from an initial commitment to sustainable practices towards a more advanced paradigm of [[regenerative agriculture]].
 

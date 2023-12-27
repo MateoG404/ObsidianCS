@@ -6,7 +6,7 @@
 	- Our solution has not to be the better
 	- We need to create a solution for a specific problem with a special value proposition
 	- Uber -> Get an app and get a taxi
-	- Unbounce -> Solve the problem to create [[landing pages]] for the people don't have an IT team with all the steps as [[Deploy]], [[Testing]]  and [[A B testing]]   
+	- Unbounce -> Solve the problem to create [[landing pages]] for the people don't have an IT team with all the steps as [[Deploy]], [[Testing]]  and [[A B testing]]
 	- Stripe -> The new standar to [[online payments]]
 
 +  Value proposition we need to :
@@ -19,23 +19,23 @@
 	+ [[Ads]]
 		+ [[Interstitial Ads]]
 		+ [[Banner ads]]
-		+ [[In-app video ads]] 
+		+ [[In-app video ads]]
 		+ [[Rewarded video ads]]
-		+ [[Native Ads]] 
-	 
+		+ [[Native Ads]]
+
 	 * [[App purchase]]
 		 + [[Subscriptions]]
 		 + [[Fremiumm]]
-		 
+
 	 + [[Data Monetization]]
-	 
+
 	 + [[Donations]]
-	 
+
 	 + [[Commision for a service]]
 
 	* [[Paid Apps]]
 
- * North Start Metric 
+ * North Start Metric
 	 * that capture the [[Value Proposition]] and the money make a company
 	 * Define the relationship between the user problem and the solution
 	 * Is an indicator of sustainable apps
@@ -47,8 +47,8 @@
 		* Marketing
 		* Personal recommendations
 		* Further purchases (Sell more)
- 
+
  + Engine Key aspects
 	 + Acquring clients
 	 + Pricing Model
-	 + 
+	 +

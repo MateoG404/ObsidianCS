@@ -6,13 +6,13 @@ It's a [[Command]] used to show the commit logs (information)
 * **git log -p** (Show the [[Git log]] and explain the changes)
 * **git shortlog** (Show who made the changes and the title commit)
 * **git log --graph --oneline --decorate** (Show graph)
-	
+
 	![[Pasted image 20230719133830.png]]
 
 We can mix the git log [[Command]] with others [[Search Commands]] or [[Grep]]  commands
 
 ## Search Words in all the commits
 
-We can run the next command to search words in our text commit 
+We can run the next command to search words in our text commit
 
-**git log -S "git"**  
+**git log -S "git"**

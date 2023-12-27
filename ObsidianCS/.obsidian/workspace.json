@@ -1,46 +1,60 @@
 {
   "main": {
-    "id": "559b1de9ccc9398f",
+    "id": "ea38de60c0926713",
     "type": "split",
     "children": [
       {
-        "id": "db6ab1c8f02e2ce4",
+        "id": "57dfac79d0acf1c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1310f77fb1d468",
+            "id": "1ee3d8ff968ceb02",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "91574056023a02af",
+            "id": "e45b5c12af331110",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Software Dev/Git/PAT (Personal Access Token).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22e5a626617dcb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Dev/Git/Staging server.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a7da1361f0f3f85e",
+    "id": "819c752e38de8a6a",
     "type": "split",
     "children": [
       {
-        "id": "4edfec9e2840f6f6",
+        "id": "ed5aee4aeab06b92",
         "type": "tabs",
         "children": [
           {
-            "id": "d06ace9902308a4a",
+            "id": "3a6461946b44480b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +64,12 @@
             }
           },
           {
-            "id": "6503a757fdde78fc",
+            "id": "296d64ef6219e42f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,34 +79,34 @@
             }
           },
           {
-            "id": "357d1089fd3a163d",
+            "id": "c157919556a019c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "af38e1a9e792c0e4",
+    "id": "cff92210adec35db",
     "type": "split",
     "children": [
       {
-        "id": "394102c7dfc1efe2",
+        "id": "b1291e890adf4bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "9ec45b7e280e0ec0",
+            "id": "5fe0f8369bcb99e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Dev/Git/Staging server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,18 +118,19 @@
             }
           },
           {
-            "id": "6701b72c87d036df",
+            "id": "0d73f56c7e6a0ee1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Dev/Git/Staging server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "31a856cef89a0830",
+            "id": "fde54c05c8aa9bb0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,7 +141,7 @@
             }
           },
           {
-            "id": "2368912a897fa0f6",
+            "id": "a0c6e09a926b96c9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -138,17 +153,17 @@
             }
           },
           {
-            "id": "7c089853d2de6bf1",
+            "id": "7716fd5f5441c2f2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Dev/Git/Git.md"
+                "file": "Software Dev/Git/Staging server.md"
               }
             }
           },
           {
-            "id": "b3b79a8953c1c720",
+            "id": "6fd7bee1665046fc",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -164,62 +179,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "91574056023a02af",
+  "active": "3a6461946b44480b",
   "lastOpenFiles": [
-    "Storage.md",
-    "Staging server.md",
-    "Software Dev/Theory of computation/String.md",
-    "Software Dev/Theory of computation/AutomatasFinitos.xopp",
-    "Software Dev/Theory of computation/Alphabets.md",
-    "Software Dev/Theory of computation",
-    "Software Dev/Software Management/spaces.md",
-    "Software Dev/Software Management/feature.md",
-    "Software Dev/Software Management/Workflows.md",
-    "Software Dev/Software Management/Projects.md",
-    "Software Dev/Software Management/Jira Service Management.md",
-    "Software Dev/Software Management/Issues.md",
-    "Software Dev/Operating System/subroutine.md",
-    "Software Dev/Operating System/multicore processors.md",
-    "Software Dev/Operating System/Tuberias.xopp",
-    "Software Dev/Operating System/Tuberias.pdf",
-    "Software Dev/Operating System/Terminal.md",
-    "Software Dev/Operating System/Task Parallelism.md",
-    "Software Dev/Operating System/Shared Memory.md",
-    "Software Dev/Operating System/SO_Introduccion.xopp",
-    "Software Dev/Operating System/SO_Introduccion.pdf",
-    "Software Dev/Operating System/Program Counter.md",
-    "Software Dev/Operating System/Process.md",
-    "Software Dev/Operating System/Process State.md",
-    "Software Dev/Operating System/Procesos.xopp",
-    "Software Dev/Operating System/Procesos.pdf",
-    "Software Dev/Operating System/Port.md",
-    "Software Dev/Operating System/Pipeline.md",
-    "Software Dev/Operating System/Parallel Computing.md",
-    "Software Dev/Operating System/PRI.md",
-    "Software Dev/Operating System/PCB.md",
-    "Software Dev/Operating System/Operating System.md",
-    "Software Dev/Operating System/NI.md",
-    "Software Dev/Operating System/Message Passing.md",
-    "Software Dev/Operating System/Memoria_compartida.xopp",
-    "Software Dev/Operating System/Memoria_compartida.pdf",
-    "Software Dev/Mobile dev/Pasted image 20231013202337.png",
-    "Images/Pasted image 20231219131814.png",
-    "Images/Pasted image 20231219122909.png",
-    "Images/Pasted image 20231219105706.png",
-    "Images/Pasted image 20231219105537.png",
-    "Images/Pasted image 20231219105416.png",
-    "Images/Pasted image 20231219105218.png",
-    "Images/Pasted image 20231219105210.png",
-    "Images/Pasted image 20231219104907.png",
-    "Images/Pasted image 20231219104855.png"
+    "Innovation & Bussiness/Personal Finance.md",
+    "Software Dev/Git/PAT (Personal Access Token).md"
   ]
 }

@@ -4,7 +4,7 @@ It is a [[Framework]] created to show how a [[service]]  or [[product]] is posit
 
 ## Customer Profile
 
-It's a way to describe our costumer with more details knowing the gains, pains and [[customer jobs]] 
+It's a way to describe our costumer with more details knowing the gains, pains and [[customer jobs]]
 
 
 ## Value Map

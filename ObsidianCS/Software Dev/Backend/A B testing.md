@@ -7,13 +7,13 @@ The A/B Testing have two parts:
 * Control (A) Is the original version
 * Alternative (B) is the new version in the app
 
-Both test have a [[Conversion Rate]]  
+Both test have a [[Conversion Rate]]
 ![[Pasted image 20231219122909.png]]
 
 ## Why use an A B Testing?
 
 * Get new data and relationship between the values as the time, moment of the year, the other companies and the impact of our new feature to get more things (sells, users, info, etc..)
-* In the [[Software Engineering]] the A B testing is commonly used in some features related with generate personalized experiences 
+* In the [[Software Engineering]] the A B testing is commonly used in some features related with generate personalized experiences
 * Is related with the impact in the [[UX]]
 
 ## Benefits to use the A B testing
@@ -41,4 +41,4 @@ Both test have a [[Conversion Rate]]
 	![[Pasted image 20231219131814.png]]
 2. Know which metrics we are going to measure
 3. Select the poblation where we are going to implement
-4. 
+4.

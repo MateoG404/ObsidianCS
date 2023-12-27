@@ -6,7 +6,7 @@ Multi-threading in Flutter
 
 When we create an async function we create  a thread, but when we create a future, this function will be executed in the main thread
 
-There are two types of process to wait the process: 
+There are two types of process to wait the process:
 
 * Await : Interrupt the main process until the action will be solved
 * Then : Don't interrupt the main process
@@ -17,7 +17,7 @@ To define asyn function we need to declare async before the function body
 
 Behavior that the people have and think that affect the behavior of our application.
 
-Mobile apps are prone to performance bugs beacuse of : 
+Mobile apps are prone to performance bugs beacuse of :
 
 * Hardware limitations
 * OS
@@ -28,7 +28,7 @@ How to detect this performance bugs ?
 * Memory management issues :
 	* Memory Bloats
 	* Excessive Garbage Collection
-	* Memory-related 
+	* Memory-related
 	* Out of Memory Errors (Problem with the ram memory)
 
 ### How to solve it ?
@@ -39,7 +39,7 @@ How to detect this performance bugs ?
 
 
 ## Micro optimizations
-*  Use debugging to see how many times the widgets are creating 
+*  Use debugging to see how many times the widgets are creating
 * Try to kill all the activities that won't used in the next moments
 
 
@@ -58,8 +58,8 @@ How to detect this performance bugs ?
 	3. Memory-Managment
 	4. Multi-Threading
 
-We can see like **HTOP** to see the process and how are working 
-	We can use the energy log to see the use of the memory 
+We can see like **HTOP** to see the process and how are working
+	We can use the energy log to see the use of the memory
 
 
 ## Flutter Profiler (Debugging device)

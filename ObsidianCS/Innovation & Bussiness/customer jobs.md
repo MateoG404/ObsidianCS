@@ -7,4 +7,4 @@ There are three different types of jobs:
 2. Social Jobs *(Look good or gain powerful)*
 3. Personal / Emotional Jobs *(Feel good)*
 
-Also, our customer jobs can be supported by 
+Also, our customer jobs can be supported by

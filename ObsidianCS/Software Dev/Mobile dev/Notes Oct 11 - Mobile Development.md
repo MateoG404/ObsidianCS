@@ -1,4 +1,3 @@
 [[Android Process Hierachy]]
-[[Task]] 
+[[Task]]
 Shared information between activities -> Using [[Intents]] [[Shared Memory]], intents
-

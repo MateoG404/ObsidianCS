@@ -5,7 +5,7 @@ It's a [[SDK]] developed by Google to create [[mobile applications]] in [[IOS]] 
 
 ## Where is used Flutter?
 
-Flutter is used like a [[Cross Platform]] to created [[native applications]] 
+Flutter is used like a [[Cross Platform]] to created [[native applications]]
 
 ## Declarative Programming
 

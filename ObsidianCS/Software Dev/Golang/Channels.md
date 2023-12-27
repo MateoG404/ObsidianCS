@@ -13,6 +13,6 @@ Used to close the [[Channels]] even if we have more capability
 
 Used to iterate about the different elements in the [[Channels]]
 
-## Select 
+## Select
 
 Used to listen many channels at the same time and do something according with the results for each channel
