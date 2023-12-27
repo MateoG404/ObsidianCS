@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "bcd318062882a562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Dev/Git/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "91574056023a02af",
             "type": "leaf",
             "state": {
@@ -38,7 +26,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Dev/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Dev/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,51 +175,51 @@
   },
   "active": "91574056023a02af",
   "lastOpenFiles": [
-    "PAT (Personal Access Token).md",
-    "Software Dev/Git/Git.md",
-    "Software Dev/Operating System/Command.md",
-    "Software Dev/Git/Staging.md",
-    "Staging server.md",
     "Storage.md",
-    "Software Dev/Operating System/Terminal.md",
-    "Personal Finance.md",
-    "Software Dev/Backend/Conversion Rate.md",
-    "Software Dev/Backend/A B testing.md",
-    "Images/Pasted image 20231219131814.png",
-    "Innovation & Bussiness/Compliance.md",
-    "Software Dev/Algorithms/Master Theorem.md",
-    "Software Dev/Software Management/feature.md",
-    "Software Dev/Software Management",
-    "Images/Pasted image 20231219122909.png",
-    "A/B testing.md",
-    "Class Notes/Notes Sep 1 - Moviles.md",
-    "A",
-    "Software Dev/Software Management/Issues.md",
-    "Software Dev/Software Management/Workflows.md",
-    "Software Dev/Backend/Confluence.md",
-    "Software Dev/Software Management/Jira Service Management.md",
+    "Staging server.md",
+    "Software Dev/Theory of computation/String.md",
+    "Software Dev/Theory of computation/AutomatasFinitos.xopp",
+    "Software Dev/Theory of computation/Alphabets.md",
+    "Software Dev/Theory of computation",
     "Software Dev/Software Management/spaces.md",
-    "Software Dev",
-    "Images/Pasted image 20231219104703.png",
+    "Software Dev/Software Management/feature.md",
+    "Software Dev/Software Management/Workflows.md",
+    "Software Dev/Software Management/Projects.md",
+    "Software Dev/Software Management/Jira Service Management.md",
+    "Software Dev/Software Management/Issues.md",
+    "Software Dev/Operating System/subroutine.md",
+    "Software Dev/Operating System/multicore processors.md",
+    "Software Dev/Operating System/Tuberias.xopp",
+    "Software Dev/Operating System/Tuberias.pdf",
+    "Software Dev/Operating System/Terminal.md",
+    "Software Dev/Operating System/Task Parallelism.md",
+    "Software Dev/Operating System/Shared Memory.md",
+    "Software Dev/Operating System/SO_Introduccion.xopp",
+    "Software Dev/Operating System/SO_Introduccion.pdf",
+    "Software Dev/Operating System/Program Counter.md",
+    "Software Dev/Operating System/Process.md",
+    "Software Dev/Operating System/Process State.md",
+    "Software Dev/Operating System/Procesos.xopp",
+    "Software Dev/Operating System/Procesos.pdf",
+    "Software Dev/Operating System/Port.md",
+    "Software Dev/Operating System/Pipeline.md",
+    "Software Dev/Operating System/Parallel Computing.md",
+    "Software Dev/Operating System/PRI.md",
+    "Software Dev/Operating System/PCB.md",
+    "Software Dev/Operating System/Operating System.md",
+    "Software Dev/Operating System/NI.md",
+    "Software Dev/Operating System/Message Passing.md",
+    "Software Dev/Operating System/Memoria_compartida.xopp",
+    "Software Dev/Operating System/Memoria_compartida.pdf",
+    "Software Dev/Mobile dev/Pasted image 20231013202337.png",
+    "Images/Pasted image 20231219131814.png",
+    "Images/Pasted image 20231219122909.png",
     "Images/Pasted image 20231219105706.png",
     "Images/Pasted image 20231219105537.png",
     "Images/Pasted image 20231219105416.png",
     "Images/Pasted image 20231219105218.png",
     "Images/Pasted image 20231219105210.png",
-    "Software Dev/Software Management/Projects.md",
     "Images/Pasted image 20231219104907.png",
-    "Images/Pasted image 20231219104855.png",
-    "TODO.md",
-    "Software Dev/CiberSecurity/PII.md",
-    "Software Dev/CiberSecurity/Threat Model.md",
-    "Software Dev/CiberSecurity",
-    "Innovation & Bussiness/Functional Requeriments.md",
-    "Images/Pasted image 20231215142941.png.md",
-    "Software Dev/Operating System/Tuberias.xopp",
-    "Software Dev/Operating System/Tuberias.pdf",
-    "Software Dev/Operating System/SO_Introduccion.xopp",
-    "Software Dev/Operating System/SO_Introduccion.pdf",
-    "Software Dev/Operating System/Procesos.xopp",
-    "Software Dev/Operating System/Procesos.pdf"
+    "Images/Pasted image 20231219104855.png"
   ]
 }
