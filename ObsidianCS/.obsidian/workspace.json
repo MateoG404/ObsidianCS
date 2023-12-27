@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f721c006c8745b4",
+        "id": "dde1e802137a41ee",
         "type": "tabs",
         "children": [
           {
-            "id": "128c336dc81d46c3",
+            "id": "0ea8b0d1b039a548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Dev/Operating System/Terminal.md",
+                "file": "Software Dev/Git/Staging.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Dev/Operating System/Terminal.md",
+                "file": "Software Dev/Git/Staging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Dev/Operating System/Terminal.md",
+                "file": "Software Dev/Git/Staging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Dev/Operating System/Terminal.md"
+                "file": "Software Dev/Git/Staging.md"
               }
             }
           },
@@ -167,8 +167,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "128c336dc81d46c3",
+  "active": "0ea8b0d1b039a548",
   "lastOpenFiles": [
+    "Staging server.md",
+    "Storage.md",
+    "Software Dev/Operating System/Terminal.md",
     "Personal Finance.md",
     "Software Dev/Backend/Conversion Rate.md",
     "Software Dev/Backend/A B testing.md",
@@ -206,11 +209,8 @@
     "Innovation & Bussiness/Product Discovery.md",
     "Innovation & Bussiness/Customer Discorvery.md",
     "Software Dev/Operating System/multicore processors.md",
-    "Software Dev/Operating System/subroutine.md",
     "Software Dev/Operating System/Tuberias.xopp",
     "Software Dev/Operating System/Tuberias.pdf",
-    "Software Dev/Operating System/Task Parallelism.md",
-    "Software Dev/Operating System/Terminal.md",
     "Software Dev/Operating System/SO_Introduccion.xopp",
     "Software Dev/Operating System/SO_Introduccion.pdf",
     "Software Dev/Operating System/Procesos.xopp",
