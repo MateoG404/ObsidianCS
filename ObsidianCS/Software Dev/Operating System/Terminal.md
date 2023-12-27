@@ -10,4 +10,5 @@
 
 ## What is a shell ? #flashcard 
 - It's a software used to read [[Command]] and execute the instructions that we want us to say through the commands. 
+- It's a programm exists in all the [[Operating System]] that works to execute and create orders through [[Command]] 
 <!--ID: 1689471740907-->
