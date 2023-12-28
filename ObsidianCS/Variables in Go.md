@@ -1,4 +1,7 @@
 
+
+***The variables are statics, that means the variables can't change along the time of use in the [[Projects]]***
+
 The variables in [[GO]] have some rules
 
 1. Always the variables have to start with a letter
@@ -30,4 +33,4 @@ priceCourse = 50.99
 )
 ```
 
-We use the sign **:=** we can use a [[Variables in Go]] even declarate the type of it.
+We use the sign **:=** we can use a [[Variables in Go]] even declare the type of it.

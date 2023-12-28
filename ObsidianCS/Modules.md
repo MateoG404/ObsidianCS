@@ -6,4 +6,21 @@ This is how we have to organize our projects
 
 ## Commands
 
-To create a new module we can use the command:
+* Initialize modules
+```Go
+go mod init nameModule
+```
++ Add [[Depedencies]]
+
+```Go
+go get url
+```
+* Update [[Depedencies]]
+```Go
+go get -u
+```
+* Download [[Depedencies]]
+
+```Go
+go mod tidy
+```
