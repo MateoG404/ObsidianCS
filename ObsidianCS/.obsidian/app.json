@@ -120,7 +120,8 @@
     "al",
     "Puntero",
     "na operac",
-    "Id"
+    "Id",
+    "empName"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,

@@ -6,7 +6,7 @@ Es un lenguaje compilado y tipado, creado en Google anunciado en 2012. Diseñado
 * Tiene una velocidad de compilación bastante buena
 * Sintaxis buena para implementar buenas prácticas de programación
 * Usado también en [[Docker]] y [[Kubernetes]] para hacer despliegue de [[mobile applications]]
-*
+
 
 
 ## Consejos para optimizar usando Go
