@@ -14,7 +14,6 @@ def funcion_inicial():
 funcion_inicial()
 ```
 
-
 ## Property
 Exist a special [[Decorators]] called **@property** which is used to create **getters, setters and deleters** methods without change the code or the class.
 
