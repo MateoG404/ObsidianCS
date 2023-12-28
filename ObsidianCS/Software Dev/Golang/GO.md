@@ -30,6 +30,14 @@ Es un lenguaje compilado y tipado, creado en Google anunciado en 2012. Diseñado
 
 	## Defer
 
+![[Pasted image 20231228082307.png]]
+
+![[Pasted image 20231228082342.png]]
+
+![[Pasted image 20231228082533.png]]
+
+
+
 It's a [[keyword]] used to run the action before to end the function
 
 
