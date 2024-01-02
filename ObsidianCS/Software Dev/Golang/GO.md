@@ -49,7 +49,7 @@ It's a [[keyword]] used to run the action before to end the function
 ## Mutable Datatypes
 
 * [[Slices]] (If we don't do the re-slice)
-* Maps
+* [[Maps]]
 * [[Pointers]]
 * Structs
 * [[Arrays]]
