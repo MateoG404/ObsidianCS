@@ -51,5 +51,5 @@ It's a [[keyword]] used to run the action before to end the function
 * [[Slices]] (If we don't do the re-slice)
 * [[Maps]]
 * [[Pointers]]
-* Structs
+* [[Structs]]
 * [[Arrays]]
