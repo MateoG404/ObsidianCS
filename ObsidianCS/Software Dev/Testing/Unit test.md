@@ -31,12 +31,10 @@ In [[GO]] we can use the package testing to create [[Unit test]] and the test mu
 
 ![[Pasted image 20240103072933.png]]
 *t.Fatal is a method to stop the code if the case or functionality is wrong*
-### Using testify
+### Using [[Testify]]
 
 Similar to the Errorf in testify, we use assert to show the error and don't stop
 ![[Pasted image 20240103075112.png]]
 
 Similar to the Fatal, in testify we use require showing the error and stop the code
 ![[Pasted image 20240103075247.png]]
-
-![[Pasted image 20240103075911.png]]

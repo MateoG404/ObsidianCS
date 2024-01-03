@@ -121,7 +121,9 @@
     "Puntero",
     "na operac",
     "Id",
-    "empName"
+    "empName",
+    "omitempty",
+    "MyStruct"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
