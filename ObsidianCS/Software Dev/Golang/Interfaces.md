@@ -26,3 +26,7 @@ In some moments we need to create a general code for our [[software]] for that r
 
 ## Example creation list interface
 ![[Pasted image 20231114144608.png]]
+
+## Convert the interface in another [[data type]] or [[Interfaces]]
+
+To convert the interfaces in another type we use the [[Type assertion]]
