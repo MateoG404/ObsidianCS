@@ -18,10 +18,11 @@ We have two figures (circle and rectangle) and we want to know the **area** and 
 ### use of the interface in the main program
 ![[Pasted image 20240104081309.png]]
 
+## Empty Interfaces
+
+In some moments we need to create a general code for our [[software]] for that reason we need to create an empty interface that admit all the [[data type]]. In the next image, we see the use of this type of interface
+
+![[Pasted image 20240104081721.png]]
 
 ## Example creation list interface
 ![[Pasted image 20231114144608.png]]
-
-## Example usage of interface to calculate the area for different figures
-
-We have 4 different figures (Circle, Square, Triangle, Rectangle)
