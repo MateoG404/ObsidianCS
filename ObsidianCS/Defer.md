@@ -5,4 +5,4 @@ When we create a [[Panic]] the program will always stop, but sometimes we need t
 
 ![[Pasted image 20240105113009.png]]
 
-If we want to recover the programm we can use the method [[Recover]]
+If we want to recover the program we can use the method [[Recover]]
