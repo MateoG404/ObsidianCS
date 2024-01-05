@@ -1,4 +1,5 @@
 
+
 ## What is Go?
 
 Es un lenguaje compilado y tipado, creado en Google anunciado en 2012. Diseñado para backend para manejar procesos complejos usando una sintaxis sencilla similar a [[Python]]
