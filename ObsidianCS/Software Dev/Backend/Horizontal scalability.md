@@ -5,5 +5,5 @@ Horizontal scalability involves adding more [[Virtual Machines]] or [[Server]] t
 ## Advantages
 * **Less cost**
 * **Downtime** (Turn on/off the [[Server]] when it's needed)
-* **Load balancer** (Balance the [[request]] around the servers)![[Pasted image 20230828111509.png]]
+* **Load balancer** (Balance the [[Request]] around the servers)![[Pasted image 20230828111509.png]]
 *

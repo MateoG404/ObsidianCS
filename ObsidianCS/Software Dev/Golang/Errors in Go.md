@@ -9,7 +9,7 @@ In [[GO]] we have many ways to create errors
 	![[Pasted image 20240104114642.png]]
 2. We can use the [[Package]] error
 	![[Pasted image 20240104115841.png]]
-3. Create an error using the [[Package]] fmt (This package allows us to create wraped errors, that means one error have many errors inside them)
+	1. Create an error using the [[Package]] fmt (This package allows us to create wraped errors, that means one error have many errors inside them)
 	![[Pasted image 20240104115729.png]]
 
 ## Package Is() and As()

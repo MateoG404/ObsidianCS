@@ -4,10 +4,3 @@ An API, or Application Programming Interface, is a set of rules, protocols, and 
 
 
 ![[Pasted image 20230826110248.png]]
-## REST API
-
-It's a set of rules and conventions for building and interacting with web services. It's a type of architectural style for designing networked applications that allows different software applications to communicate with each other over the internet.
-
-The rest APIs use the [[CRUD]]
-
-![[Pasted image 20230826111801.png]]
