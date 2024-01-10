@@ -41,7 +41,7 @@
 	 * Is an indicator of sustainable apps
 
 * Growth
-	* Important concept to [[Software Dev/Backend/Scalability|Scalability]] the [[revenue models]] and the [[mobile applications]]
+	* Important concept to [[Software Dev/Software Architecture/Scalability|Scalability]] the [[revenue models]] and the [[mobile applications]]
 	* How do my clients get to me?
 		* Using the product
 		* Marketing

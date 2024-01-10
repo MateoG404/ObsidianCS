@@ -4,4 +4,4 @@ A good system is :
 - Easy to understand, test and debug
 - Easy to maintain
 - Easy to modify
-- Easy to [[Software Dev/Backend/Scalability|Scalability]]
+- Easy to [[Software Dev/Software Architecture/Scalability|Scalability]]
