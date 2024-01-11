@@ -11,3 +11,34 @@ JSON is often used when data is sent from a [[Server]] to a [[web]]. It is "self
     "city": "New York"
 }
 ```
+
+[[JSON]] is a non-structured data, because we can append more data or don't add data
+
+```json
+{
+  "name": "John",
+  "age": 30,
+  "pets": [
+    {
+      "name": "Fido",
+      "type": "Dog"
+    },
+    {
+      "name": "Fluffy",
+      "type": "Cat",
+      "color": "White"
+    }
+  ],
+  "siblings": [
+    {
+      "name": "Jane",
+      "age": 25
+    },
+    {
+      "name": "Jim",
+      "age": 35,
+      "job": "Engineer"
+    }
+  ]
+}
+```

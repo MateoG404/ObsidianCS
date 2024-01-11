@@ -126,7 +126,8 @@
     "MyStruct",
     "errors",
     "fmt",
-    "Unmarshall"
+    "Unmarshall",
+    "Params"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
