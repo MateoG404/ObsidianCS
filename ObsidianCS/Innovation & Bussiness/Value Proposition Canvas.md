@@ -1,6 +1,6 @@
 ## What is Value Proposition Canvas?
 
-It is a [[Framework]] created to show how a [[service]]  or [[product]] is positioned around what the costumer needs. Sometimes we need to create a **value** that is a set of benefits that we design to attract customers.
+It is a [[Framework]] created to show how a [[Service]]  or [[product]] is positioned around what the costumer needs. Sometimes we need to create a **value** that is a set of benefits that we design to attract customers.
 
 ## Customer Profile
 

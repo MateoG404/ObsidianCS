@@ -20,3 +20,7 @@ In the [[Response]]:
 + **Content-Length**
 + **Set-cookie** : This header is used to send the cookies to the [[Client]]
 + **Location**: Is the [[Response]] about the new data added in the [[Data Bases]], this could have the information about where is saved the data or the url of that.
+
+![[Pasted image 20240111080627.png]]
+
+## Post in [[GO]]
