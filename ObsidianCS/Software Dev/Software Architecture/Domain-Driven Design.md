@@ -5,7 +5,7 @@ It's a type of [[Software Architecture]] used in [[GO]] to implement code in our
 
 ## Principal Domains
 
-* **/cmd** : Is the folder where we put all the input in our [[software]]
+* **/cmd** : Is the folder where we put all the input values in our [[software]]
 * **/internal**: Is the folder where all the internal functionalities are hosted and can be shared with another [[Package]] outside
 * **/plattform**: Is the folder where are all the functionalities that could be implemented in another projects or [[software]]
 
