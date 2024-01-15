@@ -6,10 +6,11 @@ In [[software developer]] the [[Unit test]] are the way to prove the correct fun
 
 The unit test contains three important moments:
 
-1. Arrange : Moment where we define the prerequisites to run the code
-2. Act : Moment where the code is executed
-3. Assert : Moment where we made a validation to know if the code is correct or no
-
+1. Arrange : Moment where we define the prerequisites to run the code (**setup**)
+2. Act : Moment where the code is executed (**Execution**)
+3. Assert : Moment where we made a validation to know if the code is correct or no (**Response**)
+#### Example
+![[Pasted image 20240115111426.png]]
 ## Principles in the Unit test
 
 The unit test have to follow the initials **F.I.R.S.T**
@@ -24,7 +25,7 @@ The unit test have to follow the initials **F.I.R.S.T**
 
 ## Unit test in Golang
 
-In [[GO]] we can use the package testing to create [[Unit test]] and the test must have the same name as the functionality with the word "**_test**"
+In [[GO]] we can use the [[Package]] [[http test]] testing to create [[Unit test]] and the test must have the same name as the functionality with the word "**_test**"
 
 ![[Pasted image 20240103072826.png]]
 *t.Errorf is a method to say that the functionality or the case is wrong*
@@ -38,3 +39,5 @@ Similar to the Errorf in testify, we use assert to show the error and don't stop
 
 Similar to the Fatal, in testify we use require showing the error and stop the code
 ![[Pasted image 20240103075247.png]]
+
+.Equal() Its a method used to verify if the test and the [[Response]] expected are the same
