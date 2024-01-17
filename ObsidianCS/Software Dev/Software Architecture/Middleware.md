@@ -22,4 +22,21 @@ func MyMiddleware(next http.Handler) http.Handler {
 }
 ```
 
+To implement, we use the [[Chi]] [[Package]] with the method **router.Use()**
+```Go
+// - middleware
+
+auth := middleware.NewAuthenticator(s.token)
+
+logger := middleware.NewLogger()
+
+// - router
+
+rt := chi.NewRouter()
+
+// middlewares (ping -> auth -> logger) decorator pattern
+
+rt.Use(logger.Log, auth.Auth)
+```
+
 ![[Pasted image 20240115211813.png]]
