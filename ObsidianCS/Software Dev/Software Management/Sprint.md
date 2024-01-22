@@ -1,4 +1,3 @@
-
 ## What is a sprint?
 
 In [[Software Engineering]] there is a term known as **Sprint** that is defined like the moment where the different teams planning, create and solve one problem given.
