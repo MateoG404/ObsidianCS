@@ -15,6 +15,9 @@ We can have different relations:
 
 1. One to One (One table related with another table)
 2. One to Many  (One table related with many tables)
-3. Many to Many (Many tables related with Many tables, in this case we need to have an intermediate table using [[Primary and Foreign Keys]]) 
+3. Many to Many (Many tables related with Many tables, in this case we need to have an intermediate table using [[Primary and Foreign Keys]])
 
 ![[Pasted image 20240124081456.png]]
+
+## Conventions for the relations
+![[Pasted image 20240124101857.png]]
