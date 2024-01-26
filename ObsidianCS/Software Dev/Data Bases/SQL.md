@@ -47,3 +47,14 @@ Using the [[DML]] we have the next commands
 
 These are commands used to aggregate the information and give some information
 ![[Pasted image 20240124115502.png]]
+
+## Operation Oder
+
+All the queries in [[SQL]] have the next hierarchy
+
+1. [[Select]]
+2. [[JOIN]]
+3. WHERE
+4. [[GROUP BY]]
+5. [[HAVING]]
+6. ORDER BY
