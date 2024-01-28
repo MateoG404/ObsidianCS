@@ -129,7 +129,9 @@
     "Unmarshall",
     "Params",
     "UnMarshall",
-    "un"
+    "un",
+    "Atomicity",
+    "Atomicity"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
