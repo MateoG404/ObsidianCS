@@ -131,7 +131,8 @@
     "UnMarshall",
     "un",
     "Atomicity",
-    "Atomicity"
+    "Atomicity",
+    "KVS"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,

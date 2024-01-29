@@ -14,3 +14,7 @@ The [[Data Bases]] have [[columns]] and [[rows]] and the most used [[Programming
 2. Minimum redundancy
 3. Multiple users
 4. Security
+
+## Map to choose the best DataBase
+
+![[Pasted image 20240129073435.png]]
