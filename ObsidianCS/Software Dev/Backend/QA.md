@@ -17,6 +17,6 @@ A good quality attribute must be measurable:
 
 ## Testing
 
-In [[Software Development]] testing is a process to test if the software meets performance and usability requeriments
+In [[Software Development]] testing is a process to test if the software meets [[Performance]] and usability requeriments
 
-There are two types of testing : Manueal and Automated
+There are two types of testing: Manual and Automated

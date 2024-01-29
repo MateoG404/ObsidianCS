@@ -15,6 +15,6 @@ The [[Data Bases]] have [[columns]] and [[rows]] and the most used [[Programming
 3. Multiple users
 4. Security
 
-## Map to choose the best DataBase
+## Map to choose the best Database
 
 ![[Pasted image 20240129073435.png]]
