@@ -1,6 +1,6 @@
 ## What is the principle [[ACID]]?
 
-The principle [[ACID]] in [[Data Bases]] was designed to guarantee the [[Request]] and the use of [[Data Bases]] in the real World
+The principle [[ACID]] in [[SQL]] [[Data Bases]] was designed to guarantee the [[Request]] and the use of [[Data Bases]] in the real World
 
 ## A (Atomicity)
 
@@ -19,3 +19,5 @@ All the [[Request]] must be executed in isolation in a sequential or in [[Parall
 ## D (Durability)
 
 The [[Data Bases]] after do some [[Request]] must store the changes and the different consults.
+
+![[Pasted image 20240127192938.png]]
