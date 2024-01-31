@@ -22,7 +22,7 @@ func MyMiddleware(next http.Handler) http.Handler {
 }
 ```
 
-To implement, we use the [[Chi]] [[Package]] with the method **router.Use()**
+To implement, we use the [[Chi]] [[Software Dev/Golang/Package]] with the method **router.Use()**
 ```Go
 // - middleware
 

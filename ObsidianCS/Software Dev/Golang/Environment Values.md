@@ -17,5 +17,5 @@ but the last command save the [[Environment Values]] in the [[Terminal]], that m
 
 ## Environment Values in [[GO]]
 
-We can use the [[Package]] **Package OS** to use, modify and get the [[Environment Values]]
+We can use the [[Software Dev/Golang/Package]] **Package OS** to use, modify and get the [[Environment Values]]
 ![[Pasted image 20240115082506.png]]

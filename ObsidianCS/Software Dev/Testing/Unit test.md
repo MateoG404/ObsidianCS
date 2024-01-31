@@ -25,7 +25,7 @@ The unit test have to follow the initials **F.I.R.S.T**
 
 ## Unit test in Golang
 
-In [[GO]] we can use the [[Package]] [[http test]] testing to create [[Unit test]] and the test must have the same name as the functionality with the word "**_test**"
+In [[GO]] we can use the [[Software Dev/Golang/Package]] [[http test]] testing to create [[Unit test]] and the test must have the same name as the functionality with the word "**_test**"
 
 ![[Pasted image 20240103072826.png]]
 *t.Errorf is a method to say that the functionality or the case is wrong*

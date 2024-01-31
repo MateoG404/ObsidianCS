@@ -15,7 +15,7 @@ Steps :
 4. Chi gives the [[Response]]
 ## How to use [[Chi]] in [[GO]]?
 
-1. Get the [[Package]] with the next command
+1. Get the [[Software Dev/Golang/Package]] with the next command
 
 ```go
 go get -u github.com/go-chi/chi/v5

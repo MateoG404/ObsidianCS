@@ -10,4 +10,4 @@ go get -u <link_dependencies>
 
 ```
 
-After to implement the dependency we can use in the [[Package]]
+After to implement the dependency we can use in the [[Software Dev/Golang/Package]]

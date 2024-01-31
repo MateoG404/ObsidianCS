@@ -1,6 +1,6 @@
 ## What is the [[http test]]?
 
-In [[GO]] we can do different type of testing using the [[Package]] [[http test]].
+In [[GO]] we can do different type of testing using the [[Software Dev/Golang/Package]] [[http test]].
 
 ## [[Unit test]] to [[REST API]]
 

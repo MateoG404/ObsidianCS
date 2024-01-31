@@ -132,7 +132,10 @@
     "un",
     "Atomicity",
     "Atomicity",
-    "KVS"
+    "KVS",
+    "QueryRow",
+    "autoincremental",
+    "init"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,

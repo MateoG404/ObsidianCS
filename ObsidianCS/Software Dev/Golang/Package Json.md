@@ -1,7 +1,7 @@
 
-## What is the [[Package]] [[JSON]]?
+## What is the [[Software Dev/Golang/Package]] [[JSON]]?
 
-Is a [[Package]] used in [[GO]] to convert [[Structs]] and [[data type]] to [[JSON]] format
+Is a [[Software Dev/Golang/Package]] used in [[GO]] to convert [[Structs]] and [[data type]] to [[JSON]] format
 
 ## Marshall function
 

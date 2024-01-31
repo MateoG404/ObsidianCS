@@ -1,7 +1,7 @@
 
 ## What is the [[Software Dev/Software Architecture/Context]]?
 
-When we use an [[API]] we need to send some [[Package]] to the different layers. And those [[Request]] could have a [[Software Dev/Software Architecture/Context|Context]] that is understood as an extra information given for the [[Server]] side to do something.
+When we use an [[API]] we need to send some [[Software Dev/Golang/Package]] to the different layers. And those [[Request]] could have a [[Software Dev/Software Architecture/Context|Context]] that is understood as an extra information given for the [[Server]] side to do something.
 
 The principal use of the [[Software Dev/Software Architecture/Context]] is :
 * Storage of extra information : [[PAT (Personal Access Token)]]
