@@ -86,7 +86,7 @@ return nil, err
 ## POST
 
 To use the [[Post Method]] we use the method **Store**
-1. Execute the [[Request]] using the params collected
+1. to Execute the [[Request]] using the parameters collected
 
 ```Go
 // execute the query
@@ -99,7 +99,7 @@ result, err := r.db.Exec(
 
 ```
 
-2. Manage the possible errors given according with the last id or internal error
+2. Manage the possible errors given according to the last ID or internal error
 ```Go
 if err != nil {
 	var mysqlErr *mysql.MySQLError
@@ -123,7 +123,7 @@ return
 }
 
 ```
-4. Get the last id (this can be different from the Body Request)
+4. Get the last ID (this can be different from the Body Request)
 
 ```Go
 // get the last inserted id
@@ -139,18 +139,22 @@ if err != nil {
 
 ## GET ALL
 
-It's the same operation like the [[Get Method]] but we need to use a new method **Query**
+It's the same operation as [[Get Method]] but we need to use a new method **Query**
 ```Go
 row := r.db.Exec("SELECT column1, column2, column3 FROM your_table WHERE id = ?", id)
 ```
 
-After get the response maybe we need to iterate in the request for show all the items.
+After get the response, maybe we need to iterate in the request to show all the items.
 
 ## UPDATE
 
-Like the GET ALL method we need to use the method **Exec** to execute the data for the [[Put Method]]
+Like the GET ALL method, we need to use the method **Exec** to execute the data for the [[Put Method]]
 
 
-## DElLETE METHOD
+## DELETE METHOD
 
-Like the last method we use the same method from the package **Exec** and we need to manage the errors in the same way
+Like the last method, we use the same method from the package **Exec**, and we need to manage the errors in the same way
+
+## JOINS
+
+We use the method **db.Exec** to execute the query and get all the information
