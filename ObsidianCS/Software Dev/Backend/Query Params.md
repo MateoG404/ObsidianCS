@@ -5,3 +5,12 @@ The query parameters are a specific parameter in a [[Get Method]] when we are cr
 ![[Pasted image 20240110083847.png]]
 
 ![[Pasted image 20240111074320.png]]
+
+## How to capture the [[Query Params]] in [[GO]] using [[Chi]]?
+
+```Go
+r.Get("/reportProducts", func(w http.ResponseWriter, r *http.Request) {
+	idStr := r.URL.Query().Get("id")
+	id, err := strconv.Atoi(idStr)
+})
+```
