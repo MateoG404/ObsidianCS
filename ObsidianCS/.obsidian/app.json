@@ -135,7 +135,8 @@
     "KVS",
     "QueryRow",
     "autoincremental",
-    "init"
+    "init",
+    "Fidelidad"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
