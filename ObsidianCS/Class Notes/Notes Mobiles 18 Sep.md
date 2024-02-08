@@ -11,7 +11,7 @@
 
 	 * We need to think about the different scenarios ***(not internet connection, low battery, not enough memory, etc ...)***
 
-	* [[Quality Software]] matters more than the [[Software Architecture]]
+	* [[Software Dev/Backend/Quality Software]] matters more than the [[Software Architecture]]
 
-* [[Quality Software]] : Some characteristics measurable or testable that tell us how the [[mobile applications]] solve the needs of the stakeholders
+* [[Software Dev/Backend/Quality Software]] : Some characteristics measurable or testable that tell us how the [[mobile applications]] solve the needs of the stakeholders
 *

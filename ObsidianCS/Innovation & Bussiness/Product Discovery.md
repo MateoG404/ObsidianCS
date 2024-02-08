@@ -4,7 +4,7 @@ Means the methodology that we as devs use to create solutions using software.
 * 4 Big Risks
 	* Not enough value product
 	* Not enough tech skills
-	* Not [[usability]]
+	* Not [[Usability]]
 	* [[Bussiness]] problems
 	![[Pasted image 20231215151504.png]]
 

@@ -4,7 +4,7 @@
 
 * Why do need design elements, principles and systems?
 	* Keep the atention for the user
-	* To improve [[UX]] and [[usability]]
+	* To improve [[UX]] and [[Usability]]
 	* To transfer physical experiences to the digital world
 
 * What is design system?
