@@ -6,13 +6,4 @@ We can measure the [[Software Dev/Software Architecture/Quality Software]] using
 
 ## Quality Dimensions
 
-The next items are the different dimensions of quality must be completed in a good software
-
-1. [[Functionality]]
-2. [[Performance]]
-3. [[Reliability]]
-4. [[Security]]
-5. [[Mantenability]]
-6. [[Compatibility]]
-7. [[Usability]]
-8. [[Portability]]
+The [[Quality Dimensions]] are the [[No Functional Requeriments]] that must be achieved

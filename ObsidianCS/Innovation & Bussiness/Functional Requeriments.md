@@ -1,5 +1,5 @@
 
-The functional Requirements are the requirements above what the app have to do.
+The functional Requirements are the requirements above what the app have to do. **(WHAT TO DO)**
 
 Example:
 * The user can upload photos

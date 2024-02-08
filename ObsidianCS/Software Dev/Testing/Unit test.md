@@ -13,15 +13,7 @@ The unit test contains three important moments:
 ![[Pasted image 20240115111426.png]]
 ## Principles in the Unit test
 
-The unit test have to follow the initials **F.I.R.S.T**
-
-![[Pasted image 20240103072028.png]]
-
-1. **Fast** : The test has to be fast to run and to create theirs
-2. **Isolated** : All the test must be isolated of our code and the others test
-3. **Repeatable** : All the times that we run the code that code must be the same output, that means the [[Unit test]] is [[deterministc algorithm]]
-4. **Self-validating** : The test has to say if the functionality is working or not
-5. **Thorough** : All the cases have to be correct
+The unit test have to follow the [[FIRST Principles]]
 
 ## Benefits
 

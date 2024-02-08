@@ -1,8 +1,8 @@
 
-Similar to the [[Functional Requeriments]] these types of requirements are necessary to understand what have to do our app (behavior)
+Are the requirements about the **HOW** to do the things, what type of [[Software Principle]], [[Software Architecture]] use and implement
 
 Example:
+
 * [[DataSecurity]]
 * [[PII]] manage
 * [[Privacy]]
-*
