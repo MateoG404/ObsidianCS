@@ -7,6 +7,6 @@ When we are [[Testing]] some [[software]] we need to replace some [[components]]
 
 1. [[Stubs]]
 2. [[Mock]]
-3. [[Fakes]]
-4. [[Dummies]]
+3. [[Fake]]
+4. [[Dummy]]
 5. [[Spy]]

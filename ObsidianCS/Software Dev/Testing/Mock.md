@@ -2,7 +2,9 @@
 
 A mock is an object or [[components]] who simulate the behavior of one function, method or [[components]] inside the test
 
-This object allows set predetermined results, errors and more when we are doing [[Testing]], specific in the [[Unit test]] to simulate the behavior of real objects. And are used to isolate the code from the dependencies
+This object allows set predetermined results, errors and more when we are doing [[Testing]], specific in the [[Unit test]] to simulate the behavior of real objects. And are used to isolate the code from the dependencies.
+
+The mock can save information about how the method is being called
 
 ## Example
 
