@@ -1,5 +1,5 @@
 
-## What is. a[[Fake]] in [[Testing]] ?
+## What is a[[Fake]] in [[Testing]] ?
 
 In [[Test Double]] we need to simulate some [[components]] before to [[Deploy]]. In those case we use a [[Fake]] to simulate all the behavior in a fake scenario
 

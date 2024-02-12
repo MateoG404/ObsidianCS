@@ -30,3 +30,7 @@ func TestGetUser(t *testing.T) {
     assert.Equal(t, "John Doe", user.Name)
 }
 ```
+
+## Example in [[GO]]
+
+When we are creating [[Stubs]] in [[GO]] we need to create another file called <name>_stub.go with the struct and the methods stubbed
