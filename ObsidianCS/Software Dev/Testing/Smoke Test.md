@@ -12,7 +12,6 @@ The [[Smoke Test]] are use when we refactor the code and the main [[funcionaliti
 * Before [[Unit test]]
 * In the [[Continous Integration]]
 
-
 ## Example in [[GO]]
 
 ```Go
