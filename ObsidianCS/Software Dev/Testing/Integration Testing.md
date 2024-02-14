@@ -15,12 +15,8 @@ Each test must be run in isolation. In [[GO]] we can use the [[Package go-txb]] 
 When we use the [[Integration Testing]] we can find some [[bugs]] related about how the components work and share information
 
 ## Guarantee the interoperability
-We can be sure about the interoperability if some test pass 
+We can be sure about the interoperability if some test pass
 
 # How to use the do [[Integration Testing]]?
 
 We can use [[Container]] to create an isolated environment and test the [[application]] doing smaller and easy to apply using [[Docker]]. Also, we can use the [[Orchestrator]] like [[Kubernetes]] to do [[Integration Testing]], this is more complex because we can configurate the [[Deploy]], [[Authentication]] and more
-
-
-
-
