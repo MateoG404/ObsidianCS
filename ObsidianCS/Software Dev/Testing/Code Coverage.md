@@ -2,7 +2,7 @@
 
 The [[Code Coverage]] is the measure to know how many code was tested in our [[application]]
 
-## How calculate the [[Code Coverage]] in [[GO]]
+## How to calculate the [[Code Coverage]] in [[GO]]
 
 To calculate the [[Code Coverage]] in [[GO]] we can use the next commands 
 
@@ -17,4 +17,11 @@ go test ./... -cover
 ```Go
 go test ./... -coverprofile=coverage.out
 go tool cover -html=coverage.outj
+```
+
+3. Calculate all the [[Code Coverage]], return a report and know how many times was called the methods
+
+```Go
+go test -covermode="count" -coverprofile="coverage.out" ./...
+go tool cover -html=coverage.out
 ```
