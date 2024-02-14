@@ -1,4 +1,4 @@
-## What is a [[Data Bases]]?
+n## What is a [[Data Bases]]?
 
 It's a [[data set]] where we can store information, make [[Request]] and do more of this with that information.
 
