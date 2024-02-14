@@ -49,3 +49,7 @@ func TestHomePage(t *testing.T) {
     assert.Equal(t, expected, rr.Body.String(), "Response body doesn't match expected")
 }
 ```
+
+
+## Tools to implement [[Smoke Test]]
+![[Pasted image 20240214161704.png]]
