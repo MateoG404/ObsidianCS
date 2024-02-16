@@ -2,6 +2,9 @@
 ## What is a Unit test?
 
 In [[software developer]] the [[Unit test]] are the way to prove the correct functionality of our code in small piece of codes ([[funcionalities]]). Also, the unit test is developed to test one function with one functionality in an isolated way.
+
+![[Pasted image 20240215092019.png]]
+(Example to create [[Unit test]] for each feature)
 ## Structure
 
 The unit test contains three important moments:
