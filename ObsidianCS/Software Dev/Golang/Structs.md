@@ -16,7 +16,7 @@ If the attribute has the first letter in upper case is **Public**, if not the at
 ![[Pasted image 20240103115940.png]]
 ## Tags in the [[Structs]]
 
-In the [[Structs]] we can append **tags** to know how to reference that [[Variables in Go]] in the next [[microservices]] or in the [[Data Bases]]
+In the [[Structs]] we can append **tags** to know how to reference that [[Variables in Go]] in the next [[Microservices]] or in the [[Data Bases]]
 
 #### Ignore attributes using tags
 
