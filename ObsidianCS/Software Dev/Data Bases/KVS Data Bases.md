@@ -19,3 +19,8 @@ Popular examples of Key-Value Store databases include:
 - **Amazon DynamoDB:** A managed NoSQL database service by Amazon Web Services that supports key-value and document data models.
 
 - **Apache Cassandra:** A distributed NoSQL database known for its scalability and high availability, which also supports key-value pairs.
+
+
+## Types of KVS
+
+![[Pasted image 20240229102045.png]]
