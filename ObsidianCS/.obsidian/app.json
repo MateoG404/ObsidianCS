@@ -136,7 +136,14 @@
     "QueryRow",
     "autoincremental",
     "init",
-    "Fidelidad"
+    "Fidelidad",
+    "staticcheck",
+    "staticcheck",
+    "where",
+    "SSOT",
+    "trazas",
+    "DataDog",
+    "Kibana"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
