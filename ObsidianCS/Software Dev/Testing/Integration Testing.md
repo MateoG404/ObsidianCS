@@ -1,6 +1,6 @@
 ## What is a [[Integration Testing]]?
 
-It's a method used in [[Testing]] to verify the functionalities that use another external systems like [[Data Bases]], [[microservices]], etc...
+It's a method used in [[Testing]] to verify the functionalities that use another external systems like [[Data Bases]], [[Microservices]], etc...
 
 We can use [[Docker]] or [[Test Containers]] because are isolated to guarantee the principle for the [[Testing]] (repeatable and isolation)
 ### Repeatable

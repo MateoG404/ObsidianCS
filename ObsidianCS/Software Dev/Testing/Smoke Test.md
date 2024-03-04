@@ -10,7 +10,7 @@ The [[Smoke Test]] are use when we refactor the code and the main [[funcionaliti
 * Every time that we implement a new feature
 * After deploy the code in a new [[Server]]
 * Before [[Unit test]]
-* In the [[Continous Integration]]
+* In the [[Continuous Integration]]
 
 ## Example in [[GO]]
 
