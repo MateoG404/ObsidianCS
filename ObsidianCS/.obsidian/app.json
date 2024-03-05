@@ -144,7 +144,8 @@
     "trazas",
     "DataDog",
     "Kibana",
-    "specializ"
+    "specializ",
+    "Bigqueue"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,

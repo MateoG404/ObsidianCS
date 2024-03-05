@@ -11,5 +11,5 @@ It's the **scope** (alcance) could have some [[web applications]] like the devel
 ## Tools used in the [[Scope Web]]
 
 1. DataDog : Visualize metrics about the app
-2. New Relic : Visualize trazas
+2. New Relic : Visualize trazas (RPS)
 3. Kibana: Visualize Logs
