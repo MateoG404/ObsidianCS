@@ -1,7 +1,7 @@
 
-## What is [[Object Storage]] ?
+## What is [[Software Dev/Data Bases/Object Storage]] ?
 
-[[Object Storage]] refers to a type of [[Data Bases]] that organizes information in the form of objects in a **binary files**, as opposed to using a hierarchical file system like traditional file storage ([[SQL]]). Each object in object storage consists of data, metadata, and a unique identifier. Some [[Object Storage]] use the key-value like the [[Map]] and sometimes we use the [[URL]] path to get, modify and use the object.
+[[Software Dev/Data Bases/Object Storage]] refers to a type of [[Data Bases]] that organizes information in the form of objects in a **binary files**, as opposed to using a hierarchical file system like traditional file storage ([[SQL]]). Each object in object storage consists of data, metadata, and a unique identifier. Some [[Software Dev/Data Bases/Object Storage]] use the key-value like the [[Map]] and sometimes we use the [[URL]] path to get, modify and use the object.
 
 ## Important Concepts
 
