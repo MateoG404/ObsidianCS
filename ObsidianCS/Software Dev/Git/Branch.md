@@ -4,7 +4,7 @@ There are four different types of branch :
 1. **Master**  (Currently version)
 2. **Development** (Branches where the software developers edit and create new codes)
 3. **Hot Fixing** (Branch created in [[Production]] to solve new bugs that appeared in [[Production]])
-4. **Release** (Branch created before to send the project to [[Production]])
+4. **[[Release]]** (Branch created before to send the project to [[Production]])
 
 ![[Pasted image 20230719110159.png]]
 
