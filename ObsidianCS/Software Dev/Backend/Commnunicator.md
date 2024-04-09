@@ -5,6 +5,6 @@ In MPI context, a communicator is **a special object representing a group of pro
 
 
 ## Point to Point Communication
-[[P2P]]
+[[Software Dev/Backend/P2P]]
 
 ## [[Non-Blocking Communication]]

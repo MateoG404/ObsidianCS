@@ -145,7 +145,10 @@
     "DataDog",
     "Kibana",
     "specializ",
-    "Bigqueue"
+    "Bigqueue",
+    "AMQP",
+    "Fanout",
+    "Websocket"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,

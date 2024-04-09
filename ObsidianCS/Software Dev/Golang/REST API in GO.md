@@ -1,4 +1,4 @@
-In [[GO]] there are different methods to create an [[REST API]] using [[Framework]] or the native way.
+In [[GO]] there are different methods to create an [[API REST]] using [[Framework]] or the native way.
 
 ## Native Way
 

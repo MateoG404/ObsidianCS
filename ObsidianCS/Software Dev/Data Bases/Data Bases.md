@@ -18,3 +18,5 @@ The [[Data Bases]] have [[columns]] and [[rows]] and the most used [[Programming
 ## Map to choose the best Database
 
 ![[Pasted image 20240129073435.png]]
+https://whimsical.com/ecosistema-de-storage-bootcamp-xWGNpRfJmDFZ7Gcnj4zTY
+ 

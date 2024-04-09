@@ -16,7 +16,7 @@ go test ./... -cover
 
 ```Go
 go test ./... -coverprofile=coverage.out
-go tool cover -html=coverage.outj
+go tool cover -html=coverage.out
 ```
 
 3. Calculate all the [[Code Coverage]], return a report and know how many times was called the methods

@@ -23,4 +23,3 @@ Also known as **Advanced Message Queuing Protocol,** was created as an open stan
 
 3. **Message Body**
    - The actual content of the message.
-

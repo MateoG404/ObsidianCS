@@ -6,7 +6,7 @@ In [[Git]] we have an important concept used to make a reference to important co
 
 We use in [[Git]] and its important to make a reference from one version of our code.
 
-## How to send to Github?
+##4 How to send to Github?
 
 we use the next [[Command]]
 	***git push origin --tags***

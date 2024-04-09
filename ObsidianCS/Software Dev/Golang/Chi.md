@@ -1,6 +1,6 @@
 ## What is [[Chi]]?
 
-[[Chi]] is a [[Framework]] used in [[GO]] to create [[Server]] to implement the protocol [[HTTP]] focused in the **architecture** [[REST API]]
+[[Chi]] is a [[Framework]] used in [[GO]] to create [[Server]] to implement the protocol [[HTTP]] focused in the **architecture** [[API REST]]
 
 ## How works [[Chi]]?
 

@@ -2,7 +2,7 @@
 
 [[CURL]] is a tool designed to transfer data between [[network]] and [[Server]]
 
-We can use the [[CURL]] in [[Integration Testing]] because the [[API]] is hosted in [[HTTP]] ([[REST API]])
+We can use the [[CURL]] in [[Integration Testing]] because the [[API]] is hosted in [[HTTP]] ([[API REST]])
 
 
 ## Most important [[Command]]

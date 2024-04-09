@@ -2,7 +2,7 @@
 
 In [[GO]] we can test the code that make [[Request]] and [[Response]] using [[Handler]] or [[Service]] using the [[Package]] [[http test]]  
 
-## Steps to create a [[Unit test]] to [[REST API]]
+## Steps to create a [[Unit test]] to [[API REST]]
 
 1. Define the Arrange
 	1. Define the sub variables used in the [[Handler]]
