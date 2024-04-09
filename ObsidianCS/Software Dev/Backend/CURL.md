@@ -11,5 +11,3 @@ We can use the [[CURL]] in [[Integration Testing]] because the [[API]] is hosted
 
 ## Example to create [[Integration Testing]]
 ![[Pasted image 20240214162558.png]]
-
-

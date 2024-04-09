@@ -19,4 +19,3 @@ The [[Data Bases]] have [[columns]] and [[rows]] and the most used [[Programming
 
 ![[Pasted image 20240129073435.png]]
 https://whimsical.com/ecosistema-de-storage-bootcamp-xWGNpRfJmDFZ7Gcnj4zTY
- 

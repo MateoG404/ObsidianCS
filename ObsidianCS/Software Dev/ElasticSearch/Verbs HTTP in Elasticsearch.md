@@ -11,12 +11,12 @@
 	* Get Mapping
 	`localhost:9200/{index}/_mapping`
 
-2. [[Post Method]] : Used to create or update info 
+2. [[Post Method]] : Used to create or update info
 	* Update file`localhost:9200/{index}/_update/{index_number}`
-	The body is a [[JSON]] 
-		
+	The body is a [[JSON]]
+
 		![[Pasted image 20240310145258.png]]
 	* **Post File**:
 		`localhost:9200/{index}/_doc/5`
-1. [[Delete Method]]: Used to delete info 
+1. [[Delete Method]]: Used to delete info
 	 `localhost:9200/{index}/_doc/1`

@@ -1,6 +1,6 @@
 ## What is the [[http test]]?
 
-In [[GO]] we can test the code that make [[Request]] and [[Response]] using [[Handler]] or [[Service]] using the [[Package]] [[http test]]  
+In [[GO]] we can test the code that make [[Request]] and [[Response]] using [[Handler]] or [[Service]] using the [[Package]] [[http test]]
 
 ## Steps to create a [[Unit test]] to [[API REST]]
 
@@ -10,7 +10,7 @@ In [[GO]] we can test the code that make [[Request]] and [[Response]] using [[Ha
 	3. Set the Body [[Request]]
 	![[Pasted image 20240216180947.png]]
 
-2. Define the Act 
+2. Define the Act
 	1. Do the [[Request]]
 	2. Configure the [[Header]] in the [[Request]]
 	3. Get the [[Response]]

@@ -4,7 +4,7 @@ The [[Code Coverage]] is the measure to know how many code was tested in our [[a
 
 ## How to calculate the [[Code Coverage]] in [[GO]]
 
-To calculate the [[Code Coverage]] in [[GO]] we can use the next commands 
+To calculate the [[Code Coverage]] in [[GO]] we can use the next commands
 
 1. Calculate all the [[Code Coverage]]
 

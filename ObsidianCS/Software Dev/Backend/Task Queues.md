@@ -4,10 +4,10 @@ A task queue is a mechanism used in computer programming and software design to 
 
 ## Attributes
 
-1. [[Queue]] size : Number of messages in the [[Queue]] 
+1. [[Queue]] size : Number of messages in the [[Queue]]
 2. [[Queue]] age : The age of oldest message in the [[Queue]] ([[RabbitMQ]] doesn't implement the queue age)
 
-## Properties 
+## Properties
 
 1. [[Asynchronously]]
 2. [[Autoscaling ]]:
@@ -18,6 +18,6 @@ A task queue is a mechanism used in computer programming and software design to 
 
 1. Decompose two systems :
 		Integrate systems written in different technologies
-2. Improve [[Performance]] 
-3. Increase fault tolerance level 
+2. Improve [[Performance]]
+3. Increase fault tolerance level
 4. Increase loose coupling and [[Software Dev/Software Architecture/Scalability|Scalability]]
