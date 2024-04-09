@@ -1,5 +1,5 @@
 
-The [[Web Architecture]] that we use in the most of the websites on the internet have a [[Software Architecture]] based in the [[HTTP]] where is used many [[REST API]].
+The [[Web Architecture]] that we use in the most of the websites on the internet have a [[Software Architecture]] based in the [[HTTP]] where is used many [[API REST]].
 
 ## Principles
 

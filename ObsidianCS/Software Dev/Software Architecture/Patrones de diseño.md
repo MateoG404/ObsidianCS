@@ -17,6 +17,8 @@ Patron que crea objetos pero no se sabe de que clase pues hace parte de una inte
 
 Patron que permite cambiar el algoritmo dependiendo el contexto
 
+## [[Abstract Factory]]
+
 ## Types of [[Design Patroness]]
 
 1.  Creacionales

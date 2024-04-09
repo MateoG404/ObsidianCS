@@ -11,7 +11,6 @@ The [[Microservices]] are an [[Software Architecture]] style that structures an 
 * SSOT ( Single Source of Truth) that means [[Microservices]] have only one [[Data Bases]] related for each [[Microservices]]
 * [[Software Dev/Software Architecture/Scalability|Scalability]] could be [[Horizontal scalability]] or [[Vertical scalability]]
 
-
 ## Advantage
 * Agility 
 * [[Software Dev/Software Architecture/Scalability|Scalability]]
