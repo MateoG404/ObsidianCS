@@ -8,7 +8,7 @@
 * **git show** (Show the last change's file)
 * **[[Git log]]** (Show all the changes in the repository)
 * **git pull** (Get the update repository (server))
-* **git rm** (Delete files from our repository)
+	* **git rm** (Delete files from our repository)
 * **git rm --cached** (Move the files from [[Staging]] state to [[Untracked]] state)
 * **git diff** (Show the difference between two commits)
 * **git merge** (Merge two [[Branch]])

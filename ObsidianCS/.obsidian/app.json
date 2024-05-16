@@ -148,7 +148,8 @@
     "Bigqueue",
     "AMQP",
     "Fanout",
-    "Websocket"
+    "Websocket",
+    "objetive"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,

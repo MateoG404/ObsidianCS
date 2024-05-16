@@ -1,2 +1,2 @@
 
-## What is [[WorkerPool]] in [[GO]]?
+## What is [[Software Dev/Golang/WorkerPool]] in [[GO]]?
