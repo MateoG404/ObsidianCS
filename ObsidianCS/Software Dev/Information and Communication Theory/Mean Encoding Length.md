@@ -17,3 +17,6 @@ $\eta = \frac{L_{min}}{L}$
 or  defined using the [[Entropy]] as
 
 $\eta = \frac{H(X)}{L}$
+
+## Example
+![[Pasted image 20240618182817.png]]
