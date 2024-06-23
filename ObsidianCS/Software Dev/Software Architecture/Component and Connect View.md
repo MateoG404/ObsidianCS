@@ -15,5 +15,4 @@ The main elements for this view are **Components** and **Connectors**
 The components represent the principal c**omputation elements** and **data stores** that are present at [[Running Time]]
 
 ![[Pasted image 20240220073403.png]]
-
-
+![[Pasted image 20240522100652.png]]
