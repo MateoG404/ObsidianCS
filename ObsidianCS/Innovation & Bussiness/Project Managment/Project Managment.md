@@ -7,7 +7,7 @@
 1. Initiating ***(Understand the problem and identify requirements)***
 2. Planning ***(Creating a route to solve the problem using stakeholders)***
 3. Executing (***Execute the plan)***
-4. Monitoring and controlling ***([[Testing]])***
+4. [[Monitoring]] and controlling ***([[Testing]])***
 5. Closing
 
 ## Planning Step

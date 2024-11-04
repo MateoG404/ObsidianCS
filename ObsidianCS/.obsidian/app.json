@@ -149,7 +149,9 @@
     "AMQP",
     "Fanout",
     "Websocket",
-    "objetive"
+    "objetive",
+    "compresion",
+    "Razon"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,

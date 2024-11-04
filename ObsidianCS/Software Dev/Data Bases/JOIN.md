@@ -1,5 +1,5 @@
 
-## What are the sentences [[JOIN]] in [[SQL]]?
+	## What are the sentences [[JOIN]] in [[SQL]]?
 
 The sentences [[JOIN]] in [[SQL]] are commands used to get information about some [[Tables]] that are related between them. These sentences are based in the [[set]] theory
 
