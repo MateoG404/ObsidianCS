@@ -20,7 +20,7 @@ We have two figures (circle and rectangle) and we want to know the **area** and 
 
 ## Empty Interfaces
 
-In some moments we need to create a general code for our [[software]] for that reason we need to create an empty interface that admit all the [[data type]]. In the next image, we see the use of this type of interface
+In some moments we need to create a general code for our [[Software]] for that reason we need to create an empty interface that admit all the [[data type]]. In the next image, we see the use of this type of interface
 
 ![[Pasted image 20240104081721.png]]
 

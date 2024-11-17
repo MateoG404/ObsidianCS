@@ -1,6 +1,8 @@
 
 ## What is Software Architecture?
 
+* *The goal of software architecture is to minimize the human resources required to build and maintain the required systems*
+
 ***Brown** ([[Software Architecture]] is the combination between the [[application]] and [[system]])*
 
 

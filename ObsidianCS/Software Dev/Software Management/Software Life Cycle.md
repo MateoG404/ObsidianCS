@@ -1,7 +1,7 @@
 
 ## What is the [[Software Life Cycle]]?
 
-When we are creating a [[software]] project we need to define some steps
+When we are creating a [[Software]] project we need to define some steps
 
 ![[Pasted image 20240129070616.png]]
 

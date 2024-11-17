@@ -1,3 +1,3 @@
 ## What is [[Systems Architecture]]?
 
-It's a system oriented in the [[software]] and [[hardware]]
+It's a system oriented in the [[Software]] and [[hardware]]

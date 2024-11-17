@@ -1,7 +1,7 @@
 
 ## What is Jira Service Management?
 
-It's a [[software]] created to have a communication between the[[Software Engineering]] and the users or stakeholders to have a vision about the progress of the project and their differents states.
+It's a [[Software]] created to have a communication between the[[Software Engineering]] and the users or stakeholders to have a vision about the progress of the project and their differents states.
 
 The [[Jira Service Management]] is created specially for the [[IT teams]] to create, search, view and improve the work in some [[Software Development]]
 

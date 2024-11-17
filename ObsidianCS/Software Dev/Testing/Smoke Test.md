@@ -1,7 +1,7 @@
 
 ## What are the [[Smoke Test]]?
 
-The [[Smoke Test]] also known as **Build Verification Test** are a type of [[Testing]] created to **verify all the critical (main)** [[funcionalities]] in the [[software]]. This type of test are oriented for general aspects and don't be oriented to detail aspects.
+The [[Smoke Test]] also known as **Build Verification Test** are a type of [[Testing]] created to **verify all the critical (main)** [[funcionalities]] in the [[Software]]. This type of test are oriented for general aspects and don't be oriented to detail aspects.
 
 The [[Smoke Test]] are use when we refactor the code and the main [[funcionalities]] have to be tested
 

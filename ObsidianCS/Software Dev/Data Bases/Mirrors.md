@@ -1,7 +1,7 @@
 
 ## What are the [[Mirrors]] in [[Software Architecture]]?
 
-When we are creating [[software]] sometimes we need to have a [[Backup]] for our application in terms of [[Availability]]. For that reason, the next items are possible solutions for that problem.
+When we are creating [[Software]] sometimes we need to have a [[Backup]] for our application in terms of [[Availability]]. For that reason, the next items are possible solutions for that problem.
 
 1. **Active / Active** : This is used when we have an application that have a lot of traffic, and we have two or more [[Server]] to redirect the [[Request]].
 
