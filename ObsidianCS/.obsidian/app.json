@@ -151,7 +151,8 @@
     "Websocket",
     "objetive",
     "compresion",
-    "Razon"
+    "Razon",
+    "Playfair"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
