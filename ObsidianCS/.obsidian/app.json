@@ -152,7 +152,8 @@
     "objetive",
     "compresion",
     "Razon",
-    "Playfair"
+    "Playfair",
+    "Monoalphabetic"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
