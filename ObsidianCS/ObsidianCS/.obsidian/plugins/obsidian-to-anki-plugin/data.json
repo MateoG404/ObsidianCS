@@ -1,0 +1,186 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic-a79c1": "",
+      "Básico": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "Básico (tarjeta invertida opcional)": "",
+      "Básico (teclear la respuesta)": "",
+      "Básico (y tarjeta invertida)": "",
+      "Respuesta anidada": "",
+      "English new words-163e4": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic-a79c1": "Front",
+      "Básico": "Anverso",
+      "Básico (tarjeta invertida opcional)": "Anverso",
+      "Básico (teclear la respuesta)": "Anverso",
+      "Básico (y tarjeta invertida)": "Anverso",
+      "Respuesta anidada": "Texto"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Algorithms": "Algorithms",
+      "Operating System": "",
+      "Machine Learning": "",
+      "Theory of computation": "",
+      "Frances": ""
+    },
+    "FOLDER_TAGS": {
+      "Algorithms": "#algorithms",
+      "Operating System": "",
+      "Machine Learning": "",
+      "Theory of computation": "",
+      "Frances": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "flashcard",
+      "Deck": "Operating System",
+      "Scheduling Interval": 0,
+      "Add File Link": true,
+      "Add Context": true,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": true
+    }
+  },
+  "Added Media": [
+    "Pasted image 20230219194523.png",
+    "Pasted image 20230219194411.png",
+    "Pasted image 20230301101243.png",
+    "Pasted image 20230301103152.png",
+    "Pasted image 20230301103444.png",
+    "Pasted image 20230301103515.png",
+    "Pasted image 20230301103535.png",
+    "Pasted image 20230407200729.png",
+    "Pasted image 20230408190142.png",
+    "Pasted image 20230408191620.png",
+    "Pasted image 20230422160611.png",
+    "Pasted image 20230422160557.png",
+    "Pasted image 20230510095151.png"
+  ],
+  "File Hashes": {
+    "Untitlvdsved.md": "1556dcb0badf4043856ce41745e275ee",
+    "Operating System/Operating System.md": "582cfb55bef573a1c1e334ac9b1315f5",
+    "Algorithms/Unreasonable time.md": "cd69e539aeb4ad52a265b7273cc75c35",
+    "Algorithms/Tractable Algorithm.md": "18a7ea30776016ba27418ea01ad59276",
+    "Algorithms/Scalability.md": "68e017cec0f2214373f57897124b7109",
+    "Algorithms/Running Time.md": "7f3b75ef2e10bd271e5618d4d713b429",
+    "Algorithms/Recurrence relation.md": "3d77ef8f9c272baba143dfc8ae5220f5",
+    "Algorithms/Reasonable time.md": "f945b3897b08c966c230a6d80e921eab",
+    "Algorithms/Pseudocode.md": "5c6ff00f678c08ee3a4978906c894873",
+    "Algorithms/Polynomial-Time reduction.md": "9deaeffd14952879ae5dc2fa8d30e7b6",
+    "Algorithms/Polynomial Functions.md": "39fd8d67c0db8dcb66f459ddd22d2d12",
+    "Algorithms/P - Problem.md": "6a403c57417177a94f6175d1356d8172",
+    "Algorithms/Nondeterministic.md": "f5708a5c6b793adde6a0920bdccec740",
+    "Algorithms/NP-Complete Problems.md": "0d5f059b900813223204767db89fd7e4",
+    "Algorithms/NP - Problem.md": "abc1492efe43e92c68dd6be4dde3202a",
+    "Algorithms/Master Theorem.md": "3b5207cd64a719a6df3b9932fb4c76cb",
+    "Algorithms/Little omega.md": "b0ddcd5898f67fc12f170126f0c95dfc",
+    "Algorithms/Little o.md": "1412250051692306757dcc7637a880c3",
+    "Algorithms/Intractable Algorithm.md": "16cccb7331a4479bf2ccf9d4471d6ba9",
+    "Algorithms/Hamiltonian Path.md": "7a3b9111cb5952b6e4b2a5bf8c5e4ea2",
+    "Algorithms/Eulerian Path.md": "e577932d1eee3b39bba8f1a6168fbdaa",
+    "Algorithms/Efficiency.md": "e48f8347ab3f7c741c6cef5e98f11d48",
+    "Algorithms/Decision Problems.md": "968835935b21061ec27c067185c4f33c",
+    "Algorithms/Data Structures.md": "6edada4c340cd974afb331210f08f085",
+    "Algorithms/Data Flow Diagram.md": "e4b9f7d9dce6a7fae55e80c10dcd95c5",
+    "Algorithms/Certificate.md": "78e9e4ef6b3806a7fbda9b38b4fbbc12",
+    "Algorithms/Big Theta.md": "850fbfeca5ae63035f8fee29e558448b",
+    "Algorithms/Big Omega.md": "d06aa01b3deeff606e3495434d276264",
+    "Algorithms/Big O.md": "4269570371975274bf2ad3b92ecdd1a9",
+    "Algorithms/Asymptotic Notation.md": "a09b7f968cdee0a34374f7f54172acc1",
+    "Algorithms/Algorithms Excercise.md": "4a54b078933477d213838ed95c7b6949",
+    "Algorithms/Algorithm.md": "ca0cc5cd7270dce8eeb09ae752d3463b",
+    "Kernel.md": "6c5f68d84db4755fd1e49b2b5c917fff",
+    "Operating System/Kernel.md": "8e53780eecffe385888edb6b2438965c",
+    "Machine Learning/Support Vector Machines.md": "efa3a7b808f31a4fce9c45b2f796850d",
+    "Hyperplane.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Process.md": "f4285412457e91152bb2f450f2024b2c",
+    "PRI.md": "2b511a7e9237c36641338571bef576dc",
+    "PCB.md": "3317790700d5d285824472757f0b153d",
+    "Memory.md": "6496156d0e7f1ec3178e56d628cf4e4a",
+    "NI.md": "efb67d4d865b86d78e85ada02866dd35",
+    "subroutine.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Program Counter.md": "3d5b3911b398b647acbef03a207b3c89",
+    "Process State.md": "ebe6177122175fa86277a8282eb0e557",
+    "Alphabets.md": "27020cd585d0f519193e7e802f2529c7",
+    "Operating System/subroutine.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Operating System/Program Counter.md": "3d5b3911b398b647acbef03a207b3c89",
+    "Operating System/Process State.md": "ebe6177122175fa86277a8282eb0e557",
+    "Operating System/Process.md": "8717bc367d0a87fe5f13cc9d516c5b2f",
+    "Operating System/PRI.md": "2b511a7e9237c36641338571bef576dc",
+    "Operating System/PCB.md": "3317790700d5d285824472757f0b153d",
+    "Operating System/NI.md": "efb67d4d865b86d78e85ada02866dd35",
+    "Operating System/Memory.md": "6496156d0e7f1ec3178e56d628cf4e4a",
+    "Operating System/Linux.md": "df20519e18c1b1856588985e533e59f7",
+    "Machine Learning/Hyperplane.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "String.md": "00d78ba3c5bf78ad40763738e71db6ad",
+    "Pipeline.md": "be6dbd8e4c1f3e8c23ab6a01faf83328",
+    "Theory of computation/String.md": "00d78ba3c5bf78ad40763738e71db6ad",
+    "Theory of computation/Alphabets.md": "27020cd585d0f519193e7e802f2529c7",
+    "Buffer.md": "4b74b41815ba088614bbc2c6fa86eb37",
+    "verbes réguliers.md": "bd49cc03c6f5b336015f1e8bcfae2ba5",
+    "Operating System/Pipeline.md": "be6dbd8e4c1f3e8c23ab6a01faf83328",
+    "Operating System/Buffer.md": "f9a3438f55355e9d3cce3b45f142ee35",
+    "Algorithms/Loop Invariant.md": "68b329da9893e34099c7d8ad5cb9c940",
+    "Message Passing.md": "6e7e18264066762d5ca2dd3f88393ab1",
+    "Shared Memory.md": "054f3ab119dcc7ff99797b53fb1833f2",
+    "Port.md": "093e5995bbcebcc6977cda78e3b762b8",
+    "Terminal.md": "0d825b2dc26cebdfa9e4822e0e8de4b0",
+    "Operating System/Shared Memory.md": "054f3ab119dcc7ff99797b53fb1833f2",
+    "Operating System/Port.md": "093e5995bbcebcc6977cda78e3b762b8",
+    "Operating System/Message Passing.md": "6e7e18264066762d5ca2dd3f88393ab1",
+    "Frances/verbes réguliers.md": "bd49cc03c6f5b336015f1e8bcfae2ba5",
+    "Frances/README.md": "1e23dafb760b26e668789995ad077d12",
+    "principios_de_usabilidad.md": "bbbb0261dec6d8b57a1a11723f6aa9c0",
+    "Operating System/Terminal.md": "e891e6d6fbb504f9f6221c1dbc728098"
+  },
+  "fields_dict": {
+    "Basic-a79c1": [
+      "Front",
+      "Back"
+    ],
+    "Básico": [
+      "Anverso",
+      "Reverso"
+    ],
+    "Básico (tarjeta invertida opcional)": [
+      "Anverso",
+      "Reverso",
+      "Añadir reverso"
+    ],
+    "Básico (teclear la respuesta)": [
+      "Anverso",
+      "Reverso"
+    ],
+    "Básico (y tarjeta invertida)": [
+      "Anverso",
+      "Reverso"
+    ],
+    "English new words-163e4": [
+      "Word",
+      "Cloze",
+      "Phonetic symbol",
+      "Audio",
+      "Definition",
+      "Extra information",
+      "Picture",
+      "Synonyms"
+    ],
+    "Respuesta anidada": [
+      "Texto",
+      "Reverso Extra"
+    ]
+  }
+}
