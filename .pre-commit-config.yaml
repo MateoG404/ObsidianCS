@@ -1,8 +1,19 @@
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.2.0
+  # Websec hook is MANDATORY, DO NOT comment it.
+  - repo: https://github.com/melisource/fury_websec-git-hooks
+    rev: v2.0.0
     hooks:
-    -   id: trailing-whitespace
-    -   id: end-of-file-fixer
-    -   id: check-yaml
-    -   id: check-added-large-files
+      - id: pre_commit_hook
+        stages: [commit]
+      - id: post_commit_hook
+        stages: [post-commit]
+
+  # Datasec hook is MANDATORY, DO NOT comment it.
+  - repo: https://github.com/melisource/fury_datasec-git-hooks
+    rev: 1.2.2
+    hooks:
+      - id: pre_commit_hook
+        stages: [commit]
+        verbose: true
+      - id: post_commit_hook
+        stages: [post-commit]
