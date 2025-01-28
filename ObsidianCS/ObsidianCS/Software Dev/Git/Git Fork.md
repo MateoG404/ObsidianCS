@@ -1,1 +1,0 @@
-When we are using [[Git]] and collaborating in an [[Open source]] project, we made a **git clone** to get the code of the project and make the changes that we want to develop a feature. That thing is called **fork**, get a code and make changes but the changes that we do doesn't appear in the [[Repository]] if we don't make a [[Pull Request]]
