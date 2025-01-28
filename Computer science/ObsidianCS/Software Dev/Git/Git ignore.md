@@ -1,0 +1,1 @@
+When we are using [[Git]] in our project sometimes we create, edit and use different [[Binary Files]] that can't be uploaded to our [[Repository]] as a **good programming practice**, so we use the file **.gitignore**  to ***ignore*** put all the path or files that we don't want to upload to the [[Repository]].

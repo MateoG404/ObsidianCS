@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "2ad3941bc275c5b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f53fedd9b1f7aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df0ccb08d54af2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symmetric-key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symmetric-key"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33355188afb1e5b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ba74622d438c14e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b36c0d2a6fdfb619",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48b1ef57481c5c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "symetric ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02f5ff9111bc9dde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ce21a33e2c58e09",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a08dd093dec100f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9987ab3b2adcc29f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Symmetric-key.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Symmetric-key"
+            }
+          },
+          {
+            "id": "fc765beb71395cc0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Symmetric-key.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Symmetric-key"
+            }
+          },
+          {
+            "id": "64b93cbe3b9cae39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c3d96e863f65b73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Symmetric-key.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Symmetric-key"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0df0ccb08d54af2b",
+  "lastOpenFiles": [
+    "ObsidianCS/Software Dev/Cryptography/Block Ciphers.md",
+    "Symmetric-key.md",
+    "ObsidianCS/Software Dev/Git/Public and Private Keys.md",
+    "asymmetric cryptographic.md",
+    "ObsidianCS/Maths/Algebra/Modulation.md",
+    "ObsidianCS/Maths/Mathematics.md",
+    "ObsidianCS/Software Dev/Cryptography/Cryptograhpy.md",
+    "Ink/Writing/2025.1.19 - 19.00pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "UNAL/Exams/Parcial 1 cripto.md",
+    "UNAL/Exams/Untitled.md",
+    "UNAL/Exams",
+    "Exams",
+    "Untitled",
+    "UNAL",
+    "ObsidianCS/Software Dev/Cryptography/Caesar Cypher Algorithm.md",
+    "ObsidianCS/Software Dev/Cryptography/PlayFair Algorithm.md",
+    "ObsidianCS/Software Dev/Cryptography/One-Time Pad algorithm.md",
+    "ObsidianCS/Untitled.md",
+    "README.md",
+    "ObsidianCS/Innovation & Bussiness/Virtual Environments.md",
+    "2025-01-19.md",
+    "Graph.md",
+    "Graphs.md",
+    "Untitled.canvas",
+    "ObsidianLogo.png"
+  ]
+}

@@ -1,0 +1,1 @@
+The Symetric-key is an encryption schema used to encript message using the same key between the users. 

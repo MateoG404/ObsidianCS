@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "cf12c8995dafab4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "533c90f5afc6d724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ca55f66ecec2f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNAL/Exams/Resumen Parcial 1 Cripto.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resumen Parcial 1 Cripto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b914963dea57bdc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "26dda97653100fe3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "22036a6db209fc66",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Proxy",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2b4335e40486a40e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2d803407f0aca736",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e5031cc0ae9fbc6a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e627a1128090ca60",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "UNAL/Exams/Resumen Parcial 1 Cripto.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "aad65ab68c840d1a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e66347a84cba8dad",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26dda97653100fe3",
+  "lastOpenFiles": [
+    "UNAL/Exams/Resumen Parcial 1 Cripto.pdf",
+    "README.md",
+    "UNAL/Exams/Parcial 1 cripto.md",
+    "ObsidianCS/Software Dev/Cryptography/asymmetric cryptographic.md",
+    "Ink/Writing/2025.1.19 - 19.00pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "UNAL/Exams",
+    "UNAL",
+    "Test mateo",
+    "ObsidianLogo.png",
+    "ObsidianCS/Software Dev/CiberSecurity/Proxy.md",
+    "Untitled.canvas",
+    "2025-01-19.md",
+    "ObsidianCS/Frances/subjonctif2 (3)_230925_140433.pdf",
+    "ObsidianCS/Software Dev/DevOps/Release Process.md",
+    "ObsidianCS/Software Dev/Golang/Select.md",
+    "ObsidianCS/Software Dev/Observability/Tags.md",
+    "ObsidianCS/Software Dev/CiberSecurity/Intruder.md",
+    "ObsidianCS/Software Dev/Golang/Maps.md",
+    "ObsidianCS/Software Dev/Data Bases/Mirrors.md",
+    "ObsidianCS/Software Dev/Golang/Stringers.md",
+    "ObsidianCS/Software Dev/Golang/Package database-sql.md",
+    "ObsidianCS/Software Dev/Data Bases/Temporary Tables.md",
+    "ObsidianCS/Software Dev/DevOps/Continuous Integration.md",
+    "ObsidianCS/Software Dev/Golang/Pointers.md",
+    "ObsidianCS/Software Dev/ElasticSearch/Mapping.md",
+    "ObsidianCS/Software Dev/Golang/Package go-txb.md",
+    "ObsidianCS/Software Dev/CiberSecurity/Threat Model.md",
+    "ObsidianCS/Software Dev/Golang/Embedded Structures.md",
+    "ObsidianCS/Software Dev/Golang/Encoder & Decoder.md",
+    "ObsidianCS/Software Dev/Testing/Test Development Design - TDD.md",
+    "ObsidianCS/Software Dev/Data Bases/JOIN.md",
+    "ObsidianCS/Software Dev/Testing/Code Coverage.md",
+    "ObsidianCS/Software Dev/Theory of computation/String.md",
+    "ObsidianCS/Software Dev/Theory of computation/AutomatasFinitos.xopp",
+    "ObsidianCS/Images/Pasted image 20240409094928.png",
+    "ObsidianCS/Images/Pasted image 20231228094704.png",
+    "ObsidianCS/Images/Pasted image 20230718095710.png",
+    "ObsidianCS/Images/Pasted image 20240110072100.png",
+    "ObsidianCS/Frances/Temas B1.xopp",
+    "ObsidianCS/Images/Pasted image 20231006124759.png",
+    "ObsidianCS/Images/Pasted image 20240223113821.png",
+    "ObsidianCS/Images/Pasted image 20231114113312.png",
+    "ObsidianCS/Images/Pasted image 20240103123209.png",
+    "ObsidianCS/Images/Pasted image 20231219105416.png"
+  ]
+}
