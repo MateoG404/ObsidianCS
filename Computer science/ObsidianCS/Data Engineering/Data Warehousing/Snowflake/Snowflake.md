@@ -18,3 +18,6 @@ It is SaaS to manage [[Data Warehouse]] [[multicloud]]. It functions as a centr
 
 ## How Snowflake moves data from cloud to Snowflake
 ![[Pasted image 20260521180736.png]]
+
+## What are the snowflake stages?
+[[Snowflake stage]]
