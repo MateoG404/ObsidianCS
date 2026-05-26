@@ -1,7 +1,7 @@
 
-## What are the [[Temporary Tables]] in [[Data Bases]]?
+## What are the [[Temporary Tables]] in [[DataBase]]?
 
-The [[Temporary Tables]] are tables created by any user in our [[Data Bases]] to make some [[Unit test]], [[Testing]] or [[Request]] that are requeried many times. These tables are located in the [[RAM Memory]] for that reason, each time that the session ends, the [[Temporary Tables]] also end.
+The [[Temporary Tables]] are tables created by any user in our [[DataBase]] to make some [[Unit test]], [[Testing]] or [[Request]] that are requeried many times. These tables are located in the [[RAM Memory]] for that reason, each time that the session ends, the [[Temporary Tables]] also end.
 
 A powerful use is when we need to make a [[Request]] that spend a lot of time and is requeried many times per day, in those cases we can create [[Temporary Tables]] to get that information coming from a [[Request]] and saved in the [[Temporary Tables]].
 

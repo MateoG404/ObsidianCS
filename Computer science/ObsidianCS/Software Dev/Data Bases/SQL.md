@@ -1,14 +1,14 @@
 
 ## What is [[SQL]]?
 
-Is the [[Programming Language]] used to manipulate and use the [[Data Bases]]
+Is the [[Programming Language]] used to manipulate and use the [[DataBase]]
 
 
 ## Principal commands
 
 Using the [[DML]] we have the next commands
 
-1. **SELECT** Used to get the data from the [[Data Bases]]
+1. **SELECT** Used to get the data from the [[DataBase]]
 
 ![[Pasted image 20240124114615.png]]
 
@@ -21,7 +21,7 @@ Using the [[DML]] we have the next commands
 
 ![[Pasted image 20240124114744.png]]
 
-5. **DELETE** used to delete registers from the [[Data Bases]]
+5. **DELETE** used to delete registers from the [[DataBase]]
 
 ![[Pasted image 20240124114817.png]]
 

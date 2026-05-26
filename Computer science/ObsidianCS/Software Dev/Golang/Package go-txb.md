@@ -1,14 +1,14 @@
 
 ## What is the [[Package go-txb]] in [[GO]]?
 
-It's a package used to [[Testing]] in [[GO]] oriented to the [[Data Bases]], this [[Package]] can use different [[SQL]] engines like MySQL, SQLite, etc...
+It's a package used to [[Testing]] in [[GO]] oriented to the [[DataBase]], this [[Package]] can use different [[SQL]] engines like MySQL, SQLite, etc...
 
 The rollback function is not implemented in [[Tables]] with **autoincremental** ID
 
 
 ## How to create [[Integration Testing]] in [[GO]]?
 
-1. Create an **init function** *(this function always is executed before the main function)* to configure the [[Data Bases]]
+1. Create an **init function** *(this function always is executed before the main function)* to configure the [[DataBase]]
 
 ```Go
 func init(){

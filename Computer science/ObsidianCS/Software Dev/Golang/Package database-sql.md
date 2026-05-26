@@ -1,7 +1,7 @@
 
-## What is the [[Package]] [[Data Bases]] [[SQL]] in [[GO]]?
+## What is the [[Package]] [[DataBase]] [[SQL]] in [[GO]]?
 
-It's a **native** [[Package]] in [[GO]] created to interact with the [[SQL]] [[Data Bases]] allowing the easy use of the resources and the [[Repository]]. This package has the capacity to detect [[SQL Injection]] and manage the [[Driver]] for the [[Data Bases]] allowing the [[ACID]] principles.
+It's a **native** [[Package]] in [[GO]] created to interact with the [[SQL]] [[DataBase]] allowing the easy use of the resources and the [[Repository]]. This package has the capacity to detect [[SQL Injection]] and manage the [[Driver]] for the [[DataBase]] allowing the [[ACID]] principles.
 
 All the [[Request]] are executed in another layer of our application, specific in the [[TCP]] layer
 

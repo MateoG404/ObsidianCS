@@ -1,6 +1,6 @@
-## What is [[Normalization]] in [[Data Bases]]?
+## What is [[Normalization]] in [[DataBase]]?
 
-It's the [[Process]] of organize in a better way the [[Data Bases]] following some rules in order to guarantee the [[ACID]] principles
+It's the [[Process]] of organize in a better way the [[DataBase]] following some rules in order to guarantee the [[ACID]] principles
 
 ## Levels of Normalization
 

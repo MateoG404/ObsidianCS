@@ -1,4 +1,4 @@
-## What is [[Document Search]] in [[Data Bases]]?
+## What is [[Document Search]] in [[DataBase]]?
 
 
 [[Document Search]] refers to the process of searching and retrieving specific information within documents. In this context, a "document" can refer to any type of file or content containing structured or unstructured information, such as text, images, videos, PDFs, presentations, and more. **This information is not saved in a binary file and used when we dont need [[Consistency]]**

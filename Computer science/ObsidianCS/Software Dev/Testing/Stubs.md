@@ -11,7 +11,7 @@ The [[Stubs]] and [[Mock]] are so similar for the implementation using [[Interfa
 
 ## Example
 
-We have a [[Data Bases]] hard to simulate using a [[Mock]], for that reason we create a [[Stubs]] to simulate the behavior
+We have a [[DataBase]] hard to simulate using a [[Mock]], for that reason we create a [[Stubs]] to simulate the behavior
 
 ```Go
  type DatabaseService interface {

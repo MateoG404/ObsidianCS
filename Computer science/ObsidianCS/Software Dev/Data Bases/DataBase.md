@@ -1,8 +1,8 @@
-## What is a [[Data Bases]]?
+## What is a [[DataBase]]?
 
 It's a [[data set]] where we can store information, make [[Request]] and do more of this with that information.
 
-The [[Data Bases]] have [[columns]] and [[rows]] and the most used [[Programming Language]] used in the [[Data Bases]] is [[SQL]]
+The [[DataBase]] have [[columns]] and [[rows]] and the most used [[Programming Language]] used in the [[DataBase]] is [[SQL]]
 
 ## Example
 

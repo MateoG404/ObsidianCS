@@ -1,7 +1,7 @@
 
 ## What is the Change Data Capture?
 
-[[Change Data Capture]] is a mechanism used in [[Data Bases]] to notify changes produces in the [[Tables]] or the data. When a change occurs some actions are executed depend on each change.
+[[Change Data Capture]] is a mechanism used in [[DataBase]] to notify changes produces in the [[Tables]] or the data. When a change occurs some actions are executed depend on each change.
 
 We can implement the changes using [[Triggers]]
 

@@ -18,4 +18,4 @@ Also, the [[Response]] have a [[Header]] that have the same functionalities like
 + **Content-Type**
 + **Content-Length**
 + **Set-cookie** : This header is used to send the cookies to the [[Client]]
-+ **Location**: Is the [[Response]] about the new data added in the [[Data Bases]], this could have the information about where is saved the data or the url of that.
++ **Location**: Is the [[Response]] about the new data added in the [[DataBase]], this could have the information about where is saved the data or the url of that.

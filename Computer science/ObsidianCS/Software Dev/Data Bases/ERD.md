@@ -3,7 +3,7 @@
 
 * ERD (Entity Relation Diagram)
 
-A [[ERD]] is a diagram used in the [[Data Bases]] to show the structure of a [[SQL]] DB where all the [[Tables]] have **Entities** and **Relations** with another [[Tables]]
+A [[ERD]] is a diagram used in the [[DataBase]] to show the structure of a [[SQL]] DB where all the [[Tables]] have **Entities** and **Relations** with another [[Tables]]
 
 We can make the relation using [[Primary and Foreign Keys]]
 

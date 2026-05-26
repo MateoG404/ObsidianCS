@@ -3,7 +3,7 @@
 
 In [[Test Double]] we need to simulate some [[components]] before to [[Deploy]]. In those case we use a [[Fake]] to simulate all the behavior in a fake scenario
 
-We can use when we need to verify a [[Data Bases]] but not use the [[Data Bases]]
+We can use when we need to verify a [[DataBase]] but not use the [[DataBase]]
 
 
 ## Example

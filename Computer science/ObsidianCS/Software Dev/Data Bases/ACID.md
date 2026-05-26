@@ -1,6 +1,6 @@
 ## What is the principle [[ACID]]?
 
-The principle [[ACID]] in [[SQL]] [[Data Bases]] was designed to guarantee the [[Request]] and the use of [[Data Bases]] in the real World
+The principle [[ACID]] in [[SQL]] [[DataBase]] was designed to guarantee the [[Request]] and the use of [[DataBase]] in the real World
 
 ## A (Atomicity)
 
@@ -10,7 +10,7 @@ Ex: A request to get the money in the bank, all the process have to be solved an
 
 ## C (Consistency)
 
-Consistency is the rule created to verify and guarantee all the rules to use the [[Data Bases]]
+Consistency is the rule created to verify and guarantee all the rules to use the [[DataBase]]
 
 ## I (Isolation)
 
@@ -18,6 +18,6 @@ All the [[Request]] must be executed in isolation in a sequential or in [[Parall
 
 ## D (Durability)
 
-The [[Data Bases]] after do some [[Request]] must store the changes and the different consults.
+The [[DataBase]] after do some [[Request]] must store the changes and the different consults.
 
 ![[Pasted image 20240127192938.png]]

@@ -3,7 +3,7 @@
 
 - CAP ([[Consistency]],[[Availability]],[[Partition-Tolerance]])
 
-In [[Computer Science]] exists a theorem which announce that a [[Data Bases]] cannot have [[Consistency]] and [[Availability]] where we need [[Partition-Tolerance]]. That means that we can only have two principles, because when applying all three, properties of some are lost.
+In [[Computer Science]] exists a theorem which announce that a [[DataBase]] cannot have [[Consistency]] and [[Availability]] where we need [[Partition-Tolerance]]. That means that we can only have two principles, because when applying all three, properties of some are lost.
 ![[Pasted image 20240124074916.png]]
 
 ## Principles

@@ -1,7 +1,7 @@
 
-## What is [[KVS Data Bases]] [[Data Bases]]?
+## What is [[KVS Data Bases]] [[DataBase]]?
 
-**KVS DB** typically stands for **"Key-Value Store [[Data Bases]]."** A Key-Value Store is a type of [[NoSQL]] database that stores and retrieves data as key-value pairs. In this database model, each data entry consists of a unique key and its corresponding value. This simple and efficient structure allows for fast and scalable data access.
+**KVS DB** typically stands for **"Key-Value Store [[DataBase]]."** A Key-Value Store is a type of [[NoSQL]] database that stores and retrieves data as key-value pairs. In this database model, each data entry consists of a unique key and its corresponding value. This simple and efficient structure allows for fast and scalable data access.
 
 The main aspects for the KVS are :
 

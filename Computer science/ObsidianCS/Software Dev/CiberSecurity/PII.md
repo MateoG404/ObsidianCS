@@ -6,4 +6,4 @@ Example:
 + Mobile
 + Photos
 
-This information can be saved in different [[Data Bases]]
+This information can be saved in different [[DataBase]]

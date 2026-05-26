@@ -1,6 +1,6 @@
 ## What is [[ElasticSearch]]?
 
-[[ElasticSearch]] is a search engine used in the [[Document Search]] used in [[Data Bases]] to store information in a [[JSON]] model using [[HTTP]]
+[[ElasticSearch]] is a search engine used in the [[Document Search]] used in [[DataBase]] to store information in a [[JSON]] model using [[HTTP]]
 
 ## Logical Configuration
 
