@@ -21,7 +21,7 @@ There are two types of snowflake stages:
 
 ## Snowflake COPY INTO Stage Table
 
-![[Pasted image 20260525115134.png]]
+![[Pasted image 20260525120418.png]]
 As you can see in the imagen, the **COPY INTO** statement in Snowflake is a command used to allow the user copy data from a **INTERNAL / EXTERNAL** stage zone to a **SNOWFLAKE TABLE** 
 
 ![[Pasted image 20260525115323.png]]
@@ -30,5 +30,5 @@ As you can see in the imagen, the **COPY INTO** statement in Snowflake is a comm
 
 1. **Create a stage for each external data source**: This can help to transfer data from external/internal zone to a Snowflake table
 2. Use the staging table Snowflake: Before to load all the data in a Snowflake table is better if we first load the data into a stage table to validate that everything is ok
-3. 
-## Difference between Snowflake Table and Stage
+
+
