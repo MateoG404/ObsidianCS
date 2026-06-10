@@ -1,0 +1,1 @@
+In [[Databricks]] is the virtual space to create, load and organice queries, notebooks and some other resources related with the projects
