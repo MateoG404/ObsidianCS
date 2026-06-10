@@ -23,6 +23,6 @@ We have 4 principal moments that we need to use to solve ours app's problems.
 
 1. [[IaaS - Infrastructure as a Service]]
 2. [[PaaS - Platform as a Service]]
-3. [[SaaS - Software as a Service]]
+3. [[SaaS]]
 
 	![[Pasted image 20230828103214.png]]
