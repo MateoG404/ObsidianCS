@@ -1,12 +1,12 @@
 
 ## What are the [[Snowflake stage]]?
 
-The [[stage]] in [[Snowflake]] are a logical reference to where files live. So that means, *"A hidden internal bucket managed entirely by Snowflak"*
+The [[stage]] in [[Snowflake]] are a logical reference to where files live. So that means, *"A hidden internal bucket managed entirely by Snowflake"*
 
 There are two types of snowflake stages:
 
 1. Internal Snowflake: 
-	1. The data is phisically store inside the [[Snowflake]]
+	1. The data is physically store inside the [[Snowflake]]
 	2. We don't need to use a Cloud provider, Snowflake generates automatically the encryption
 	3. There are **file storage** not **tables**
 	4. We can use for small things such as: Testing, PoCs, small ETLs, 
